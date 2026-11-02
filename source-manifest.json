@@ -1,6 +1,6 @@
 {
   "addon": "ProfPaden",
-  "version": "0.20.28-rc1",
+  "version": "0.20.29-rc1",
   "interface": 16001,
   "files": [
     {
@@ -23932,246 +23932,6 @@
       "external": false
     },
     {
-      "path": "Assets/Maps/arathi.tga",
-      "bytes": 786476,
-      "sha256": "605d1f0f8136613a4b2d0efa3a3f5adc1eef5a73c9bcf940ea6d3711b8076c41",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/area-10.tga",
-      "bytes": 786476,
-      "sha256": "c7969c05737ccefcd8252e4e3a8fd1945d226a13d9c9ec42649cd422b6132972",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/area-1377.tga",
-      "bytes": 786476,
-      "sha256": "669d877366f8e05ad95bc10a3df3e299a2cefd64598cf52a7d253b08f1781fec",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/area-15.tga",
-      "bytes": 786476,
-      "sha256": "3c7f5c794aaaa171616f2a535a6f97feddc4acd6c48aa941ffa3648250436c0d",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/area-16.tga",
-      "bytes": 786476,
-      "sha256": "a6552b5190c90e528b326853425be36db6edbd22301cbe68e12ce4f1735cc5e1",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/area-1638.tga",
-      "bytes": 786476,
-      "sha256": "d3fd30770083236994f088e090e1787959508341efe178fe3c5e0f515bbeedbe",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/area-1977.tga",
-      "bytes": 786476,
-      "sha256": "f89dea0cd4e606474b9c6491be63f648a8c21246d4485369541a59113a80ab41",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/area-28.tga",
-      "bytes": 786476,
-      "sha256": "def4116aee270bb3c8ecde080c0d2eb3d7ca8fcee1b2b6cfbfbe07d4349704f8",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/area-3.tga",
-      "bytes": 786476,
-      "sha256": "35da5ddaaafa9c30aa4c476141329fd11e8f12c4d6b8a2f03dc1fc18c1b99e50",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/area-357.tga",
-      "bytes": 786476,
-      "sha256": "9e0d9fec7e901208f2a35b8bf4cb5b6546dcc8f53c18448859b37cf8b770fae1",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/area-36.tga",
-      "bytes": 786476,
-      "sha256": "e5650dd2ef18950a03683c9c10732d69161221dd270683279ac4cbdef844eac6",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/area-40.tga",
-      "bytes": 786476,
-      "sha256": "4a1b3bf0aaf112260447af5266686e653c8484d38c324598a983dd9b99234ff4",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/area-8.tga",
-      "bytes": 786476,
-      "sha256": "aa8b2f29fc6eb2211a27eb88bb943fcd8fb0bf3f2cb6265022db6e04269706c5",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/ashenvale.tga",
-      "bytes": 786476,
-      "sha256": "7040a6811a855d6f95797060f3ad6c07dcbc1778e5e943948051192ec224443d",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/barrens.tga",
-      "bytes": 786476,
-      "sha256": "2fbc9cef94a29b44b42b7c457079b2f6bc89570dceef0cd28e86f378b7f34306",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/blasted-lands.tga",
-      "bytes": 786476,
-      "sha256": "8a295d2dfb9ce888d2724a986978523f2f8d9b16d5ac37392096ef71885028ea",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/burning-steppes.tga",
-      "bytes": 786476,
-      "sha256": "50c9b48b69bb5cc8941c9231703529ae4b8499bf6423497dd29853e6740389ad",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/darkshore.tga",
-      "bytes": 786476,
-      "sha256": "0feb278891325ca78958c862be20baff27375f0961ffb0f4b91e5850cc85b69a",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/desolace.tga",
-      "bytes": 786476,
-      "sha256": "a3ff991364da6547ada63c10e8ed28babdc677986bc497d25e94ea9fcd1b6e48",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/dun-morogh.tga",
-      "bytes": 786476,
-      "sha256": "ec9753a36bf538191d208a48a7609bb979d1fdd39dafe86546c95cedaca4601f",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/durotar.tga",
-      "bytes": 786476,
-      "sha256": "5d6671c4154332d9f3042fa5e6075060946c2ab7e58f0a27bf34ed9f8df569c0",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/eastern-plaguelands.tga",
-      "bytes": 786476,
-      "sha256": "12f0540f11fadf8a77b32f3612258820b800e4042a24306e7e09ac251d4fffb8",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/elwynn.tga",
-      "bytes": 786476,
-      "sha256": "1fd3c78f81e618a436981a278d825987a35a03ded159dc2b0261cf13dd33a8b1",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/felwood.tga",
-      "bytes": 786476,
-      "sha256": "eb4b8a1c09c8fa8dd66c8ef43badc43bd224eefda630ae757948732f1768501a",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/hillsbrad.tga",
-      "bytes": 786476,
-      "sha256": "1dd589bc7d4bf81c04a65f9f3a669a5efac29ec4db3410c3f81ba35ce522cdd1",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/hinterlands.tga",
-      "bytes": 786476,
-      "sha256": "5fe62f5918fe912327b15f82245de86213fe222e76c0232b976cc1c8ddcebe69",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/loch-modan.tga",
-      "bytes": 786476,
-      "sha256": "05467a3f007524d343230603f95e09ce8dc3772320794a4d8e75247bcd46bf77",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/mulgore.tga",
-      "bytes": 786476,
-      "sha256": "d7db76d1142b7543ea30c2573edb868322fccf8285d6976aa6226a6c1b5bc829",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/redridge.tga",
-      "bytes": 786476,
-      "sha256": "366bea5ccd55efb07af8e9e4724a5d33bda779b8cfbf4b5c0ae284091b7a9c0c",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/searing-gorge.tga",
-      "bytes": 786476,
-      "sha256": "aca84555ad10ab099b351dd9ea8dcd92d1304ad2829ea914dd787dfaefa2ed01",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/silverpine.tga",
-      "bytes": 786476,
-      "sha256": "121fe65933e2ff3b7eaeab4d83b1324e1b32118c0a12e5e54bbd582681a13dd3",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/stonetalon.tga",
-      "bytes": 786476,
-      "sha256": "25aa6c16b881079e2bac865eda2066a2df426e6fe6aef634b70b83d74381658e",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/stranglethorn.tga",
-      "bytes": 786476,
-      "sha256": "a34152142158587f1bee4413b691ca92f013ca1d747985d7cd158f7ad07bf76d",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/tanaris.tga",
-      "bytes": 786476,
-      "sha256": "67718161f98e07a0bab39f8c2df806dd57d40b9d4ac334d82a846f6898d1daa7",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/teldrassil.tga",
-      "bytes": 786476,
-      "sha256": "f7fc4cc00adf55db60e2717f863a36bccbff37ebb765d3b7901fb10b560e56d7",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/thousand-needles.tga",
-      "bytes": 786476,
-      "sha256": "4515699c29eabf254426bf63f9ae16c9d8b52ef4b8e91a509370da99a718e060",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/tirisfal.tga",
-      "bytes": 786476,
-      "sha256": "8ccc3358ce245f67ff5432d8fcedc99cac27ee1bd10c796ca5cf33c1af43b227",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/ungoro.tga",
-      "bytes": 786476,
-      "sha256": "d0f96cf440a144867b5c9fe3de77607d74950ee783f0bba9d27d3e9f50f227c4",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/wetlands.tga",
-      "bytes": 786476,
-      "sha256": "db8d993eb9cba0dacbdd3c7bbadaca8f8b1f5be426294ef3f74f7165ec6870f9",
-      "external": true
-    },
-    {
-      "path": "Assets/Maps/winterspring.tga",
-      "bytes": 786476,
-      "sha256": "2f50718cb58c3f9e732493b0de1613315bf284ba62faf8e88e2922a96fe724db",
-      "external": true
-    },
-    {
       "path": "Assets/Skinning/item-11512-1448.tga",
       "bytes": 65580,
       "sha256": "62e62e7b0994ef23f5c1185650440f4a7efed91635f281f0ac251febe19c0ca6",
@@ -29902,12 +29662,6 @@
       "external": false
     },
     {
-      "path": "Assets/Zephras/map.tga",
-      "bytes": 786476,
-      "sha256": "add2e872441749be85e163092042f409e1311b94ce159e989629162ae801d03f",
-      "external": true
-    },
-    {
       "path": "Assets/Zephras/npc-250868-16593.tga",
       "bytes": 262188,
       "sha256": "843cb2922989a6599065525908cd4fbefa9ec9e21090e22bb81edf1dc3ad09f8",
@@ -30065,8 +29819,8 @@
     },
     {
       "path": "Bindings.xml",
-      "bytes": 564,
-      "sha256": "1a5bea88d4d957bbc3ec420e9e1b98761fab17418a74ed0e976b1989453e6ff8",
+      "bytes": 292,
+      "sha256": "f9be4c1a262dbe871c25cd04db27aa98b11f8c130898386e008a828948821306",
       "external": false
     },
     {
@@ -30094,15 +29848,9 @@
       "external": false
     },
     {
-      "path": "Companions.lua",
-      "bytes": 323,
-      "sha256": "50b2e9f8ed88f69e89f7192bb53b675ae9b2e715c9db44c06b88a44b5d03331a",
-      "external": false
-    },
-    {
       "path": "Core.lua",
       "bytes": 11582,
-      "sha256": "5dff6e58f62b4f4d6a811b9797fc888c64a3fea53e03342219ab48e4425480ed",
+      "sha256": "0c2b96652c7c867281c0f91c6d6e1e8500ba63faeb5863d485bff307b8cf9841",
       "external": false
     },
     {
@@ -30143,8 +29891,8 @@
     },
     {
       "path": "Data/FieldGuide.lua",
-      "bytes": 14792,
-      "sha256": "dc66afc373b0ab2c753ac83a52affd14b9101dbcb6d9db51a89d50ee8118d961",
+      "bytes": 14715,
+      "sha256": "748d896605e48c491d29c87abdacfa3aa32046df873494773d03a2d5a5127eed",
       "external": false
     },
     {
@@ -30163,7 +29911,7 @@
       "path": "Data/GatherMateNodes.lua",
       "bytes": 253811,
       "sha256": "f9e5fd44d9e2864a96754a07ade110850351d3872a92535edfd33b9e5376cfd4",
-      "external": true
+      "external": false
     },
     {
       "path": "Data/GatherNodes.lua",
@@ -30305,8 +30053,8 @@
     },
     {
       "path": "GatherMaps.lua",
-      "bytes": 5401,
-      "sha256": "4eb457402d66c3012a00f3ed448a320b73ba36b41fd733cb85d0b26a17938472",
+      "bytes": 5511,
+      "sha256": "5c72f4b0e535776ae7304d90fde0869048260d20da96c5196d296c3dd588c358",
       "external": false
     },
     {
@@ -30352,6 +30100,12 @@
       "external": false
     },
     {
+      "path": "NativeMaps.lua",
+      "bytes": 2337,
+      "sha256": "424c23469a499b17df74aa09cda13a8da7dceb7c1e9cb769798114b55a498415",
+      "external": false
+    },
+    {
       "path": "Navigation.lua",
       "bytes": 15662,
       "sha256": "97cda38a4535b8b52cb56e01e6e1aa1933db45db338f0d36a6bb526f756f7518",
@@ -30377,8 +30131,8 @@
     },
     {
       "path": "ProfPaden.toc",
-      "bytes": 1893,
-      "sha256": "db5bed8cffebc8fd2df5bf8a31a81a7619847520f4105a98900e183b4dfac3d0",
+      "bytes": 1734,
+      "sha256": "d733112e1199db0c0a90c5065239bb83545b798190413e0464ab4c502a357852",
       "external": false
     },
     {
@@ -30448,51 +30202,21 @@
       "external": false
     },
     {
-      "path": "Vendor/BetterFishing/BetterFishing.lua",
-      "bytes": 12166,
-      "sha256": "c9a75f518d351b2c46acc3c32f41679bc3ed24ec137ad014b577635ed334610b",
-      "external": true
-    },
-    {
-      "path": "Vendor/BetterFishing/Settings.lua",
-      "bytes": 5971,
-      "sha256": "00b1bef9532f4744cd2ae301517c9140eb17d3fba75ac9f4c09011e199e81f03",
-      "external": true
-    },
-    {
-      "path": "Vendor/BetterFishing/fishingicon.blp",
-      "bytes": 3220,
-      "sha256": "270b6e5463ac6b1e15c6071c6a1ce4bc9d1c2dc7603b8d25792537df80a5e78c",
-      "external": true
-    },
-    {
       "path": "Vendor/CampingKit-LICENSE.txt",
       "bytes": 1271,
       "sha256": "0c415582cd4e0c4a7701d233a9c519ba0aa8fe1eb2cfdc6f2aa4dfd90886390f",
       "external": false
     },
     {
-      "path": "Vendor/NodeSight/Bindings.xml",
-      "bytes": 148,
-      "sha256": "defb25e21a038838249b90771973b556b4543ab2e67c8b80260e6acac49ecd2e",
-      "external": true
-    },
-    {
-      "path": "Vendor/NodeSight/NodeSight.lua",
-      "bytes": 171216,
-      "sha256": "6e4f96ef5b37531958588eca6a144f44eeb89bff4845028ab00244966585e036",
-      "external": true
-    },
-    {
-      "path": "Vendor/NodeSight/NodeSight.toc",
-      "bytes": 331,
-      "sha256": "eb0474900362f1a92475e086aff3ebc3a53cae19724aac94df1bc0ac8a14a400",
-      "external": true
-    },
-    {
       "path": "ZoneProfessions.lua",
       "bytes": 4228,
       "sha256": "f9173f5ec57b0f640b57c57534cef4dca85b1a783ac98e148446f6b13a28bb89",
+      "external": false
+    },
+    {
+      "path": "THIRD_PARTY.md",
+      "bytes": 2702,
+      "sha256": "cd10e28c9d93d44bd15b67ad4124958ccbc3fbf5ccdcd51bfe12a4e147168906",
       "external": false
     }
   ]

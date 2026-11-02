@@ -1,12 +1,14 @@
-# Third-party attribution
+# ProfPaden runtime sources and attribution
 
-ProfPaden combines original addon code, generated coordinate masks and interface artwork with normalized profession/source facts.
+This package contains ProfPaden code and compiled data, not the original research archives or copies of other addons.
 
-- Classic WoW Forever profession guides: CC BY 4.0, https://classicwowforever.com/professions/crafting/ . Adaptations include structured Lua records, route/acquisition summaries, per-craft reagents and UI categories. No endorsement is implied. See docs/SOURCES.md for source pages.
-- Camping Kit 1.4 by Doug Mansell: factual item/spell reference; the MIT notice is retained in ProfPaden/Vendor/CampingKit-LICENSE.txt. Camping Kit runtime and artwork are not included.
-- BetterFishing 63 by Yuyuli and NodeSight 1.3.3 by Krelock: excluded local dependencies, not relicensed or redistributed here. Projects: https://www.curseforge.com/wow/addons/better-fishing and https://www.curseforge.com/wow/addons/nodesight .
-- World of Warcraft game assets belong to Blizzard Entertainment. Copied map images are excluded; runtime icon references refer to installed game assets. Generated transparent coordinate overlays and original interface artwork are included.
-- Source facts retain attribution to Wowhead, ClassicDB, QuestieDB and other sources in runtime records and docs/SOURCES.md. Raw research archives and original third-party addon snapshots are not included.
-- The GatherMate-derived supplement is excluded while its supplied ARR/GPL metadata conflict remains unresolved.
+- BetterFishing and NodeSight are not included or loaded by ProfPaden. NodeSight can be installed separately and retains its own settings and keybindings.
+- World of Warcraft map textures are requested from the installed game by file ID. Copied map-background images, OpenMap's artwork, and raw heightmap PNG/F32 exports are not included. Blizzard retains its rights in game content.
+- ProfPadenRoutes includes compiled terrain-height grids from local client build 1.60.1.70450, plus coarse terrain hints derived from map imagery. These are terrain samples and heuristics, not a collision mesh or a guarantee of traversability. Unknown terrain remains unknown. Converting source material to Lua does not change its underlying rights.
+- The GatherMate-derived base retains 22,296 supplied Forever mining/herbalism coordinate records, node names and object mappings. It is compiled data from the supplied v2026-08-19 / generated 575 snapshot, not an independently collected ProfPaden dataset. No GatherMate runtime code, libraries or artwork are included. GatherMate2 / GatherMate2_Data contributors include kagaro, Xinhuan, nevcairiel, Spinx and Marrtin; authors vary by source package. The supplied main-addon metadata contains ARR/GPL differences and does not establish the license of the separate data snapshot. No new license or permission grant is asserted here. Project: https://www.wowace.com/projects/gathermate2_data
+- Profession guides and attributed reference circuits are adapted from Classic WoW Forever under CC BY 4.0: https://classicwowforever.com/professions/crafting/ and https://creativecommons.org/licenses/by/4.0/ . Adaptations include structured records, summaries and separately drawn overlays. This attribution does not extend that license to Blizzard artwork. No endorsement is implied.
+- Additional factual source relationships retain their provider labels and links, including Wowhead, QuestieDB and ClassicDB. Recorded locations are not assertions of current live spawns.
+- Camping Kit 1.4 by Doug Mansell supplied factual item/spell references. Its MIT notice is retained in ProfPaden/Vendor/CampingKit-LICENSE.txt. No Camping Kit runtime or artwork is bundled.
+- ProfPadenRoutes' optional OpenMap integration uses its public API; OpenMap is installed separately. The OpenMap MIT notice in the source repository applies only to its covered material, not this entire package or Blizzard assets.
 
-See LOCAL_DEPENDENCIES.md and source-manifest.json for the exact excluded inputs. Public access to this repository does not grant rights to those inputs.
+Public availability does not assign a blanket open-source license to this package or erase any source attribution.

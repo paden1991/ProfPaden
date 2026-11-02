@@ -1,52 +1,19 @@
 # ProfPaden
 
-Profession leveling, recipes, materials, economics and gathering guides.
-
-**WoW Forever · Interface 16001 · 0.20.28-rc1**
-
-Release candidate / beta. Live-game acceptance is still required.
-
-
-## WowUp release status
-
-An installable public WowUp release is on hold while redistribution permission for the local-only dependencies is resolved. Full functionality is being preserved; no incomplete or reduced-functionality ZIP is published. The public release builder refuses to package unresolved external files.
+WoW Forever, Interface 16001. Version 0.20.29-rc1 (release candidate).
 
 ## Installation
 
-This is a source repository with **48 local-only dependency files omitted**. A download of this repository alone is not the complete local addon bundle. Use a matching, lawfully obtained complete `ProfPaden` folder as the dependency input:
+Select Forever in WowUp, choose **Install from URL**, and enter `https://github.com/paden1991/ProfPaden`. The installable release asset ends in `-forever.zip` and contains one correctly named addon folder. Do not use GitHub's automatic source-code archive as an installable package.
 
-```sh
-python tools/build_local.py --local-addon "path/to/ProfPaden"
-```
+## Current package
 
-The script copies only manifest-listed dependency bytes, checks their SHA-256 hashes, and combines them with this source in a ZIP under `dist/`. It does not download files, modify the input, or change addon functionality. The resulting local bundle is not automatically cleared for public redistribution.
+ProfPaden retains profession leveling, material/source information, shopping and navigation. BetterFishing and NodeSight are no longer embedded; install NodeSight separately if wanted. It owns its settings and keybindings. Maps use textures already installed in WoW beneath ProfPaden's existing overlays.
 
-Open the addon with `/pp`.
+The GatherMate-derived numeric base is retained. Routes includes the existing compiled 43-map elevation data and numeric terrain hints. Raw research ZIPs, original heightmap images/F32 exports, copied map backgrounds and other addon bundles are excluded. These conversions do not change the underlying source rights; see [attribution](THIRD_PARTY.md).
 
-## Verification
+## Validation
 
-```sh
-python tools/build_local.py --verify-only
-```
+`python tools/build_release.py` verifies every runtime file against the reviewed SHA-256 manifest, packages one addon folder, and checks the TOC and ZIP. Use a matching `v<version>` tag to publish via GitHub Actions; manual dispatch accepts an existing reviewed tag.
 
-This checks the published runtime bytes against the reviewed source manifest. For repositories with external files, add `--local-addon` to verify the complete build. It is a source-integrity check, not live-game certification.
-
-## Related addons
-
-- [ProfPadenRoutes](https://github.com/paden1991/ProfPadenRoutes)
-- [ProfPadenClams](https://github.com/paden1991/ProfPadenClams)
-- [CounterCast](https://github.com/paden1991/CounterCast)
-- [CounterCastProbe](https://github.com/paden1991/CounterCastProbe)
-- [RAID](https://github.com/paden1991/RAID)
-
-## Ownership and provenance
-
-Public visibility does not assign a new open-source license. Existing third-party notices and applicable data licenses remain in force. Do not assume that excluded dependencies may be redistributed. No account SavedVariables, personal settings, raw research archives, credentials, or prior packaged releases are included.
-
-## Current interface
-
-The current design uses charcoal panels, bronze framing, larger native text and a Leveling tab. Sources are grouped into compact summaries with native Details buttons; original rates and location records remain available.
-
-The complete local bundle passed 69 regression suites before the source-summary refinement; seven affected suites and six new source checks then passed. Simulator mouse expand/collapse checks completed without Lua errors. These results apply to the complete local build.
-
-See [source attribution](docs/SOURCES.md). Historical references to research captures describe the local development archive; those captures are not published here.
+Lua regressions cover gathering, guides, source data, tracking, walking and terrain. The Forever simulator loads the package without the removed companions. Its native map texture assets show checkerboards in both ProfPaden and Blizzard's map; real-client map artwork and optional NodeSight coexistence still require live acceptance. This is not a live-game certification.
