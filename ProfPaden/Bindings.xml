@@ -1,0 +1,7 @@
+<Bindings>
+    <Binding name="PROFPADEN_GAMEPAD" header="PROFPADEN">ProfPaden:GamepadFocus()</Binding>
+    <Binding name="PROFPADEN_TOGGLE" header="PROFPADEN">ProfPaden:Toggle()</Binding>
+    <Binding name="PROFPADEN_CAMP" header="PROFPADEN">ProfPaden:ToggleCamp()</Binding>
+    <Binding name="BETTERFISHINGKEY" category="Better Fishing">if BetterFishing_Run then BetterFishing_Run() end</Binding>
+    <Binding name="NODESIGHT_SYMBOLS" header="NODESIGHT" category="ADDONS">if NodeSight_ToggleSymbols then NodeSight_ToggleSymbols() end</Binding>
+</Bindings>

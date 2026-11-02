@@ -1,0 +1,81 @@
+## Interface: 16001
+## Title: |cffffd100ProfPaden|r - Artisan's Field Guide
+## Notes: Forever profession routes, material planning, economics, quests and gathering companions.
+## Author: Paden
+## Version: 0.20.28-rc1
+## SavedVariables: ProfPadenDB, ProfPadenFishingDB, ProfPadenNodeDB
+## SavedVariablesPerCharacter: ProfPadenCharDB
+## OptionalDeps: BetterFishing, NodeSight, TradeSkillMaster, Auctionator, Auc-Advanced, TomTom, Questie, QuestieDB, OpenMap
+## IconTexture: Interface\Icons\Trade_BlackSmithing
+## Category: Professions
+
+Core.lua
+Data\Recipes.lua
+Data\Catalog.lua
+Data\FieldGuide.lua
+Data\Research.lua
+Data\GatherVisuals.lua
+Data\Details.lua
+Data\Suppliers.lua
+Data\Training.lua
+Data\GatherAtlas.lua
+Data\SourceUpdates.lua
+Data\CraftingMaterials.lua
+MaterialFilters.lua
+Data\GatherZones.lua
+Data\GatherNodes.lua
+Data\SkinningSources.lua
+Data\GatherMateNodes.lua
+Data\VendorSupplies.lua
+Data\ZoneProfessions.lua
+Data\ZephrasIsle.lua
+Data\RecipeCorrections.lua
+Data\CoveragePass2.lua
+Data\DropSources.lua
+Data\SkinningReferences.lua
+Data\GatherGuides.lua
+Data\ReleaseFacts.lua
+Adapter.lua
+ModernAdapter.lua
+Planner.lua
+Experience.lua
+Cheapest.lua
+MarketRoutes.lua
+MoneyRoutes.lua
+Sourcing.lua
+Costs.lua
+Catalog.lua
+CampFood.lua
+Camping.lua
+Minimap.lua
+QuestBridge.lua
+GatherAtlas.lua
+Data\HerbalismSkills.lua
+GatherSkills.lua
+GatherGuides.lua
+Materials.lua
+GatherDataAPI.lua
+GatherMaps.lua
+ZoneProfessions.lua
+Tooltips.lua
+Shopping.lua
+ShoppingRoutes.lua
+AuctionatorBridge.lua
+AuctionatorScan.lua
+ShoppingCancel.lua
+ShoppingUI.lua
+OpenMapBridge.lua
+Navigation.lua
+NavigationGoals.lua
+RouteStops.lua
+Details.lua
+ProfessionAccess.lua
+Theme.lua
+UI.lua
+Gamepad.lua
+GamepadKeyboard.lua
+Companions.lua
+Vendor\BetterFishing\Settings.lua
+Vendor\BetterFishing\BetterFishing.lua
+Vendor\NodeSight\NodeSight.lua
+
