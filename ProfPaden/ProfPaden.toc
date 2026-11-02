@@ -2,7 +2,7 @@
 ## Title: |cffffd100ProfPaden|r - Artisan's Field Guide
 ## Notes: Forever profession routes, material planning, economics, quests and gathering companions.
 ## Author: Paden
-## Version: 0.20.30-rc1
+## Version: 0.20.31-rc1
 ## SavedVariables: ProfPadenDB
 ## SavedVariablesPerCharacter: ProfPadenCharDB
 ## OptionalDeps: GatherMate2, GatherMate2_Data, NodeSight, TradeSkillMaster, Auctionator, Auc-Advanced, TomTom, Questie, QuestieDB, OpenMap

@@ -58,7 +58,7 @@ function P:ImportGatherMateNodes()
                 for _,category in ipairs({'Mining','Herb Gathering'}) do
                     local lookup=gm.nodeIDs[category]
                     local name=source.name
-                    local translated=vanilla and vanilla[name] or translations and translations[name]
+                    local translated=vanilla and rawget(vanilla,name) or translations and rawget(translations,name)
                     if type(translated)~='string' then translated=name end
                     local typ=type(lookup)=='table' and (lookup[translated] or lookup[name])
                     if type(typ)=='number' then

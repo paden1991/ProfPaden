@@ -247,7 +247,7 @@ function P:Refresh()
     for name,b in pairs(self.tabs) do b:SetEnabled(name~=self.tab) end
     self.modeButton:SetShown(self.tab=="Recipes" or self.tab=="Catalog" or self.tab=="Gather")
     self.modeButton:SetText(self.tab=="Gather" and ("Show: "..self:GatherViewLabel()) or self.tab=="Catalog" and ("Show: "..(self.catalogFilter or "all")) or ({guide="Route: Guided",bags="Route: In my bags",cost="Route: Cheapest",profit="Route: Profit",money="Route: Money-making",live="Route: Live alternatives",all="Route: All steps"})[self.mode])
-    local cheapest=not self:IsGatherGuide() and self.tab=="Recipes" and (self:IsOptimizedRoute() or self.RouteEntries and self.mode=="guide")
+    local cheapest=not self:IsGatherGuide() and self.tab=="Recipes" and (self:IsOptimizedRoute() or self.RouteEntries and self.mode=="guide" and self.skills[self.selectedProf]~=nil)
     local money=self.tab=="Recipes" and self.mode=="money"
     self.planGoal:SetShown(cheapest or money);self.planGoalLabel:SetShown(cheapest or money);self.planGoalLabel:SetText(money and "Batch:" or "Goal:")
     self.search:SetShown(not self:IsGatherGuide() and (self.tab=="Catalog" or self.tab=="Quests" or self.tab=="Gather"))

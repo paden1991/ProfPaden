@@ -1,0 +1,347 @@
+{
+  "suites": 68,
+  "tests": 1273,
+  "passed": 1273,
+  "results": [
+    {
+      "suite": "verify_campfire_spell",
+      "tests": 32,
+      "passed": 32
+    },
+    {
+      "suite": "verify_chances",
+      "tests": 8,
+      "passed": 8
+    },
+    {
+      "suite": "verify_clams",
+      "tests": 48,
+      "passed": 48
+    },
+    {
+      "suite": "verify_clarity",
+      "tests": 19,
+      "passed": 19
+    },
+    {
+      "suite": "verify_client_fixes",
+      "tests": 10,
+      "passed": 10
+    },
+    {
+      "suite": "verify_contours",
+      "tests": 26,
+      "passed": 26
+    },
+    {
+      "suite": "verify_coverage_pass2",
+      "tests": 13,
+      "passed": 13
+    },
+    {
+      "suite": "verify_crafting_materials",
+      "tests": 18,
+      "passed": 18
+    },
+    {
+      "suite": "verify_data_refresh",
+      "tests": 45,
+      "passed": 45
+    },
+    {
+      "suite": "verify_density_routes",
+      "tests": 15,
+      "passed": 15
+    },
+    {
+      "suite": "verify_details",
+      "tests": 12,
+      "passed": 12
+    },
+    {
+      "suite": "verify_dropdowns",
+      "tests": 9,
+      "passed": 9
+    },
+    {
+      "suite": "verify_elevation",
+      "tests": 19,
+      "passed": 19
+    },
+    {
+      "suite": "verify_external_workflows",
+      "tests": 4,
+      "passed": 4
+    },
+    {
+      "suite": "verify_farming",
+      "tests": 12,
+      "passed": 12
+    },
+    {
+      "suite": "verify_fixes",
+      "tests": 19,
+      "passed": 19
+    },
+    {
+      "suite": "verify_full_ground",
+      "tests": 52,
+      "passed": 52
+    },
+    {
+      "suite": "verify_gamepad",
+      "tests": 40,
+      "passed": 40
+    },
+    {
+      "suite": "verify_gather",
+      "tests": 18,
+      "passed": 18
+    },
+    {
+      "suite": "verify_gather_completeness",
+      "tests": 18,
+      "passed": 18
+    },
+    {
+      "suite": "verify_gather_data",
+      "tests": 11,
+      "passed": 11
+    },
+    {
+      "suite": "verify_gather_guides",
+      "tests": 11,
+      "passed": 11
+    },
+    {
+      "suite": "verify_gather_zones",
+      "tests": 10,
+      "passed": 10
+    },
+    {
+      "suite": "verify_gathermate",
+      "tests": 13,
+      "passed": 13
+    },
+    {
+      "suite": "verify_herbalism_skills",
+      "tests": 36,
+      "passed": 36
+    },
+    {
+      "suite": "verify_hyjal",
+      "tests": 33,
+      "passed": 33
+    },
+    {
+      "suite": "verify_material_chain_camp",
+      "tests": 7,
+      "passed": 7
+    },
+    {
+      "suite": "verify_material_farming",
+      "tests": 12,
+      "passed": 12
+    },
+    {
+      "suite": "verify_material_filters",
+      "tests": 16,
+      "passed": 16
+    },
+    {
+      "suite": "verify_material_item_names",
+      "tests": 5,
+      "passed": 5
+    },
+    {
+      "suite": "verify_materials",
+      "tests": 18,
+      "passed": 18
+    },
+    {
+      "suite": "verify_money",
+      "tests": 11,
+      "passed": 11
+    },
+    {
+      "suite": "verify_native_maps",
+      "tests": 5,
+      "passed": 5
+    },
+    {
+      "suite": "verify_navigation_completion",
+      "tests": 11,
+      "passed": 11
+    },
+    {
+      "suite": "verify_nearby_routes",
+      "tests": 17,
+      "passed": 17
+    },
+    {
+      "suite": "verify_open_terrain",
+      "tests": 38,
+      "passed": 38
+    },
+    {
+      "suite": "verify_openmap",
+      "tests": 19,
+      "passed": 19
+    },
+    {
+      "suite": "verify_openmap_integration",
+      "tests": 108,
+      "passed": 108
+    },
+    {
+      "suite": "verify_performance",
+      "tests": 12,
+      "passed": 12
+    },
+    {
+      "suite": "verify_preview_routes",
+      "tests": 22,
+      "passed": 22
+    },
+    {
+      "suite": "verify_profit",
+      "tests": 14,
+      "passed": 14
+    },
+    {
+      "suite": "verify_redridge_ridges",
+      "tests": 15,
+      "passed": 15
+    },
+    {
+      "suite": "verify_release_data",
+      "tests": 5,
+      "passed": 5
+    },
+    {
+      "suite": "verify_release_fixes",
+      "tests": 2,
+      "passed": 2
+    },
+    {
+      "suite": "verify_research",
+      "tests": 13,
+      "passed": 13
+    },
+    {
+      "suite": "verify_retrace",
+      "tests": 14,
+      "passed": 14
+    },
+    {
+      "suite": "verify_road_expansion",
+      "tests": 12,
+      "passed": 12
+    },
+    {
+      "suite": "verify_route_stops",
+      "tests": 21,
+      "passed": 21
+    },
+    {
+      "suite": "verify_shopping",
+      "tests": 22,
+      "passed": 22
+    },
+    {
+      "suite": "verify_shopping_cancel",
+      "tests": 12,
+      "passed": 12
+    },
+    {
+      "suite": "verify_shopping_restart",
+      "tests": 11,
+      "passed": 11
+    },
+    {
+      "suite": "verify_shopping_ux",
+      "tests": 23,
+      "passed": 23
+    },
+    {
+      "suite": "verify_skill_one",
+      "tests": 10,
+      "passed": 10
+    },
+    {
+      "suite": "verify_skinning_sources",
+      "tests": 47,
+      "passed": 47
+    },
+    {
+      "suite": "verify_source_clarity",
+      "tests": 6,
+      "passed": 6
+    },
+    {
+      "suite": "verify_sourcing",
+      "tests": 15,
+      "passed": 15
+    },
+    {
+      "suite": "verify_terrain",
+      "tests": 13,
+      "passed": 13
+    },
+    {
+      "suite": "verify_tracking",
+      "tests": 22,
+      "passed": 22
+    },
+    {
+      "suite": "verify_ui_refresh",
+      "tests": 9,
+      "passed": 9
+    },
+    {
+      "suite": "verify_vendor_shopping",
+      "tests": 9,
+      "passed": 9
+    },
+    {
+      "suite": "verify_walking",
+      "tests": 18,
+      "passed": 18
+    },
+    {
+      "suite": "verify_walking_arrival",
+      "tests": 6,
+      "passed": 6
+    },
+    {
+      "suite": "verify_walking_follow",
+      "tests": 22,
+      "passed": 22
+    },
+    {
+      "suite": "verify_walking_range",
+      "tests": 5,
+      "passed": 5
+    },
+    {
+      "suite": "verify_zone_professions",
+      "tests": 12,
+      "passed": 12
+    },
+    {
+      "suite": "verify_drop_sources",
+      "tests": 13,
+      "passed": 13
+    },
+    {
+      "suite": "verify_unlimited",
+      "tests": 21,
+      "passed": 21
+    },
+    {
+      "suite": "verify_zephras_isle",
+      "tests": 29,
+      "passed": 29
+    }
+  ]
+}

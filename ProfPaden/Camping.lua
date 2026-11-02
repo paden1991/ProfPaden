@@ -110,6 +110,8 @@ end
 function P:CreateCampMenu()
     if self.campRoot or InCombatLockdown() then return end
     local root=CreateFrame("Frame","ProfPadenCampRoot",UIParent,"SecureHandlerStateTemplate")
+    -- Keep the supplies opened by the guide visible above its HIGH strata.
+    root:SetFrameStrata("DIALOG")
     root:SetSize(52,52);root:SetClampedToScreen(true);root:SetMovable(true)
     local pos=self.char.campPosition
     root:SetPoint("CENTER",UIParent,"CENTER",pos and pos.x or 330,pos and pos.y or -180)

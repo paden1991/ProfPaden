@@ -1,6 +1,6 @@
 # ProfPaden
 
-WoW Forever, Interface 16001. Version 0.20.30-rc1 (release candidate).
+WoW Forever, Interface 16001. Version 0.20.31-rc1 (release candidate).
 
 ## Installation
 
@@ -20,4 +20,6 @@ Routes includes the existing compiled 43-map elevation data and numeric terrain 
 
 Lua regressions cover gathering, guides, source data, tracking, walking and terrain. The Forever simulator loads the package without the removed companions. Its native map texture assets show checkerboards in both ProfPaden and Blizzard's map; real-client map artwork and optional NodeSight coexistence still require live acceptance. This is not a live-game certification.
 
-The external-import replacement passed 117 offline checks and startup in UIForever with all six addons enabled and no Lua errors. Missing GatherMate leaves the existing Copper Ore atlas accessible. The importer was separately checked against every retained position in the locally installed Forever dataset (22,728 records / 39 maps). Actual in-game import timing remains a live acceptance check.
+## Latest verification
+
+Version 0.20.31-rc1 fixes stale browse-plan text, GatherMate locale lookup errors, and Camp kit layering. [Full QA report](QA.md): 1,273 checks passed across 68 suites. Live-game acceptance remains separate.

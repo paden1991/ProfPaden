@@ -113,6 +113,7 @@ end
 -- input once, just before its first consumer; do not charge bag stock twice.
 function P:RouteEntries(rows)
     if self.mode~="guide" and self.mode~="cost" and self.mode~="profit" then return rows end
+    if self.mode=="guide" and not self.skills[self.selectedProf] then self.planSummary=nil end
     if self.mode=="guide" and self.skills[self.selectedProf] then
         if not self.journeyGuideCache or self.journeyGuideCache.profession~=self.selectedProf then
             local options={kind="guide",bands={}}

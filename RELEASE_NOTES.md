@@ -1,14 +1,14 @@
-WoW Forever / Interface 16001 — ProfPaden 0.20.30-rc1 (release candidate).
+ProfPaden 0.20.31-rc1 — WoW Forever / Interface 16001.
 
-GatherMate coordinates are no longer bundled. ProfPaden automatically reads mining and herb records from locally installed, enabled Forever versions of GatherMate2 and GatherMate2_Data. Install both for the community database; GatherMate2 alone supplies your collected records. Reload the UI after installation. No manual data import is required for ProfPaden.
+Full regression review found and fixed three issues:
+- Browsing an unlearned profession no longer retains another profession's leveling summary or target.
+- GatherMate import uses silent optional locale lookups, avoiding missing-translation errors from its real AceLocale library.
+- Camp kit opens above the main guide while retaining secure actions and combat restrictions.
 
-Both addons are optional dependencies, so the existing atlas, leveling, shopping and route planning remain available without them. WoW's OptionalDeps declaration does not automatically download dependencies. Personal harvest tracking uses game object IDs and continues working without GatherMate. Earlier numeric history remains stored and is used when the provider is available.
+Validation: 1,273 checks across 68 Lua/data regression suites passed, covering leveling, catalogs, sources, shopping, vendor/Auctionator logic, camping, controller input, tracking, route recovery, terrain and Clam Keeper. Actual locally installed GatherMate libraries imported 23,460 records across 40 maps in the full runtime; every retained coordinate/type matched its provider. This is source fidelity, not live-spawn proof.
 
-The integration is read-only and session-only: it does not modify GatherMate databases, settings or import options, and does not save imported coordinates in ProfPaden SavedVariables. Native map rendering and the separate Routes terrain data remain unchanged. BetterFishing and NodeSight remain unbundled.
+GatherMate2 and GatherMate2_Data remain separate optional Forever dependencies. Neither their data nor their code is bundled. Routes and Clam Keeper remain separate addons. Some sparse terrain starts have no safe route without the extra provider data and return an explicit message. Generated-data replay left all runtime bytes unchanged.
 
-Install with WowUp: https://github.com/paden1991/ProfPaden
-Manual installs use the attached -forever.zip. ProfPadenRoutes requires ProfPaden separately.
+Simulator checks use build 1.60.1.70450 and do not certify live gameplay. Native map textures remain checkerboards in both ProfPaden and Blizzard's map in this simulator. Actual crafting/auction actions, live GatherMate load timing and terrain traversal require game-client acceptance.
 
-Validation: 13 importer/harvest/source checks passed, including comparison of all 22,728 imported records with the installed Forever dataset. Gathering, guides, source-data, tracking, route, terrain and native-map regression suites also passed. Offline tests do not establish live-game operation. Simulator and real-client limitations are documented in README.md.
-
-Dependencies: https://www.wowace.com/projects/gathermate2 and https://www.wowace.com/projects/gathermate2_data — choose the Forever-compatible packages.
+Install or update through WowUp using https://github.com/paden1991/ProfPaden . The attached -forever.zip includes Forever release metadata. Routes 0.20.18-rc1 and Clam Keeper 0.1.1-beta do not need a new version for these fixes.
