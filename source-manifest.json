@@ -1,6 +1,6 @@
 {
   "addon": "ProfPaden",
-  "version": "0.20.29-rc1",
+  "version": "0.20.30-rc1",
   "interface": 16001,
   "files": [
     {
@@ -29850,7 +29850,7 @@
     {
       "path": "Core.lua",
       "bytes": 11582,
-      "sha256": "0c2b96652c7c867281c0f91c6d6e1e8500ba63faeb5863d485bff307b8cf9841",
+      "sha256": "4bf797e0a8a971afae8b7e1d254a539fd161425eebd9dc6ced4edaf70756eb28",
       "external": false
     },
     {
@@ -29905,12 +29905,6 @@
       "path": "Data/GatherGuides.lua",
       "bytes": 60389,
       "sha256": "df3f02bb8bcaf7f413cf7aaf6e7d07fd939f77038098857f4cee488c3f5575e2",
-      "external": false
-    },
-    {
-      "path": "Data/GatherMateNodes.lua",
-      "bytes": 253811,
-      "sha256": "f9e5fd44d9e2864a96754a07ade110850351d3872a92535edfd33b9e5376cfd4",
       "external": false
     },
     {
@@ -30058,6 +30052,12 @@
       "external": false
     },
     {
+      "path": "GatherMateImport.lua",
+      "bytes": 6443,
+      "sha256": "de1a05cc258abf5ef2fb20028fd9d30f59ef37e43dd0ff143745bcd046357981",
+      "external": false
+    },
+    {
       "path": "GatherSkills.lua",
       "bytes": 4613,
       "sha256": "109ec4c03d46dac2d662fa9298ea0e25d0d37daf035713bb43c16f485685adcb",
@@ -30131,8 +30131,8 @@
     },
     {
       "path": "ProfPaden.toc",
-      "bytes": 1734,
-      "sha256": "d733112e1199db0c0a90c5065239bb83545b798190413e0464ab4c502a357852",
+      "bytes": 1761,
+      "sha256": "612281fc59ee70a1edd912bfbd2f08bd6ed0a8db8973c85d9de56ec424dbf857",
       "external": false
     },
     {
@@ -30215,8 +30215,8 @@
     },
     {
       "path": "THIRD_PARTY.md",
-      "bytes": 2702,
-      "sha256": "cd10e28c9d93d44bd15b67ad4124958ccbc3fbf5ccdcd51bfe12a4e147168906",
+      "bytes": 2596,
+      "sha256": "0e17e72c0b5e7b941b5aafe637451cb965911b083168e68194e114e73709f396",
       "external": false
     }
   ]

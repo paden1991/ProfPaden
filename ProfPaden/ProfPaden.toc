@@ -2,10 +2,10 @@
 ## Title: |cffffd100ProfPaden|r - Artisan's Field Guide
 ## Notes: Forever profession routes, material planning, economics, quests and gathering companions.
 ## Author: Paden
-## Version: 0.20.29-rc1
+## Version: 0.20.30-rc1
 ## SavedVariables: ProfPadenDB
 ## SavedVariablesPerCharacter: ProfPadenCharDB
-## OptionalDeps: NodeSight, TradeSkillMaster, Auctionator, Auc-Advanced, TomTom, Questie, QuestieDB, OpenMap
+## OptionalDeps: GatherMate2, GatherMate2_Data, NodeSight, TradeSkillMaster, Auctionator, Auc-Advanced, TomTom, Questie, QuestieDB, OpenMap
 ## IconTexture: Interface\Icons\Trade_BlackSmithing
 ## Category: Professions
 
@@ -25,7 +25,6 @@ MaterialFilters.lua
 Data\GatherZones.lua
 Data\GatherNodes.lua
 Data\SkinningSources.lua
-Data\GatherMateNodes.lua
 Data\VendorSupplies.lua
 Data\ZoneProfessions.lua
 Data\ZephrasIsle.lua
@@ -54,6 +53,7 @@ Data\HerbalismSkills.lua
 GatherSkills.lua
 GatherGuides.lua
 Materials.lua
+GatherMateImport.lua
 GatherDataAPI.lua
 NativeMaps.lua
 GatherMaps.lua
