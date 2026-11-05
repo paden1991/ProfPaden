@@ -11,4 +11,6 @@ This package contains ProfPaden code and compiled data, not the original researc
 - Camping Kit 1.4 by Doug Mansell supplied factual item/spell references. Its MIT notice is retained in ProfPaden/Vendor/CampingKit-LICENSE.txt. No Camping Kit runtime or artwork is bundled.
 - ProfPadenRoutes' optional OpenMap integration uses its public API; OpenMap is installed separately. The OpenMap MIT notice in the source repository applies only to its covered material, not this entire package or Blizzard assets.
 
+The November 5, 2026 acquisition pass includes factual item, vendor, quest, crafting and drop relationships from ForeverDB (https://foreverdb.net/) and Wowhead Forever (https://www.wowhead.com/forever). Provider labels and item links are retained. Only explicitly Forever-labelled new ForeverDB relationships were imported; observed positions were not converted to spawn coordinates. Game facts retain their underlying rights. No provider code, prose guides, or artwork is included by this pass.
+
 Public availability does not assign a blanket open-source license to this package or erase any source attribution.

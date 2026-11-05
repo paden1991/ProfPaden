@@ -1,0 +1,14 @@
+{
+  "provider": "ForeverDB",
+  "checked": "2026-11-05",
+  "build": "1.60.1.70790",
+  "checkedRecipes": 2492,
+  "usableRecipesAlreadyCovered": 2491,
+  "excluded": [
+    {
+      "spell": 30021,
+      "name": "Crystal Infused Bandage",
+      "reason": "Deprecated; missing reagent and hidden acquisition item"
+    }
+  ]
+}

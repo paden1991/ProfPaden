@@ -1,0 +1,40 @@
+{
+  "checks": 7,
+  "passed": 7,
+  "results": [
+    {
+      "name": "All recipe ranks, reagents, outputs and recorded map data are preserved",
+      "passed": true
+    },
+    {
+      "name": "Six recipe acquisitions expose named providers and the enchant currency/reputation",
+      "passed": true
+    },
+    {
+      "name": "Every applicable profession receives new material sources without losing old ones",
+      "passed": true
+    },
+    {
+      "name": "NPC locations are descriptive; no coordinates or dungeon entrances are guessed",
+      "passed": true
+    },
+    {
+      "name": "Reapplying the source module is idempotent",
+      "passed": true
+    },
+    {
+      "name": "Runtime data rebuilds deterministically from reviewed JSON",
+      "passed": true
+    },
+    {
+      "name": "All 966 planned items were checked; all newer materials remain browsable",
+      "passed": true
+    }
+  ],
+  "summary": {
+    "items": 966,
+    "newItemAcquisitions": 503,
+    "newNpcRecords": 27
+  },
+  "liveClientVerified": false
+}

@@ -1,0 +1,848 @@
+[
+  {
+    "url": "https://foreverdb.net/data/sources/0.json",
+    "bytes": 45120,
+    "sha256": "89dcee12920ceeee8c8beb40b995c3d4c828788d0d2844bcbe442c1e7e7e085a",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/1.json",
+    "bytes": 40659,
+    "sha256": "39234d96b3aa3abe97bdf1ed4026e1a65ff59dc633a300bbdaad5918c34bcb79",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/10.json",
+    "bytes": 45110,
+    "sha256": "831ad44725f4d63afe83338aee9910873bf74e358b7acb4ff49448a800b258a1",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/11.json",
+    "bytes": 51018,
+    "sha256": "93105861e74cc3e590a66459e991d4e4b851433ee22cb242dc0d0c109c9e0d22",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/12.json",
+    "bytes": 44407,
+    "sha256": "7e282eaf87781e533d88b008dc924857c8e025200d4266ba7346c780260a4b5d",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/13.json",
+    "bytes": 43853,
+    "sha256": "7d757ae47f7970311ea9bf3600c90d0ef4f521deab7db418f37b06d1c4863a8d",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/14.json",
+    "bytes": 45228,
+    "sha256": "91880212c1449501b659aca796fe48cfb668f793c3f3ce12ca83d2c32aa9e12b",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/15.json",
+    "bytes": 49646,
+    "sha256": "5e0399743743a6ea5d416226eb367c76f5280ca56e30d5db15924e2cdc4d7714",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/16.json",
+    "bytes": 37851,
+    "sha256": "6e41cdfc1f75aa8abba49d84194b0bf02691114a7a781934ebac94163ea4c3de",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/17.json",
+    "bytes": 43210,
+    "sha256": "bc14bf643a8181f231058771aeaaffe4a2d2e33c36dadb29c8c9ff0380bd7f6b",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/18.json",
+    "bytes": 50166,
+    "sha256": "abad953e742fe74ec130f77fa4fda7449a60f516e62b1ed98145953260554963",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/19.json",
+    "bytes": 44352,
+    "sha256": "ec0fe6e899a82a9c2a8717de105a434961ceb7483e31df57746f685ccb758b94",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/2.json",
+    "bytes": 40823,
+    "sha256": "b5440618878fa5e7d020b6c744aea61ff1a01bcd6d1db14c0cce577f846a34eb",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/20.json",
+    "bytes": 44687,
+    "sha256": "c5ff6be32d5dbf6fc1e98f17296f528788698a92fc8c5483657c3b68209ef984",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/21.json",
+    "bytes": 42238,
+    "sha256": "0059605cd3cb24259ee6d4b2c5d89969b05aa7e189ce8cc402b32a3155543e04",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/22.json",
+    "bytes": 45435,
+    "sha256": "755604b0658111a210024faeff7bf7f494fb3e8d3fc12d26fe680c77350a41b9",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/23.json",
+    "bytes": 47947,
+    "sha256": "415f1ac70c3ad1a811059fb0d0c2351ffd7424412b66b6da11bd42fe8e603fc4",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/24.json",
+    "bytes": 47468,
+    "sha256": "284b1aac475fb2fd4227d674c80d671d5fe5ddda04f04de773351ccc1bfa1f9b",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/25.json",
+    "bytes": 49948,
+    "sha256": "90062acec1f35e971636d73189c0ad09f10fe613af8eb4d17aad47bf19b1fba0",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/26.json",
+    "bytes": 52713,
+    "sha256": "b17a2970a32f7ceb97f8c977ebd0a48e104618d5188d73b6ad625ce21aef0703",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/27.json",
+    "bytes": 47764,
+    "sha256": "63a7ff6419ee76b94419e6a2821212422bef72c6c025624fed76e6e426c73699",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/28.json",
+    "bytes": 47480,
+    "sha256": "959773f8e1ce559c6fc47c8084abdcf1a0da0ae47aa3c8f9a1368e8a639eca28",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/29.json",
+    "bytes": 63191,
+    "sha256": "8c452f98b2c9b9a100a19ac0ec70d2dff584b985ed65965510b1ce233859f3cf",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/3.json",
+    "bytes": 46886,
+    "sha256": "255b25a6b88f22033fed276063547981d35f59256194ec48aa256f7dac772de5",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/30.json",
+    "bytes": 44889,
+    "sha256": "50d92a996adec04c94365770df90564c71e1b0df3226a70ef4bf54455a881be7",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/31.json",
+    "bytes": 48756,
+    "sha256": "2a82f6649d52586ff47ff4adb39b1222ea861e43d878f6a9debb34e5b26189e7",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/32.json",
+    "bytes": 59389,
+    "sha256": "7d491532595bda775dde7c4c256822ae5ff6125264ba69992cf0614338afa16b",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/33.json",
+    "bytes": 48456,
+    "sha256": "e3baa7e797e2a0ef90dcee187d77be5a3448c19220db6e41b0b06e9c9aa47bde",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/34.json",
+    "bytes": 43138,
+    "sha256": "64f7c243f5d98fccca2478006f93a0a9865b46b6f0193f083fff38b99f49ad2e",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/35.json",
+    "bytes": 41503,
+    "sha256": "7cf4a2422f60f43763408d6c25714e32a103873e19bbb72a3082705c1e55b180",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/36.json",
+    "bytes": 44225,
+    "sha256": "c4febf9be93bbd24251d3080cd9fa5db13af6197470d50db57532c5cd92830ac",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/37.json",
+    "bytes": 45520,
+    "sha256": "f857564ba6fe48edb5cb45573657589ac5cd5cb2cca5a2786a179e615d32d3e8",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/38.json",
+    "bytes": 44585,
+    "sha256": "a881f9bde59f6f6d4903d96a0d22baf5b25f5797cb6a6aa8c3124689c7ee9989",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/39.json",
+    "bytes": 41954,
+    "sha256": "bb4f90a082df909618d9de5dc9c8b6f706e2fd346b093e9de9afe59c287c8e40",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/4.json",
+    "bytes": 41252,
+    "sha256": "e053518856fc92acf8c8b62507513e720da2224704609bd614f37a7f47d46f01",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/40.json",
+    "bytes": 42644,
+    "sha256": "db1225ef31772856301371f737b9994fb9a50dd97dccf28d5d87eda31b43c8e7",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/41.json",
+    "bytes": 41491,
+    "sha256": "89b3dc1b720948a488cb0ded2102f74024871aaa15bcede596661ae3547a24ad",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/42.json",
+    "bytes": 42763,
+    "sha256": "8b4852d62523ff4d2f6714f0aa6dd583364d1f78332bafad24a0ad43e28bb5f2",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/43.json",
+    "bytes": 42394,
+    "sha256": "6edd90bf3dac02587ce49ca3b091f87e52eb5c7710c45adc400a7cee6754dcee",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/44.json",
+    "bytes": 47547,
+    "sha256": "ba1a9603f47e46f48d6f44e7045886213dd207571b0b1e88fbf8b5fcc991c0ef",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/45.json",
+    "bytes": 39733,
+    "sha256": "31d592149a71774cc8dc4fdf5b9a6f0557caf0665b8794a0b60332ea732775f2",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/46.json",
+    "bytes": 40849,
+    "sha256": "e28829c65abf19f88204c26641a080e63914ed0e8c0303ae390d24fd1e2e0595",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/47.json",
+    "bytes": 44176,
+    "sha256": "f0e5d17fbca7c2a9141a458cdef9e589737a035417dc24a59d0e6603d5c9859f",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/48.json",
+    "bytes": 43106,
+    "sha256": "12bf60b80b8ad2c280347eb858b2e8b6cf53506a295e816b52d34d7307f67147",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/49.json",
+    "bytes": 37215,
+    "sha256": "19c252fef5ee6f2e8bfa27782c1d3d6180f8eb99a238df3f6ab41f22997345c4",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/5.json",
+    "bytes": 47025,
+    "sha256": "adb0e148477043a6603851450b8a10a565cae35bb4d5b2192184a654b185206c",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/50.json",
+    "bytes": 41253,
+    "sha256": "8e6750d68b4c973273f5346b4ddea70d0de5b4f54bb1ea776e21efc279182c44",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/51.json",
+    "bytes": 35172,
+    "sha256": "c4bef5b462d09e146479f9e2e76a636d7eeec982f3d022a613ac16ed2386fd46",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/52.json",
+    "bytes": 38791,
+    "sha256": "afc846462217748b20eb68c7b4d2a7824ed3af7c34323ef88bf03bb50b57b3f3",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/53.json",
+    "bytes": 48051,
+    "sha256": "0cc4f75fbec4859ed880e1c8dd6505676285a6456732a28aae40f1a4ee1cb5f0",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/54.json",
+    "bytes": 52599,
+    "sha256": "ad7c99c0bd3e02277ff7c643895e5efbb224bc209205a7b67db3494e276c8840",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/55.json",
+    "bytes": 40277,
+    "sha256": "82535de38200f0f64e925ab74139e4217d8441cfddd177e5917d9a440b06b260",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/56.json",
+    "bytes": 41739,
+    "sha256": "cd5c563ed678bb0eeeea05e286895038971b5c6526332ba344adf9344d5fa296",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/57.json",
+    "bytes": 47410,
+    "sha256": "15163b676af85041175c178b6310ca31d1e20ea51d4e950093eb938d5783b4e4",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/58.json",
+    "bytes": 51294,
+    "sha256": "c9f7dc7175d2d679f7804426440352e103fa7d2f3b517fbb0c71f69104a46e33",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/59.json",
+    "bytes": 42382,
+    "sha256": "45af031044ef876ddc2db1de2cbd774eebe7d80b042cb90a67ae1e9f91897518",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/6.json",
+    "bytes": 51134,
+    "sha256": "5bcea8400bbfda6a92dd6058be676657845142f7f83528c38b8f8e59ce2a17d4",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/60.json",
+    "bytes": 49619,
+    "sha256": "f2b360e3f66a0b3f6a1c711d4772da0d29426d15012539f72c2db4207ca74ade",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/61.json",
+    "bytes": 44224,
+    "sha256": "fc9008fed5ad0736cf4a4a105f0e22f28e2d8b396e52d10275ed36d6c38265a4",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/62.json",
+    "bytes": 41974,
+    "sha256": "2b320cd9561404df940a6b471f4ac0f50e487da1478e7a9f6049d0832ae2cc25",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/63.json",
+    "bytes": 41560,
+    "sha256": "c3f1deb52ab169f260c707f0f1f0807e452368873f4233458e606627a1c5119e",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/7.json",
+    "bytes": 40821,
+    "sha256": "69a8210e9ed616b342e09e1915d8c14e6006186063efcb0d6f7eedaf9230590d",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/8.json",
+    "bytes": 46375,
+    "sha256": "22b0dfb5559868c06ff8a87c9afb1040cdf62a606b33f41c09a14db9669775f9",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/9.json",
+    "bytes": 45161,
+    "sha256": "a75f95e21ed3bd915af80c4b76de7e21b84eaf8838ca5ff075f2539ab50074ea",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/0.json",
+    "bytes": 16299,
+    "sha256": "e118b2cb27baff84412ce37a37ff597221da87ff7971678dac029140a7720511",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/1.json",
+    "bytes": 17512,
+    "sha256": "73b73b8fd763b8f1dcbd4c4b39d2783b38e8a72bb2acacf78dcfc411372b369f",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/10.json",
+    "bytes": 18411,
+    "sha256": "fdd5f3039e3e10b29029f82dbcd7490cd26b1435b47e6f00834fa727ee4d7620",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/11.json",
+    "bytes": 17640,
+    "sha256": "8be06a3a17d28f0d4df557d55c6a331ca1cb86426865a8574d43187e58075775",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/12.json",
+    "bytes": 14063,
+    "sha256": "edad9ceac1579a22b29029242a2f495c26e922cce98a2474645ff7b9830adb60",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/13.json",
+    "bytes": 13723,
+    "sha256": "7b851f0b12cf5c00c3c4f6fa68fac317ec141220797f33e16a5ffd768b228716",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/14.json",
+    "bytes": 13550,
+    "sha256": "fad340c9d74886e2a39bbcb1f99434e550739a6a358d79453979c9d1de3b0930",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/15.json",
+    "bytes": 10582,
+    "sha256": "0acc20b4a0e9e6279f96329d13bfe66631148f8b91c778c31322eb83f9cbb7fa",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/16.json",
+    "bytes": 18229,
+    "sha256": "0fd60f5162537bcf0d409d8ea8d5a72fa91074cc748fef82522ff47a8b3ea3c3",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/17.json",
+    "bytes": 16305,
+    "sha256": "bb1196e2ed06ab9893d12b240526f28879b5d6353f18ac1e06c0077a98014b8d",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/18.json",
+    "bytes": 12577,
+    "sha256": "d840dcf5c3d4678f243558d8336dc6c83043c940de2e37527f98ec31cbeb9d04",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/19.json",
+    "bytes": 17676,
+    "sha256": "c734b9fa30658e310b42e8a24667c9bb72868a5b7dc3f573dd422ea4a494760a",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/2.json",
+    "bytes": 15051,
+    "sha256": "6783b05b46b1de5b7ff0070263d4b3ce53973e6dffae8dca2ca7b5de2276a849",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/20.json",
+    "bytes": 15220,
+    "sha256": "192ca42e70318026bfb87ad966e3443af9b3ba18e6ae4c2320fb1c8e6a8c9946",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/21.json",
+    "bytes": 13960,
+    "sha256": "03cd10758090eec1d4498778caf29ad0e9d9f98288d50a1d0c9c56cd5c397a52",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/22.json",
+    "bytes": 13823,
+    "sha256": "206b2866126b16514fd84fca704f831d639ea45b8f40f7195f731055f18eb0f0",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/23.json",
+    "bytes": 13819,
+    "sha256": "05094198a5849f7cf8a27436cc832d5341264a90f59d52d6cf9a836e54663f93",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/24.json",
+    "bytes": 17744,
+    "sha256": "005d6661718dea1af78ef51cfdd2b9772b8ab79b2a93e08abfdc853cccd1bc1e",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/25.json",
+    "bytes": 14953,
+    "sha256": "43f828e6bc2bbea343d68d510185ff2bec25f80ace38632e0a48a95cd7f081a8",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/26.json",
+    "bytes": 17009,
+    "sha256": "990b6b68e83cf3a027f8a8f19111f264e0888404f0a995aef1b51d6531778f25",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/27.json",
+    "bytes": 23072,
+    "sha256": "a83c45e93fead40278666bf8a3f2d7b9ff6e02968e429eeef54ce96947843f85",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/28.json",
+    "bytes": 18092,
+    "sha256": "b38be5d1b8bafa98d032702d0c7cd9955c3b5619a57b41e3eb284623adfacb95",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/29.json",
+    "bytes": 24096,
+    "sha256": "045e41b4cebdda745efd18a608027b70013f08a77603a3e5915a7f40974341fa",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/3.json",
+    "bytes": 15257,
+    "sha256": "ddd00b7323158be06bddf0811c559a4bc4b7b6da0632ddb428275ab256c620fb",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/30.json",
+    "bytes": 23441,
+    "sha256": "9d201727a76e8914a4d3f5786b83e45b489fc99fd25592cd600bb8e9c58a7336",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/31.json",
+    "bytes": 22906,
+    "sha256": "46d7cd429e01f504430898a5279b31509e733fade5b6cf86b84231251aa41856",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/32.json",
+    "bytes": 18172,
+    "sha256": "ce271b42f25cbe3ebb178b35ebe93f5ce2320ab0d1954ec3bbf63e99737c1fa4",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/33.json",
+    "bytes": 19286,
+    "sha256": "5a1555a4f0f8931a93c36a0d4c34e79d0e1304dd7ca4637edf339a7cf3b43d82",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/34.json",
+    "bytes": 13749,
+    "sha256": "f6bd8de0ea3280f33ecb42e7682733e26fd3e2a5c055281706e32ede408126eb",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/35.json",
+    "bytes": 19111,
+    "sha256": "ab3ce2c095791e8f1227386da70d28da6d58ac79228aaf4646eb815aed1fd9a4",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/36.json",
+    "bytes": 21221,
+    "sha256": "5c4dc3a833325faba03ca35fce25f98aa6341320dbfd98e7a0d09e9f3ce0fee4",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/37.json",
+    "bytes": 15550,
+    "sha256": "8615afe6f4385b5cec1eb15428956d368e7613d0d9e60d8acedbbfb098dbe541",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/38.json",
+    "bytes": 20856,
+    "sha256": "d4b4f2e7030d7f18782a3937d70c995e221ed177cb949e9538383c2f86e150ed",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/39.json",
+    "bytes": 16372,
+    "sha256": "f025107ae355e5e47cbe6cfa4c7491c697bf256115be05314f0c83c2c0bf27c7",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/4.json",
+    "bytes": 18987,
+    "sha256": "4a40bce166ca8b0f3caca4ff5ffe20731121e200b31df5b0f53991ecfd40d0cc",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/40.json",
+    "bytes": 16122,
+    "sha256": "47f14a4a53839a82275b9f68c0f7d6dfbef53db61b61c297daf7ba96af6db289",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/41.json",
+    "bytes": 15080,
+    "sha256": "bde492417f82860deb7760ee562d26204a2811518e5958cdd39624cdc460ef26",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/42.json",
+    "bytes": 17083,
+    "sha256": "a2f170fac514f4518b879e0e16b8d0011525a936324468513797926570a8d3e4",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/43.json",
+    "bytes": 15272,
+    "sha256": "1c94aee61d87aa4002400bed2d43673e33e329cb94165f9e31603253dcdc6727",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/44.json",
+    "bytes": 20933,
+    "sha256": "831e1afcaf2fe951c90b7bdeb72869d4f63e7436b83b0a2bec72f05c8d23b201",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/45.json",
+    "bytes": 15298,
+    "sha256": "458a9c8736db56009aae11ba24b0047317fe8f250347b1e9760a4453fd5e524f",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/46.json",
+    "bytes": 15801,
+    "sha256": "6708f63bcf5d1ce5c7477934ab7c44c27c410f8b1e9a5e5ba2747a6af56be76a",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/47.json",
+    "bytes": 14137,
+    "sha256": "02a499934096159d9ad00702d24bd2f2562aa1fe3a5a1eda21d5cf98bd478169",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/48.json",
+    "bytes": 19780,
+    "sha256": "8535e28c49eae3cf5cc8e23a145c51416cc3831f75dc5536cb76bcc5bf39ce61",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/49.json",
+    "bytes": 9749,
+    "sha256": "b58ebbc11c28fdfc6e8bb43062a077074a3e4d7ee980fe3e3af15568e3b78cd4",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/5.json",
+    "bytes": 24595,
+    "sha256": "fff5735d5b22102c371728f6d7d1aed2f9ec3bf06b14b5fda00206b2939a62c9",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/50.json",
+    "bytes": 16360,
+    "sha256": "cefc6501d9feac9b9a9bd827ef45e4422d545ae0434bebe50a9377b892e5c07e",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/51.json",
+    "bytes": 9660,
+    "sha256": "2d6ccf859af3df7a4770ae278fd9ed24be2a8f1c0a3d6ec144c232f34ad5fe1d",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/52.json",
+    "bytes": 18194,
+    "sha256": "007583035b6c2b4e27863415be3d7f1e10d3d2ce1dcc38284c1bf10afd830f5e",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/53.json",
+    "bytes": 22014,
+    "sha256": "30622d054560e74c8b181ccdbea7ef42c27d6917fb19e106ef9306deee6207f9",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/54.json",
+    "bytes": 20367,
+    "sha256": "fa7a3f9804a3b769ade439a3a8dad8dab2ee7bd5c36c76479c79207760531a9e",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/55.json",
+    "bytes": 12589,
+    "sha256": "bcb74a9796fef4995341be7f7bd2bf40cd8ef8163db92a12169c3c9fde5880eb",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/56.json",
+    "bytes": 15646,
+    "sha256": "3fe932e508e07aca330745b99a17327158b83d57b2f64dd2287848ceede682c3",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/57.json",
+    "bytes": 20894,
+    "sha256": "d83078175bb10b6f244518306a96aeafe15fae4d1aec7a7315bcfda7cbf62dde",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/58.json",
+    "bytes": 20785,
+    "sha256": "9272a9b5cce39caac976dc6265aaf71051a8a8ea13f6fca35d22be886ecad1b0",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/59.json",
+    "bytes": 18973,
+    "sha256": "7397d9db78ee12c096595963c06513d4b0e4a792a073720c17bfb6debf16841a",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/6.json",
+    "bytes": 15711,
+    "sha256": "7b95240692c53caabd65475c13f5cf46daf4d004fa4eaee95a7a8df7d2d19926",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/60.json",
+    "bytes": 22549,
+    "sha256": "2b54882ea9e5910a7b87f7a5f73a8569e8c40c4fc9bc58173f1d0d62139b4e50",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/61.json",
+    "bytes": 23043,
+    "sha256": "3f77b246c6fe1d6deb7b57d5a40742ef92f49f6370ea25c9e7fdb1a98ccb7e6a",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/62.json",
+    "bytes": 16654,
+    "sha256": "e30e75b119a2f4946218584cfb3a4444ee0385f0a5bfcbd23c83885d62404e79",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/63.json",
+    "bytes": 17381,
+    "sha256": "be1a71e33e384c4443a23963a99c63e3644ddeb41409166d7bba90f782204485",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/7.json",
+    "bytes": 14839,
+    "sha256": "6b8ef9b6c22e44ad17f8131e82bd8dd845a1dc64269fd9faceb7c2fc6a60b3f3",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/8.json",
+    "bytes": 20018,
+    "sha256": "ca0a9fb2cd3b0fbb7cea6aaca43e3cc5890d60ab8983eb9cfe094015f5b2a058",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/sold/9.json",
+    "bytes": 18428,
+    "sha256": "7b0f78d70c443a606df3114bf79872e51a47664945dc4a00beea13411e6cfcb3",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/professions/alchemy.json",
+    "bytes": 57506,
+    "sha256": "f3c3175dc6e94d876dcc2cffa9ad5981ddb4e389d005c74b6475a8b249bf83a7",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+    "bytes": 168684,
+    "sha256": "e4b9264fd548f90c4870f910067bee3a2a0372c9a9a2e95110fd4c9b011cc9f5",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/professions/cooking.json",
+    "bytes": 41431,
+    "sha256": "18df0b13a4a151c1f99e221883a086816e2742475eb22b54766525e7603d47ae",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/professions/enchanting.json",
+    "bytes": 79233,
+    "sha256": "a70f729c51b1fbfd84e572fe2b2960f515cad3a0e9c10e59e834fb418b2e6240",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/professions/engineering.json",
+    "bytes": 89461,
+    "sha256": "ace14fbdb34a0d573f5a25018f2bad06253233b215f90a042143ee4a4e31aced",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/professions/first-aid.json",
+    "bytes": 11252,
+    "sha256": "5a025bb67a0c8e9ec79b70561d47d09dbcee487025210a118915d2365335d55f",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/professions/fishing.json",
+    "bytes": 3800,
+    "sha256": "8d74fa392c60b4182772c20009a1cc9875b5dcfc4c2bea18068ff6ae9f4e7b06",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/professions/herbalism.json",
+    "bytes": 3953,
+    "sha256": "b5706032b020708e804aee3f7a7018d3a2058deabd6d71b9aea861ebd15092db",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/items.json",
+    "bytes": 4348326,
+    "sha256": "3706ee5e489ccd42b3d3994e8bc0d0bf310ac1b51998a5a9046005ebf20d52ee",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/professions/leatherworking.json",
+    "bytes": 178677,
+    "sha256": "ff9e768c634fd49f27161f9b06e48c129574eeee01024ad626e01869374ca562",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/professions/mining.json",
+    "bytes": 6806,
+    "sha256": "406379950c982e419d104a3274691c1e61f50ae78fc2b81bfa0cf47687830e18",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/professions/skinning.json",
+    "bytes": 3053,
+    "sha256": "0e7a1f32bc7af46b494299ed49df8bd27ff782ed5d679cef1fd1b4d3143e43c3",
+    "retrieved": "2026-11-05"
+  },
+  {
+    "url": "https://foreverdb.net/data/professions/tailoring.json",
+    "bytes": 140422,
+    "sha256": "f94628594e5979cb92067f99fde870fa3844b9ec78308edd96061ee013bb302d",
+    "retrieved": "2026-11-05"
+  }
+]

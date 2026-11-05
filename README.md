@@ -1,6 +1,6 @@
 # ProfPaden
 
-WoW Forever, Interface 16001. Version 0.20.31-rc1 (release candidate).
+WoW Forever, Interface 16001. Version 0.20.32-rc1 (release candidate).
 
 ## Installation
 
@@ -22,4 +22,4 @@ Lua regressions cover gathering, guides, source data, tracking, walking and terr
 
 ## Latest verification
 
-Version 0.20.31-rc1 fixes stale browse-plan text, GatherMate locale lookup errors, and Camp kit layering. [Full QA report](QA.md): 1,273 checks passed across 68 suites. Live-game acceptance remains separate.
+Version 0.20.32-rc1 checks 966 newer profession items and adds 503 distinct acquisition relationships. The [launch data report](docs/launch-data/README.md) records provenance, coverage, seven data checks, ten functional checks and simulator screenshots. The prior full regression baseline remains in [QA.md](QA.md). Live-game acceptance remains separate.

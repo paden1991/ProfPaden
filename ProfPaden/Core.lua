@@ -1,6 +1,6 @@
 local addon, P = ...
 _G.ProfPaden = P
-P.name, P.version = addon, "0.20.31-rc1"
+P.name, P.version = addon, "0.20.32-rc1"
 P.skillChanceModel = 3
 BINDING_HEADER_PROFPADEN="ProfPaden"
 BINDING_NAME_PROFPADEN_TOGGLE="Open Artisan's Field Guide"

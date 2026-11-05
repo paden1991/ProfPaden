@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-05",
+  "url": "https://uiforever.com/app?flavor=forever",
+  "build": "1.60.1.70450",
+  "interface": 16001,
+  "addon": "0.20.32-rc1",
+  "scenario": "Solo; Tauren Druid; only ProfPaden enabled",
+  "resolutions": [
+    "1280x720",
+    "1920x1080"
+  ],
+  "uiScale": 0.71,
+  "checks": [
+    "Exact candidate ZIP imported",
+    "Version assertion",
+    "Enchant vendor, reputation, currency visible",
+    "Blueprint drop and historical vendor visible",
+    "Leather detail and 105 source records",
+    "Reload retains data",
+    "Close/reopen/refresh"
+  ],
+  "addonErrorsObserved": 0,
+  "missingApisListed": 0,
+  "diagnosticScriptError": "One console-only error called window:IsShown before lazy window creation. Corrected the diagnostic with a nil check; repeated reload assertions passed. Cleared that recorded console error before the final close/reopen check.",
+  "limitations": [
+    "Simulator native map textures display checkerboards",
+    "Live game and Witchcraft not run"
+  ],
+  "testingChoice": "User selected UIForever after Witchcraft bridge/client was unavailable"
+}
