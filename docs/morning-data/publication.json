@@ -1,0 +1,13 @@
+{
+  "version": "0.20.33-rc1",
+  "release": "https://github.com/paden1991/ProfPaden/releases/tag/v0.20.33-rc1",
+  "workflow": "https://github.com/paden1991/ProfPaden/actions/runs/42215739527",
+  "conclusion": "success",
+  "commit": "e22be835bac3bd494eb99db0d6ed6ed4ca4e43d6",
+  "runtimeFilesVerified": 5038,
+  "sha256": "4b0a674cac1f4ed98e32a6001734d64b9e36764c3f40308242b7ddf579aa9ea9",
+  "localAndPublishedArchiveIdentical": false,
+  "localAndPublishedFileContentsIdentical": true,
+  "compressedSizeDifferences": 4824,
+  "metadataVerified": true
+}

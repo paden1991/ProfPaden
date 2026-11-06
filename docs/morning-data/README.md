@@ -33,4 +33,3 @@ UIForever, November 6: build 1.60.1.70450 / interface 16001, Tauren Druid, Solo,
 ![New trainer alternatives](simulator-trainers.png)
 
 [Loaded data assertions](simulator-checks.png) · [After reload](simulator-reload.png) · [Error panel](simulator-errors.png)
-
