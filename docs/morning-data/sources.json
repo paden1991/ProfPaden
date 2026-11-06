@@ -1,0 +1,4070 @@
+{
+  "captured": "2026-11-06",
+  "items": {
+    "3013": {
+      "name": "Scroll of Protection",
+      "url": "https://foreverdb.net/item/3013",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Drop",
+          "name": "Scarlet Missionary",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/5.json",
+          "npc": 1536,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Dustwind Storm Witch",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/5.json",
+          "npc": 3118,
+          "zone": "Durotar"
+        },
+        {
+          "kind": "Drop",
+          "name": "Dustwind Savage",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/5.json",
+          "npc": 3117,
+          "zone": "Durotar"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 1536,
+          "name": "Scarlet Missionary",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/5.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3118,
+          "name": "Dustwind Storm Witch",
+          "method": "Loot",
+          "zones": [
+            "Durotar"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/5.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3117,
+          "name": "Dustwind Savage",
+          "method": "Loot",
+          "zones": [
+            "Durotar"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/5.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "774": {
+      "name": "Malachite",
+      "url": "https://foreverdb.net/item/774",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Drop",
+          "name": "Scarlet Zealot",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/6.json",
+          "npc": 1537,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Oakenscowl",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/6.json",
+          "npc": 2166
+        },
+        {
+          "kind": "Drop",
+          "name": "Burning Blade Apprentice",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/6.json",
+          "npc": 3198,
+          "zone": "Durotar"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 1537,
+          "name": "Scarlet Zealot",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/6.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 2166,
+          "name": "Oakenscowl",
+          "method": "Loot",
+          "zones": [],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/6.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3198,
+          "name": "Burning Blade Apprentice",
+          "method": "Loot",
+          "zones": [
+            "Durotar"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/6.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "2318": {
+      "name": "Light Leather",
+      "url": "https://foreverdb.net/item/2318",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Drop",
+          "name": "Shadowgale Shriekling",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/14.json",
+          "npc": 256092,
+          "zone": "Zephras Isle"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 256092,
+          "name": "Shadowgale Shriekling",
+          "method": "Loot",
+          "zones": [
+            "Zephras Isle"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/14.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "6290": {
+      "name": "Brilliant Smallfish",
+      "url": "https://foreverdb.net/item/6290",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": false,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Quest",
+          "name": "Fishin' Time",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/18.json",
+          "id": 95065,
+          "zone": "Stormwind City",
+          "note": "Quest reward choice"
+        }
+      ],
+      "gatherSources": []
+    },
+    "263512": {
+      "name": "Pincer Bites",
+      "url": "https://foreverdb.net/item/263512",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": false,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Quest",
+          "name": "Crab Season",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/24.json",
+          "id": 93317,
+          "zone": "Zephras Isle"
+        }
+      ],
+      "gatherSources": []
+    },
+    "5465": {
+      "name": "Small Spider Leg",
+      "url": "https://foreverdb.net/item/5465",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Drop",
+          "name": "Ridgeshade Creeper",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/25.json",
+          "npc": 266850,
+          "zone": "Durotar"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 266850,
+          "name": "Ridgeshade Creeper",
+          "method": "Loot",
+          "zones": [
+            "Durotar"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/25.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "1179": {
+      "name": "Ice Cold Milk",
+      "url": "https://foreverdb.net/item/1179",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Drop",
+          "name": "Searing Blade Enforcer",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/27.json",
+          "npc": 11323,
+          "zone": "Ragefire Chasm"
+        },
+        {
+          "kind": "Vendor",
+          "name": "Daeolyn Summerleaf",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/27.json",
+          "npc": 12021,
+          "zone": "Moonglade"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 11323,
+          "name": "Searing Blade Enforcer",
+          "method": "Loot",
+          "zones": [
+            "Ragefire Chasm"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/27.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 12021,
+          "name": "Daeolyn Summerleaf",
+          "method": "Vendor",
+          "zones": [
+            "Moonglade"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/27.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "2589": {
+      "name": "Linen Cloth",
+      "url": "https://foreverdb.net/item/2589",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Drop",
+          "name": "Scarlet Zealot",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 1537,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Scarlet Missionary",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 1536,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Darkeye Bonecaster",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 1522,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Rattlecage Soldier",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 1520,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Razormane Dustrunner",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 3113,
+          "zone": "Durotar"
+        },
+        {
+          "kind": "Drop",
+          "name": "Gnarlpine Defender",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 2010,
+          "zone": "Teldrassil"
+        },
+        {
+          "kind": "Drop",
+          "name": "Razormane Quilboar",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 3111,
+          "zone": "Durotar"
+        },
+        {
+          "kind": "Drop",
+          "name": "Dalaran Conjuror",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 1915,
+          "zone": "Silverpine Forest"
+        },
+        {
+          "kind": "Drop",
+          "name": "Rot Hide Brute",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 1939
+        },
+        {
+          "kind": "Drop",
+          "name": "Venture Co. Enforcer",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 3283,
+          "zone": "The Barrens"
+        },
+        {
+          "kind": "Drop",
+          "name": "Bael'dun Excavator",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 3374,
+          "zone": "The Barrens"
+        },
+        {
+          "kind": "Drop",
+          "name": "Bael'dun Officer",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 3378,
+          "zone": "The Barrens"
+        },
+        {
+          "kind": "Drop",
+          "name": "Twilight Elementalist",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 4814,
+          "zone": "Blackfathom Deeps"
+        },
+        {
+          "kind": "Drop",
+          "name": "Gnarlpine Augur",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 2011,
+          "zone": "Teldrassil"
+        },
+        {
+          "kind": "Drop",
+          "name": "Haggard Refugee",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 2053,
+          "zone": "Silverpine Forest"
+        },
+        {
+          "kind": "Drop",
+          "name": "Dustwind Harpy",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 3115
+        },
+        {
+          "kind": "Drop",
+          "name": "Dustwind Pillager",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 3116,
+          "zone": "Durotar"
+        },
+        {
+          "kind": "Drop",
+          "name": "Dustwind Storm Witch",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 3118,
+          "zone": "Durotar"
+        },
+        {
+          "kind": "Drop",
+          "name": "Witchwing Windcaller",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 3280,
+          "zone": "The Barrens"
+        },
+        {
+          "kind": "Drop",
+          "name": "Razormane Stalker",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 3457
+        },
+        {
+          "kind": "Drop",
+          "name": "Thistlefur Ursa",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 3921,
+          "zone": "Ashenvale"
+        },
+        {
+          "kind": "Drop",
+          "name": "Bleeding Horror",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 1529,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Thurman Agamand",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 1656
+        },
+        {
+          "kind": "Drop",
+          "name": "Captain Perrine",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 1662
+        },
+        {
+          "kind": "Drop",
+          "name": "Maggot Eye",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 1753
+        },
+        {
+          "kind": "Drop",
+          "name": "Tirisfal Farmhand",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 1935
+        },
+        {
+          "kind": "Drop",
+          "name": "Zalazane",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "npc": 3205
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 1537,
+          "name": "Scarlet Zealot",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1536,
+          "name": "Scarlet Missionary",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1522,
+          "name": "Darkeye Bonecaster",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1520,
+          "name": "Rattlecage Soldier",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3113,
+          "name": "Razormane Dustrunner",
+          "method": "Loot",
+          "zones": [
+            "Durotar"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 2010,
+          "name": "Gnarlpine Defender",
+          "method": "Loot",
+          "zones": [
+            "Teldrassil"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3111,
+          "name": "Razormane Quilboar",
+          "method": "Loot",
+          "zones": [
+            "Durotar"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1915,
+          "name": "Dalaran Conjuror",
+          "method": "Loot",
+          "zones": [
+            "Silverpine Forest"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1939,
+          "name": "Rot Hide Brute",
+          "method": "Loot",
+          "zones": [],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3283,
+          "name": "Venture Co. Enforcer",
+          "method": "Loot",
+          "zones": [
+            "The Barrens"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3374,
+          "name": "Bael'dun Excavator",
+          "method": "Loot",
+          "zones": [
+            "The Barrens"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3378,
+          "name": "Bael'dun Officer",
+          "method": "Loot",
+          "zones": [
+            "The Barrens"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 4814,
+          "name": "Twilight Elementalist",
+          "method": "Loot",
+          "zones": [
+            "Blackfathom Deeps"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 2011,
+          "name": "Gnarlpine Augur",
+          "method": "Loot",
+          "zones": [
+            "Teldrassil"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 2053,
+          "name": "Haggard Refugee",
+          "method": "Loot",
+          "zones": [
+            "Silverpine Forest"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3115,
+          "name": "Dustwind Harpy",
+          "method": "Loot",
+          "zones": [],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3116,
+          "name": "Dustwind Pillager",
+          "method": "Loot",
+          "zones": [
+            "Durotar"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3118,
+          "name": "Dustwind Storm Witch",
+          "method": "Loot",
+          "zones": [
+            "Durotar"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3280,
+          "name": "Witchwing Windcaller",
+          "method": "Loot",
+          "zones": [
+            "The Barrens"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3457,
+          "name": "Razormane Stalker",
+          "method": "Loot",
+          "zones": [],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3921,
+          "name": "Thistlefur Ursa",
+          "method": "Loot",
+          "zones": [
+            "Ashenvale"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1529,
+          "name": "Bleeding Horror",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1656,
+          "name": "Thurman Agamand",
+          "method": "Loot",
+          "zones": [],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1662,
+          "name": "Captain Perrine",
+          "method": "Loot",
+          "zones": [],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1753,
+          "name": "Maggot Eye",
+          "method": "Loot",
+          "zones": [],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1935,
+          "name": "Tirisfal Farmhand",
+          "method": "Loot",
+          "zones": [],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3205,
+          "name": "Zalazane",
+          "method": "Loot",
+          "zones": [],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/29.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "159": {
+      "name": "Refreshing Spring Water",
+      "url": "https://foreverdb.net/item/159",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Drop",
+          "name": "Rotting Dead",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "npc": 1525,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Scarlet Zealot",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "npc": 1537,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Rattlecage Soldier",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "npc": 1520,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Darkeye Bonecaster",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "npc": 1522,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Shambling Horror",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "npc": 1528,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Scarlet Missionary",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "npc": 1536,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Scarlet Friar",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "npc": 1538,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Devlin Agamand",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "npc": 1657
+        },
+        {
+          "kind": "Drop",
+          "name": "Captain Perrine",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "npc": 1662
+        },
+        {
+          "kind": "Drop",
+          "name": "Gnarlpine Shaman",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "npc": 2009,
+          "zone": "Teldrassil"
+        },
+        {
+          "kind": "Drop",
+          "name": "Timberling Trampler",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "npc": 2027,
+          "zone": "Teldrassil"
+        },
+        {
+          "kind": "Drop",
+          "name": "Gnarlpine Ambusher",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "npc": 2152,
+          "zone": "Teldrassil"
+        },
+        {
+          "kind": "Drop",
+          "name": "Dustwind Harpy",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "npc": 3115
+        },
+        {
+          "kind": "Drop",
+          "name": "Lieutenant Benedict",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "npc": 3192
+        },
+        {
+          "kind": "Drop",
+          "name": "Voodoo Troll",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "npc": 3206
+        },
+        {
+          "kind": "Vendor",
+          "name": "Daeolyn Summerleaf",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/31.json",
+          "npc": 12021,
+          "zone": "Moonglade"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 1525,
+          "name": "Rotting Dead",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1537,
+          "name": "Scarlet Zealot",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1520,
+          "name": "Rattlecage Soldier",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1522,
+          "name": "Darkeye Bonecaster",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1528,
+          "name": "Shambling Horror",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1536,
+          "name": "Scarlet Missionary",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1538,
+          "name": "Scarlet Friar",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1657,
+          "name": "Devlin Agamand",
+          "method": "Loot",
+          "zones": [],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1662,
+          "name": "Captain Perrine",
+          "method": "Loot",
+          "zones": [],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 2009,
+          "name": "Gnarlpine Shaman",
+          "method": "Loot",
+          "zones": [
+            "Teldrassil"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 2027,
+          "name": "Timberling Trampler",
+          "method": "Loot",
+          "zones": [
+            "Teldrassil"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 2152,
+          "name": "Gnarlpine Ambusher",
+          "method": "Loot",
+          "zones": [
+            "Teldrassil"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3115,
+          "name": "Dustwind Harpy",
+          "method": "Loot",
+          "zones": [],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3192,
+          "name": "Lieutenant Benedict",
+          "method": "Loot",
+          "zones": [],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3206,
+          "name": "Voodoo Troll",
+          "method": "Loot",
+          "zones": [],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 12021,
+          "name": "Daeolyn Summerleaf",
+          "method": "Vendor",
+          "zones": [
+            "Moonglade"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/31.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "2598": {
+      "name": "Pattern: Red Linen Robe",
+      "url": "https://foreverdb.net/item/2598",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": false,
+      "recipeItem": true,
+      "sources": [
+        {
+          "kind": "Drop",
+          "name": "Makrura Clacker",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/38.json",
+          "npc": 3103,
+          "zone": "Durotar"
+        },
+        {
+          "kind": "Drop",
+          "name": "Dustwind Harpy",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/38.json",
+          "npc": 3115,
+          "zone": "Durotar"
+        }
+      ],
+      "gatherSources": []
+    },
+    "5095": {
+      "name": "Rainbow Fin Albacore",
+      "url": "https://foreverdb.net/item/5095",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": false,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Quest",
+          "name": "Fishin' Time",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/39.json",
+          "id": 95065,
+          "zone": "Stormwind City",
+          "note": "Quest reward choice"
+        }
+      ],
+      "gatherSources": []
+    },
+    "818": {
+      "name": "Tigerseye",
+      "url": "https://foreverdb.net/item/818",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Drop",
+          "name": "Ragefire Trogg",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/50.json",
+          "npc": 11318,
+          "zone": "Ragefire Chasm"
+        },
+        {
+          "kind": "Drop",
+          "name": "Molten Elemental",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/50.json",
+          "npc": 11321,
+          "zone": "Ragefire Chasm"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 11318,
+          "name": "Ragefire Trogg",
+          "method": "Loot",
+          "zones": [
+            "Ragefire Chasm"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/50.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 11321,
+          "name": "Molten Elemental",
+          "method": "Loot",
+          "zones": [
+            "Ragefire Chasm"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/50.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "118": {
+      "name": "Minor Healing Potion",
+      "url": "https://foreverdb.net/item/118",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Drop",
+          "name": "Scarlet Warrior",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "npc": 1535,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Rotting Dead",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "npc": 1525,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Ravaged Corpse",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "npc": 1526,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Scarlet Missionary",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "npc": 1536,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Drop",
+          "name": "Gnarlpine Shaman",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "npc": 2009,
+          "zone": "Teldrassil"
+        },
+        {
+          "kind": "Drop",
+          "name": "Gnarlpine Augur",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "npc": 2011,
+          "zone": "Teldrassil"
+        },
+        {
+          "kind": "Drop",
+          "name": "Timberling",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "npc": 2022,
+          "zone": "Teldrassil"
+        },
+        {
+          "kind": "Drop",
+          "name": "Razormane Battleguard",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "npc": 3114,
+          "zone": "Durotar"
+        },
+        {
+          "kind": "Drop",
+          "name": "Razormane Dustrunner",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "npc": 3113,
+          "zone": "Durotar"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 1535,
+          "name": "Scarlet Warrior",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1525,
+          "name": "Rotting Dead",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1526,
+          "name": "Ravaged Corpse",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 1536,
+          "name": "Scarlet Missionary",
+          "method": "Loot",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 2009,
+          "name": "Gnarlpine Shaman",
+          "method": "Loot",
+          "zones": [
+            "Teldrassil"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 2011,
+          "name": "Gnarlpine Augur",
+          "method": "Loot",
+          "zones": [
+            "Teldrassil"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 2022,
+          "name": "Timberling",
+          "method": "Loot",
+          "zones": [
+            "Teldrassil"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3114,
+          "name": "Razormane Battleguard",
+          "method": "Loot",
+          "zones": [
+            "Durotar"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3113,
+          "name": "Razormane Dustrunner",
+          "method": "Loot",
+          "zones": [
+            "Durotar"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/54.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "4536": {
+      "name": "Shiny Red Apple",
+      "url": "https://foreverdb.net/item/4536",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Drop",
+          "name": "Greenpaw",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/56.json",
+          "npc": 1993,
+          "zone": "Teldrassil"
+        },
+        {
+          "kind": "Drop",
+          "name": "Gnarlpine Shaman",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/56.json",
+          "npc": 2009,
+          "zone": "Teldrassil"
+        },
+        {
+          "kind": "Drop",
+          "name": "Razormane Battleguard",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/56.json",
+          "npc": 3114,
+          "zone": "Durotar"
+        },
+        {
+          "kind": "Drop",
+          "name": "Razormane Dustrunner",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/56.json",
+          "npc": 3113,
+          "zone": "Durotar"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 1993,
+          "name": "Greenpaw",
+          "method": "Loot",
+          "zones": [
+            "Teldrassil"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/56.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 2009,
+          "name": "Gnarlpine Shaman",
+          "method": "Loot",
+          "zones": [
+            "Teldrassil"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/56.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3114,
+          "name": "Razormane Battleguard",
+          "method": "Loot",
+          "zones": [
+            "Durotar"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/56.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 3113,
+          "name": "Razormane Dustrunner",
+          "method": "Loot",
+          "zones": [
+            "Durotar"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/56.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "1210": {
+      "name": "Shadowgem",
+      "url": "https://foreverdb.net/item/1210",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Drop",
+          "name": "Searing Blade Cultist",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/58.json",
+          "npc": 11322,
+          "zone": "Ragefire Chasm"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 11322,
+          "name": "Searing Blade Cultist",
+          "method": "Loot",
+          "zones": [
+            "Ragefire Chasm"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sources/58.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "2880": {
+      "name": "Weak Flux",
+      "url": "https://foreverdb.net/item/2880",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Messana Crestwind",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/0.json",
+          "npc": 257022,
+          "zone": "Zephras Isle"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 257022,
+          "name": "Messana Crestwind",
+          "method": "Vendor",
+          "zones": [
+            "Zephras Isle"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/0.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "6530": {
+      "name": "Nightcrawlers",
+      "url": "https://foreverdb.net/item/6530",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Voloren",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/2.json",
+          "npc": 4222,
+          "zone": "Darnassus"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 4222,
+          "name": "Voloren",
+          "method": "Vendor",
+          "zones": [
+            "Darnassus"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/2.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "6533": {
+      "name": "Aquadynamic Fish Attractor",
+      "url": "https://foreverdb.net/item/6533",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": false,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Martine Tramblay",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/5.json",
+          "npc": 3550,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Vendor",
+          "name": "Lizbeth Cromwell",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/5.json",
+          "npc": 4574,
+          "zone": "Undercity"
+        }
+      ],
+      "gatherSources": []
+    },
+    "3466": {
+      "name": "Strong Flux",
+      "url": "https://foreverdb.net/item/3466",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Messana Crestwind",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/10.json",
+          "npc": 257022,
+          "zone": "Zephras Isle"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 257022,
+          "name": "Messana Crestwind",
+          "method": "Vendor",
+          "zones": [
+            "Zephras Isle"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/10.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "18256": {
+      "name": "Imbued Vial",
+      "url": "https://foreverdb.net/item/18256",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Selina Weston",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/16.json",
+          "npc": 3548,
+          "zone": "Tirisfal Glades"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 3548,
+          "name": "Selina Weston",
+          "method": "Vendor",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/16.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "2449": {
+      "name": "Earthroot",
+      "url": "https://foreverdb.net/item/2449",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Selina Weston",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/17.json",
+          "npc": 3548,
+          "zone": "Tirisfal Glades"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 3548,
+          "name": "Selina Weston",
+          "method": "Vendor",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/17.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "3857": {
+      "name": "Coal",
+      "url": "https://foreverdb.net/item/3857",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Messana Crestwind",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/17.json",
+          "npc": 257022,
+          "zone": "Zephras Isle"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 257022,
+          "name": "Messana Crestwind",
+          "method": "Vendor",
+          "zones": [
+            "Zephras Isle"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/17.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "2453": {
+      "name": "Bruiseweed",
+      "url": "https://foreverdb.net/item/2453",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Selina Weston",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/21.json",
+          "npc": 3548,
+          "zone": "Tirisfal Glades"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 3548,
+          "name": "Selina Weston",
+          "method": "Vendor",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/21.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "3030": {
+      "name": "Razor Arrow",
+      "url": "https://foreverdb.net/item/3030",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Daeolyn Summerleaf",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/22.json",
+          "npc": 12021,
+          "zone": "Moonglade"
+        },
+        {
+          "kind": "Vendor",
+          "name": "Landria",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/22.json",
+          "npc": 4173,
+          "zone": "Darnassus"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 12021,
+          "name": "Daeolyn Summerleaf",
+          "method": "Vendor",
+          "zones": [
+            "Moonglade"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/22.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        },
+        {
+          "kind": "npc",
+          "id": 4173,
+          "name": "Landria",
+          "method": "Vendor",
+          "zones": [
+            "Darnassus"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/22.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "10647": {
+      "name": "Engineer's Ink",
+      "url": "https://foreverdb.net/item/10647",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Salazar Bloch",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/23.json",
+          "npc": 4581,
+          "zone": "Undercity"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 4581,
+          "name": "Salazar Bloch",
+          "method": "Vendor",
+          "zones": [
+            "Undercity"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/23.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "10648": {
+      "name": "Blank Parchment",
+      "url": "https://foreverdb.net/item/10648",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Salazar Bloch",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/24.json",
+          "npc": 4581,
+          "zone": "Undercity"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 4581,
+          "name": "Salazar Bloch",
+          "method": "Vendor",
+          "zones": [
+            "Undercity"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/24.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "6362": {
+      "name": "Raw Rockscale Cod",
+      "url": "https://foreverdb.net/item/6362",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Laird",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/26.json",
+          "npc": 4200,
+          "zone": "Darkshore"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 4200,
+          "name": "Laird",
+          "method": "Vendor",
+          "zones": [
+            "Darkshore"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/26.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "858": {
+      "name": "Lesser Healing Potion",
+      "url": "https://foreverdb.net/item/858",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": false,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Selina Weston",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/26.json",
+          "npc": 3548,
+          "zone": "Tirisfal Glades"
+        }
+      ],
+      "gatherSources": []
+    },
+    "11291": {
+      "name": "Star Wood",
+      "url": "https://foreverdb.net/item/11291",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Daeolyn Summerleaf",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/27.json",
+          "npc": 12021,
+          "zone": "Moonglade"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 12021,
+          "name": "Daeolyn Summerleaf",
+          "method": "Vendor",
+          "zones": [
+            "Moonglade"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/27.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "253665": {
+      "name": "Pattern: Linen Reagent Bag",
+      "url": "https://foreverdb.net/item/253665",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": false,
+      "recipeItem": true,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Darah",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/33.json",
+          "npc": 258463,
+          "zone": "Orgrimmar"
+        }
+      ],
+      "gatherSources": []
+    },
+    "6308": {
+      "name": "Raw Bristle Whisker Catfish",
+      "url": "https://foreverdb.net/item/6308",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Laird",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/36.json",
+          "npc": 4200,
+          "zone": "Darkshore"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 4200,
+          "name": "Laird",
+          "method": "Vendor",
+          "zones": [
+            "Darkshore"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/36.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "253668": {
+      "name": "Pattern: Woolen Reagent Bag",
+      "url": "https://foreverdb.net/item/253668",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": false,
+      "recipeItem": true,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Darah",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/36.json",
+          "npc": 258463,
+          "zone": "Orgrimmar"
+        }
+      ],
+      "gatherSources": []
+    },
+    "1708": {
+      "name": "Sweet Nectar",
+      "url": "https://foreverdb.net/item/1708",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Daeolyn Summerleaf",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/44.json",
+          "npc": 12021,
+          "zone": "Moonglade"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 12021,
+          "name": "Daeolyn Summerleaf",
+          "method": "Vendor",
+          "zones": [
+            "Moonglade"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/44.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "1645": {
+      "name": "Moonberry Juice",
+      "url": "https://foreverdb.net/item/1645",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Daeolyn Summerleaf",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/45.json",
+          "npc": 12021,
+          "zone": "Moonglade"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 12021,
+          "name": "Daeolyn Summerleaf",
+          "method": "Vendor",
+          "zones": [
+            "Moonglade"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/45.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "1205": {
+      "name": "Melon Juice",
+      "url": "https://foreverdb.net/item/1205",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Daeolyn Summerleaf",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/53.json",
+          "npc": 12021,
+          "zone": "Moonglade"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 12021,
+          "name": "Daeolyn Summerleaf",
+          "method": "Vendor",
+          "zones": [
+            "Moonglade"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/53.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "4470": {
+      "name": "Simple Wood",
+      "url": "https://foreverdb.net/item/4470",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Daeolyn Summerleaf",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/54.json",
+          "npc": 12021,
+          "zone": "Moonglade"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 12021,
+          "name": "Daeolyn Summerleaf",
+          "method": "Vendor",
+          "zones": [
+            "Moonglade"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/54.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)"
+        }
+      ]
+    },
+    "4603": {
+      "name": "Raw Spotted Yellowtail",
+      "url": "https://foreverdb.net/item/4603",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Laird",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/59.json",
+          "npc": 4200,
+          "zone": "Darkshore"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 4200,
+          "name": "Laird",
+          "method": "Vendor",
+          "zones": [
+            "Darkshore"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/59.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)",
+          "faction": "Alliance"
+        }
+      ]
+    },
+    "4605": {
+      "name": "Red-speckled Mushroom",
+      "url": "https://foreverdb.net/item/4605",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Kor'jus",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/61.json",
+          "npc": 3329,
+          "zone": "Orgrimmar"
+        },
+        {
+          "kind": "Vendor",
+          "name": "Hamlin Atkins",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/61.json",
+          "npc": 3547,
+          "zone": "Tirisfal Glades"
+        },
+        {
+          "kind": "Vendor",
+          "name": "Morley Bates",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/61.json",
+          "npc": 4571,
+          "zone": "Undercity"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 3329,
+          "name": "Kor'jus",
+          "method": "Vendor",
+          "zones": [
+            "Orgrimmar"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/61.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)",
+          "faction": "Horde"
+        },
+        {
+          "kind": "npc",
+          "id": 3547,
+          "name": "Hamlin Atkins",
+          "method": "Vendor",
+          "zones": [
+            "Tirisfal Glades"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/61.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)",
+          "faction": "Horde"
+        },
+        {
+          "kind": "npc",
+          "id": 4571,
+          "name": "Morley Bates",
+          "method": "Vendor",
+          "zones": [
+            "Undercity"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/61.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)",
+          "faction": "Horde"
+        }
+      ]
+    },
+    "8959": {
+      "name": "Raw Spinefin Halibut",
+      "url": "https://foreverdb.net/item/8959",
+      "captured": "2026-11-06",
+      "status": "observed-forever",
+      "material": true,
+      "recipeItem": false,
+      "sources": [
+        {
+          "kind": "Vendor",
+          "name": "Laird",
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/63.json",
+          "npc": 4200,
+          "zone": "Darkshore"
+        }
+      ],
+      "gatherSources": [
+        {
+          "kind": "npc",
+          "id": 4200,
+          "name": "Laird",
+          "method": "Vendor",
+          "zones": [
+            "Darkshore"
+          ],
+          "source": "ForeverDB observed (checked 2026-11-06)",
+          "url": "https://foreverdb.net/data/sold/63.json",
+          "provenance": "ForeverDB observed (checked 2026-11-06)",
+          "faction": "Alliance"
+        }
+      ]
+    }
+  },
+  "npcs": {
+    "1536": {
+      "name": "Scarlet Missionary",
+      "locations": [
+        "Tirisfal Glades"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3118": {
+      "name": "Dustwind Storm Witch",
+      "locations": [
+        "Durotar"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3117": {
+      "name": "Dustwind Savage",
+      "locations": [
+        "Durotar"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1537": {
+      "name": "Scarlet Zealot",
+      "locations": [
+        "Tirisfal Glades"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "2166": {
+      "name": "Oakenscowl",
+      "locations": [],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3198": {
+      "name": "Burning Blade Apprentice",
+      "locations": [
+        "Durotar"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "256092": {
+      "name": "Shadowgale Shriekling",
+      "locations": [
+        "Zephras Isle"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "266850": {
+      "name": "Ridgeshade Creeper",
+      "locations": [
+        "Durotar"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "11323": {
+      "name": "Searing Blade Enforcer",
+      "locations": [
+        "Ragefire Chasm"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1522": {
+      "name": "Darkeye Bonecaster",
+      "locations": [
+        "Tirisfal Glades"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1520": {
+      "name": "Rattlecage Soldier",
+      "locations": [
+        "Tirisfal Glades"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3113": {
+      "name": "Razormane Dustrunner",
+      "locations": [
+        "Durotar"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "2010": {
+      "name": "Gnarlpine Defender",
+      "locations": [
+        "Teldrassil"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3111": {
+      "name": "Razormane Quilboar",
+      "locations": [
+        "Durotar"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1915": {
+      "name": "Dalaran Conjuror",
+      "locations": [
+        "Silverpine Forest"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1939": {
+      "name": "Rot Hide Brute",
+      "locations": [],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3283": {
+      "name": "Venture Co. Enforcer",
+      "locations": [
+        "The Barrens"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3374": {
+      "name": "Bael'dun Excavator",
+      "locations": [
+        "The Barrens"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3378": {
+      "name": "Bael'dun Officer",
+      "locations": [
+        "The Barrens"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "4814": {
+      "name": "Twilight Elementalist",
+      "locations": [
+        "Blackfathom Deeps"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "2011": {
+      "name": "Gnarlpine Augur",
+      "locations": [
+        "Teldrassil"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "2053": {
+      "name": "Haggard Refugee",
+      "locations": [
+        "Silverpine Forest"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3115": {
+      "name": "Dustwind Harpy",
+      "locations": [
+        "Durotar"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3116": {
+      "name": "Dustwind Pillager",
+      "locations": [
+        "Durotar"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3280": {
+      "name": "Witchwing Windcaller",
+      "locations": [
+        "The Barrens"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3457": {
+      "name": "Razormane Stalker",
+      "locations": [],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3921": {
+      "name": "Thistlefur Ursa",
+      "locations": [
+        "Ashenvale"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1529": {
+      "name": "Bleeding Horror",
+      "locations": [
+        "Tirisfal Glades"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1656": {
+      "name": "Thurman Agamand",
+      "locations": [],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1662": {
+      "name": "Captain Perrine",
+      "locations": [],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1753": {
+      "name": "Maggot Eye",
+      "locations": [],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1935": {
+      "name": "Tirisfal Farmhand",
+      "locations": [],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3205": {
+      "name": "Zalazane",
+      "locations": [],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1525": {
+      "name": "Rotting Dead",
+      "locations": [
+        "Tirisfal Glades"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1528": {
+      "name": "Shambling Horror",
+      "locations": [
+        "Tirisfal Glades"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1538": {
+      "name": "Scarlet Friar",
+      "locations": [
+        "Tirisfal Glades"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1657": {
+      "name": "Devlin Agamand",
+      "locations": [],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "2009": {
+      "name": "Gnarlpine Shaman",
+      "locations": [
+        "Teldrassil"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "2027": {
+      "name": "Timberling Trampler",
+      "locations": [
+        "Teldrassil"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "2152": {
+      "name": "Gnarlpine Ambusher",
+      "locations": [
+        "Teldrassil"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3192": {
+      "name": "Lieutenant Benedict",
+      "locations": [],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3206": {
+      "name": "Voodoo Troll",
+      "locations": [],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3103": {
+      "name": "Makrura Clacker",
+      "locations": [
+        "Durotar"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "11318": {
+      "name": "Ragefire Trogg",
+      "locations": [
+        "Ragefire Chasm"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "11321": {
+      "name": "Molten Elemental",
+      "locations": [
+        "Ragefire Chasm"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1535": {
+      "name": "Scarlet Warrior",
+      "locations": [
+        "Tirisfal Glades"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1526": {
+      "name": "Ravaged Corpse",
+      "locations": [
+        "Tirisfal Glades"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "2022": {
+      "name": "Timberling",
+      "locations": [
+        "Teldrassil"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3114": {
+      "name": "Razormane Battleguard",
+      "locations": [
+        "Durotar"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1993": {
+      "name": "Greenpaw",
+      "locations": [
+        "Teldrassil"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "11322": {
+      "name": "Searing Blade Cultist",
+      "locations": [
+        "Ragefire Chasm"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "257022": {
+      "name": "Messana Crestwind",
+      "locations": [
+        "Zephras Isle"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "4222": {
+      "name": "Voloren",
+      "locations": [
+        "Darnassus"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3550": {
+      "name": "Martine Tramblay",
+      "locations": [
+        "Tirisfal Glades"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "4574": {
+      "name": "Lizbeth Cromwell",
+      "locations": [
+        "Undercity"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3548": {
+      "name": "Selina Weston",
+      "locations": [
+        "Tirisfal Glades"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "12021": {
+      "name": "Daeolyn Summerleaf",
+      "locations": [
+        "Moonglade"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "4173": {
+      "name": "Landria",
+      "locations": [
+        "Darnassus"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "4581": {
+      "name": "Salazar Bloch",
+      "locations": [
+        "Undercity"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "4200": {
+      "name": "Laird",
+      "locations": [
+        "Darkshore"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "258463": {
+      "name": "Darah",
+      "locations": [
+        "Orgrimmar"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3329": {
+      "name": "Kor'jus",
+      "locations": [
+        "Orgrimmar"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3547": {
+      "name": "Hamlin Atkins",
+      "locations": [
+        "Tirisfal Glades"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "4571": {
+      "name": "Morley Bates",
+      "locations": [
+        "Undercity"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3603": {
+      "name": "Cyndra Kindwhisper",
+      "locations": [
+        "Teldrassil"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "11041": {
+      "name": "Milla Fairancora",
+      "locations": [
+        "Darnassus"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "276067": {
+      "name": "Angus Hammerhand",
+      "locations": [
+        "Tirisfal Glades"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "4605": {
+      "name": "Basil Frye",
+      "locations": [
+        "Undercity"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "257020": {
+      "name": "Nasalanna Windsinger",
+      "locations": [
+        "Zephras Isle"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "257018": {
+      "name": "Naleeia Tattermend",
+      "locations": [
+        "Zephras Isle"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "3607": {
+      "name": "Androl Oakhand",
+      "locations": [
+        "Teldrassil"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "4573": {
+      "name": "Armand Cromwell",
+      "locations": [
+        "Undercity"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "251992": {
+      "name": "Fenn Fairweather",
+      "locations": [
+        "Zephras Isle"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "4204": {
+      "name": "Firodren Mooncaller",
+      "locations": [
+        "Darnassus"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "12025": {
+      "name": "Malvor",
+      "locations": [
+        "Moonglade"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "1466": {
+      "name": "Gretta Finespindle",
+      "locations": [
+        "Ironforge"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    },
+    "251993": {
+      "name": "Indari Sunseam",
+      "locations": [
+        "Zephras Isle"
+      ],
+      "source": "ForeverDB observations, checked 2026-11-06"
+    }
+  },
+  "trainers": [
+    {
+      "profession": "Alchemy",
+      "spell": 3170,
+      "recipe": "Minor Troll's Blood Elixir",
+      "npc": 3603,
+      "name": "Cyndra Kindwhisper",
+      "zone": "Teldrassil",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 3170,
+      "recipe": "Minor Troll's Blood Elixir",
+      "npc": 11041,
+      "name": "Milla Fairancora",
+      "zone": "Darnassus",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 1230564,
+      "recipe": "Mana Well",
+      "npc": 3603,
+      "name": "Cyndra Kindwhisper",
+      "zone": "Teldrassil",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 1230564,
+      "recipe": "Mana Well",
+      "npc": 11041,
+      "name": "Milla Fairancora",
+      "zone": "Darnassus",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 2331,
+      "recipe": "Minor Mana Potion",
+      "npc": 3603,
+      "name": "Cyndra Kindwhisper",
+      "zone": "Teldrassil",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 2331,
+      "recipe": "Minor Mana Potion",
+      "npc": 11041,
+      "name": "Milla Fairancora",
+      "zone": "Darnassus",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 2332,
+      "recipe": "Minor Rejuvenation Potion",
+      "npc": 3603,
+      "name": "Cyndra Kindwhisper",
+      "zone": "Teldrassil",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 2332,
+      "recipe": "Minor Rejuvenation Potion",
+      "npc": 11041,
+      "name": "Milla Fairancora",
+      "zone": "Darnassus",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 1249630,
+      "recipe": "Cerulean Dye",
+      "npc": 3603,
+      "name": "Cyndra Kindwhisper",
+      "zone": "Teldrassil",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 1249630,
+      "recipe": "Cerulean Dye",
+      "npc": 11041,
+      "name": "Milla Fairancora",
+      "zone": "Darnassus",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 1249633,
+      "recipe": "Sulfuric Acid",
+      "npc": 3603,
+      "name": "Cyndra Kindwhisper",
+      "zone": "Teldrassil",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 1249633,
+      "recipe": "Sulfuric Acid",
+      "npc": 11041,
+      "name": "Milla Fairancora",
+      "zone": "Darnassus",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 2334,
+      "recipe": "Elixir of Minor Fortitude",
+      "npc": 3603,
+      "name": "Cyndra Kindwhisper",
+      "zone": "Teldrassil",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 2334,
+      "recipe": "Elixir of Minor Fortitude",
+      "npc": 11041,
+      "name": "Milla Fairancora",
+      "zone": "Darnassus",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 2329,
+      "recipe": "Elixir of Minor Strength",
+      "npc": 3603,
+      "name": "Cyndra Kindwhisper",
+      "zone": "Teldrassil",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 2329,
+      "recipe": "Elixir of Minor Strength",
+      "npc": 11041,
+      "name": "Milla Fairancora",
+      "zone": "Darnassus",
+      "url": "https://foreverdb.net/data/professions/alchemy.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2662,
+      "recipe": "Copper Chain Pants",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2662,
+      "recipe": "Copper Chain Pants",
+      "npc": 4605,
+      "name": "Basil Frye",
+      "zone": "Undercity",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2737,
+      "recipe": "Copper Mace",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 1230171,
+      "recipe": "Sharpening Wheel",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 1230171,
+      "recipe": "Sharpening Wheel",
+      "npc": 4605,
+      "name": "Basil Frye",
+      "zone": "Undercity",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2738,
+      "recipe": "Copper Axe",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3319,
+      "recipe": "Copper Chain Boots",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3319,
+      "recipe": "Copper Chain Boots",
+      "npc": 4605,
+      "name": "Basil Frye",
+      "zone": "Undercity",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3320,
+      "recipe": "Rough Grinding Stone",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3320,
+      "recipe": "Rough Grinding Stone",
+      "npc": 4605,
+      "name": "Basil Frye",
+      "zone": "Undercity",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2739,
+      "recipe": "Copper Shortsword",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 9983,
+      "recipe": "Copper Claymore",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 8880,
+      "recipe": "Copper Dagger",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 1252229,
+      "recipe": "Gemmed Copper Boots",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 1252231,
+      "recipe": "Glowing Copper Boots",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 1252230,
+      "recipe": "Strange Copper Boots",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3293,
+      "recipe": "Copper Battle Axe",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3293,
+      "recipe": "Copper Battle Axe",
+      "npc": 4605,
+      "name": "Basil Frye",
+      "zone": "Undercity",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2661,
+      "recipe": "Copper Chain Belt",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2661,
+      "recipe": "Copper Chain Belt",
+      "npc": 4605,
+      "name": "Basil Frye",
+      "zone": "Undercity",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2665,
+      "recipe": "Coarse Sharpening Stone",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2665,
+      "recipe": "Coarse Sharpening Stone",
+      "npc": 4605,
+      "name": "Basil Frye",
+      "zone": "Undercity",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3116,
+      "recipe": "Coarse Weightstone",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3116,
+      "recipe": "Coarse Weightstone",
+      "npc": 4605,
+      "name": "Basil Frye",
+      "zone": "Undercity",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3323,
+      "recipe": "Runed Copper Gauntlets",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3324,
+      "recipe": "Runed Copper Pants",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3326,
+      "recipe": "Coarse Grinding Stone",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3326,
+      "recipe": "Coarse Grinding Stone",
+      "npc": 4605,
+      "name": "Basil Frye",
+      "zone": "Undercity",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 7408,
+      "recipe": "Heavy Copper Maul",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2666,
+      "recipe": "Runed Copper Belt",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2666,
+      "recipe": "Runed Copper Belt",
+      "npc": 4605,
+      "name": "Basil Frye",
+      "zone": "Undercity",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3294,
+      "recipe": "Thick War Axe",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 19666,
+      "recipe": "Silver Skeleton Key",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 7818,
+      "recipe": "Silver Rod",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2664,
+      "recipe": "Runed Copper Bracers",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3292,
+      "recipe": "Heavy Copper Broadsword",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 7817,
+      "recipe": "Rough Bronze Boots",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3337,
+      "recipe": "Heavy Grinding Stone",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2674,
+      "recipe": "Heavy Sharpening Stone",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3117,
+      "recipe": "Heavy Weightstone",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3491,
+      "recipe": "Big Bronze Knife",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2670,
+      "recipe": "Rough Bronze Cuirass",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2668,
+      "recipe": "Rough Bronze Leggings",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2740,
+      "recipe": "Bronze Mace",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 6517,
+      "recipe": "Pearl-handled Dagger",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3328,
+      "recipe": "Rough Bronze Shoulders",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2741,
+      "recipe": "Bronze Axe",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2742,
+      "recipe": "Bronze Shortsword",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2672,
+      "recipe": "Patterned Bronze Bracers",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 19667,
+      "recipe": "Golden Skeleton Key",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 8768,
+      "recipe": "Iron Buckle",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 9985,
+      "recipe": "Bronze Warhammer",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 14379,
+      "recipe": "Golden Rod",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 9986,
+      "recipe": "Bronze Greatsword",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3296,
+      "recipe": "Heavy Bronze Mace",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3331,
+      "recipe": "Silvered Bronze Boots",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 9987,
+      "recipe": "Bronze Battle Axe",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3333,
+      "recipe": "Silvered Bronze Gauntlets",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2675,
+      "recipe": "Shining Silver Breastplate",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 1252309,
+      "recipe": "Justicar's Belt",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 1252305,
+      "recipe": "Officer's Belt",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 1252308,
+      "recipe": "Prefect's Belt",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 1252306,
+      "recipe": "Sentinel's Belt",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 1252307,
+      "recipe": "Warder's Belt",
+      "npc": 276067,
+      "name": "Angus Hammerhand",
+      "zone": "Tirisfal Glades",
+      "url": "https://foreverdb.net/data/professions/blacksmithing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Enchanting",
+      "spell": 14293,
+      "recipe": "Lesser Magic Wand",
+      "npc": 257020,
+      "name": "Nasalanna Windsinger",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/enchanting.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Enchanting",
+      "spell": 7420,
+      "recipe": "Enchant Chest - Inferior Stamina",
+      "npc": 257020,
+      "name": "Nasalanna Windsinger",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/enchanting.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Enchanting",
+      "spell": 1230643,
+      "recipe": "Enchanted Lute",
+      "npc": 257020,
+      "name": "Nasalanna Windsinger",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/enchanting.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Enchanting",
+      "spell": 7426,
+      "recipe": "Enchant Chest - Minor Absorption",
+      "npc": 257020,
+      "name": "Nasalanna Windsinger",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/enchanting.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Enchanting",
+      "spell": 7454,
+      "recipe": "Enchant Cloak - Minor Resistance",
+      "npc": 257020,
+      "name": "Nasalanna Windsinger",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/enchanting.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Enchanting",
+      "spell": 7457,
+      "recipe": "Enchant Bracer - Minor Stamina",
+      "npc": 257020,
+      "name": "Nasalanna Windsinger",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/enchanting.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Enchanting",
+      "spell": 7748,
+      "recipe": "Enchant Chest - Lesser Stamina",
+      "npc": 257020,
+      "name": "Nasalanna Windsinger",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/enchanting.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Enchanting",
+      "spell": 14807,
+      "recipe": "Greater Magic Wand",
+      "npc": 257020,
+      "name": "Nasalanna Windsinger",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/enchanting.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Enchanting",
+      "spell": 7771,
+      "recipe": "Enchant Cloak - Minor Protection",
+      "npc": 257020,
+      "name": "Nasalanna Windsinger",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/enchanting.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "First Aid",
+      "spell": 1230117,
+      "recipe": "First Aid Kit",
+      "npc": 257018,
+      "name": "Naleeia Tattermend",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/first-aid.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "First Aid",
+      "spell": 3276,
+      "recipe": "Heavy Linen Bandage",
+      "npc": 257018,
+      "name": "Naleeia Tattermend",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/first-aid.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "First Aid",
+      "spell": 1244431,
+      "recipe": "Minor Healing Potion",
+      "npc": 257018,
+      "name": "Naleeia Tattermend",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/first-aid.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Fishing",
+      "spell": 1229745,
+      "recipe": "Fish Bowl",
+      "npc": 3607,
+      "name": "Androl Oakhand",
+      "zone": "Teldrassil",
+      "url": "https://foreverdb.net/data/professions/fishing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Fishing",
+      "spell": 1229745,
+      "recipe": "Fish Bowl",
+      "npc": 4573,
+      "name": "Armand Cromwell",
+      "zone": "Undercity",
+      "url": "https://foreverdb.net/data/professions/fishing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Fishing",
+      "spell": 1229745,
+      "recipe": "Fish Bowl",
+      "npc": 251992,
+      "name": "Fenn Fairweather",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/fishing.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Herbalism",
+      "spell": 1229705,
+      "recipe": "Incense Candle",
+      "npc": 4204,
+      "name": "Firodren Mooncaller",
+      "zone": "Darnassus",
+      "url": "https://foreverdb.net/data/professions/herbalism.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Herbalism",
+      "spell": 1229705,
+      "recipe": "Incense Candle",
+      "npc": 12025,
+      "name": "Malvor",
+      "zone": "Moonglade",
+      "url": "https://foreverdb.net/data/professions/herbalism.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 2153,
+      "recipe": "Handstitched Leather Pants",
+      "npc": 1466,
+      "name": "Gretta Finespindle",
+      "zone": "Ironforge",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 2153,
+      "recipe": "Handstitched Leather Pants",
+      "npc": 251993,
+      "name": "Indari Sunseam",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 1229432,
+      "recipe": "Camp Tent",
+      "npc": 1466,
+      "name": "Gretta Finespindle",
+      "zone": "Ironforge",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 1229432,
+      "recipe": "Camp Tent",
+      "npc": 251993,
+      "name": "Indari Sunseam",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 3753,
+      "recipe": "Handstitched Leather Belt",
+      "npc": 1466,
+      "name": "Gretta Finespindle",
+      "zone": "Ironforge",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 3753,
+      "recipe": "Handstitched Leather Belt",
+      "npc": 251993,
+      "name": "Indari Sunseam",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 9060,
+      "recipe": "Light Leather Quiver",
+      "npc": 1466,
+      "name": "Gretta Finespindle",
+      "zone": "Ironforge",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 9060,
+      "recipe": "Light Leather Quiver",
+      "npc": 251993,
+      "name": "Indari Sunseam",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 9062,
+      "recipe": "Small Leather Ammo Pouch",
+      "npc": 1466,
+      "name": "Gretta Finespindle",
+      "zone": "Ironforge",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 9062,
+      "recipe": "Small Leather Ammo Pouch",
+      "npc": 251993,
+      "name": "Indari Sunseam",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 1255145,
+      "recipe": "Dark Leather Boots",
+      "npc": 1466,
+      "name": "Gretta Finespindle",
+      "zone": "Ironforge",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 1255145,
+      "recipe": "Dark Leather Boots",
+      "npc": 251993,
+      "name": "Indari Sunseam",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 3816,
+      "recipe": "Cured Light Hide",
+      "npc": 1466,
+      "name": "Gretta Finespindle",
+      "zone": "Ironforge",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 3816,
+      "recipe": "Cured Light Hide",
+      "npc": 251993,
+      "name": "Indari Sunseam",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 2160,
+      "recipe": "Embossed Leather Vest",
+      "npc": 1466,
+      "name": "Gretta Finespindle",
+      "zone": "Ironforge",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 2160,
+      "recipe": "Embossed Leather Vest",
+      "npc": 251993,
+      "name": "Indari Sunseam",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 3756,
+      "recipe": "Embossed Leather Gloves",
+      "npc": 1466,
+      "name": "Gretta Finespindle",
+      "zone": "Ironforge",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 3756,
+      "recipe": "Embossed Leather Gloves",
+      "npc": 251993,
+      "name": "Indari Sunseam",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 2162,
+      "recipe": "Embossed Leather Cloak",
+      "npc": 1466,
+      "name": "Gretta Finespindle",
+      "zone": "Ironforge",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 2162,
+      "recipe": "Embossed Leather Cloak",
+      "npc": 251993,
+      "name": "Indari Sunseam",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 9065,
+      "recipe": "Light Leather Bracers",
+      "npc": 1466,
+      "name": "Gretta Finespindle",
+      "zone": "Ironforge",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 9065,
+      "recipe": "Light Leather Bracers",
+      "npc": 251993,
+      "name": "Indari Sunseam",
+      "zone": "Zephras Isle",
+      "url": "https://foreverdb.net/data/professions/leatherworking.json",
+      "captured": "2026-11-06"
+    }
+  ]
+}

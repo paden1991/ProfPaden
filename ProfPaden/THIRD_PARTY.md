@@ -14,3 +14,5 @@ This package contains ProfPaden code and compiled data, not the original researc
 The November 5, 2026 acquisition pass includes factual item, vendor, quest, crafting and drop relationships from ForeverDB (https://foreverdb.net/) and Wowhead Forever (https://www.wowhead.com/forever). Provider labels and item links are retained. Only explicitly Forever-labelled new ForeverDB relationships were imported; observed positions were not converted to spawn coordinates. Game facts retain their underlying rights. No provider code, prose guides, or artwork is included by this pass.
 
 Public availability does not assign a blanket open-source license to this package or erase any source attribution.
+
+The November 6, 2026 coverage pass adds explicitly Forever-labelled creature loot, vendor, quest and recipe-trainer observations from ForeverDB (https://foreverdb.net/). The reviewed ledger and exclusions are in docs/morning-data in the source repository. Observation counts are not drop rates; observed positions are not new spawn points. Numeric profession changes and unresolved/shared source identities were not imported.

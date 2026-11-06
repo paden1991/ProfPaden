@@ -12,6 +12,8 @@ def runtime(include_patch):
     load=L.eval('function(s,p) assert(loadstring(s))("ProfPaden",p) end')
     for line in (ADDON/'ProfPaden.toc').read_text().splitlines():
         if line.startswith('Data\\') and line.endswith('.lua'):
+            # Isolate this historical module; the morning suite covers the full current load order.
+            if line=='Data\\MorningSources.lua':continue
             if line=='Data\\LaunchSources.lua' and not include_patch:continue
             load((ADDON/line.replace('\\','/')).read_text(encoding='utf8'),P)
     return L,P,load

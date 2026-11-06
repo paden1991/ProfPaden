@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-06",
+  "providerBuild": "1.60.1.70790",
+  "filesChecked": 141,
+  "candidates": 129,
+  "candidateItems": 46,
+  "acceptedRelationships": 102,
+  "acceptedItems": 39,
+  "kinds": {
+    "drop": 69,
+    "quest": 3,
+    "vendor": 30
+  },
+  "heldRelationships": 27,
+  "unnamedRelationships": 23,
+  "sharedObjectRelationships": 4,
+  "trainerRelationships": 119,
+  "trainerRecipes": 87,
+  "newListedItems": 32,
+  "newProfessionRecipes": 0,
+  "professionRecipesChecked": 2492,
+  "previousEveningCandidates": 26
+}

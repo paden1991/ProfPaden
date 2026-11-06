@@ -1,6 +1,6 @@
 {
   "addon": "ProfPaden",
-  "version": "0.20.32-rc1",
+  "version": "0.20.33-rc1",
   "interface": 16001,
   "files": [
     {
@@ -29850,7 +29850,7 @@
     {
       "path": "Core.lua",
       "bytes": 11582,
-      "sha256": "9d96c44ac201169a9721abe56e551705866ce6bb81a99438db6a9c1519da4510",
+      "sha256": "4063fa8f89961e0ce0cb41983fcaed67b49eda7aacf686da93c857343b689cd0",
       "external": false
     },
     {
@@ -29933,9 +29933,15 @@
     },
     {
       "path": "Data/LaunchSources.lua",
-      "external": false,
       "bytes": 730315,
-      "sha256": "122e9211aedf4fa36d3b9e5aed7646ac4e763a4119f366a54d458fa1a08e5d5a"
+      "sha256": "122e9211aedf4fa36d3b9e5aed7646ac4e763a4119f366a54d458fa1a08e5d5a",
+      "external": false
+    },
+    {
+      "path": "Data/MorningSources.lua",
+      "bytes": 96079,
+      "sha256": "eab56a7cdc026be1b0477f462895c62a02f98a1b19727d23c17adabf94eec4c2",
+      "external": false
     },
     {
       "path": "Data/RecipeCorrections.lua",
@@ -30011,8 +30017,8 @@
     },
     {
       "path": "Details.lua",
-      "bytes": 36684,
-      "sha256": "b6a3f45967c45403159a79f6931862e481e31e3b72e3bc63f528c09e1979c5d3",
+      "bytes": 37046,
+      "sha256": "85f8acd85b9e0fedda6e10e371c861b6c31e2583dc6decef483ebcc304b028b8",
       "external": false
     },
     {
@@ -30137,8 +30143,8 @@
     },
     {
       "path": "ProfPaden.toc",
-      "bytes": 1785,
-      "sha256": "a73689d1887b8ba17096d8243154b1ef613b7e60eddc76af1a214848ae6fe935",
+      "bytes": 1810,
+      "sha256": "4c5cb4fd798839c2e502b9b7c8b22ab526168b4db8e5a017826c26d1fb6d0b83",
       "external": false
     },
     {
@@ -30191,8 +30197,8 @@
     },
     {
       "path": "THIRD_PARTY.md",
-      "bytes": 3095,
-      "sha256": "99f0943e150ed7f1fd72ca5ec04e4712ea8262a2c41e6d52ddc86f2c70b265eb",
+      "bytes": 3506,
+      "sha256": "db66713a4c19926742f401e9125a86faad484ff06eb6b41bb36bf62e4c54bba7",
       "external": false
     },
     {

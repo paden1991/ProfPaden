@@ -183,6 +183,13 @@ function P:AcquisitionRows(r,learned,feeShown)
         if not learned and not trainer.eligible and not trainer.known then add("Availability","|cffff8a75Unavailable at last trainer visit|r") end
         if not learned and not feeShown and trainer.cost~=nil then add("Training fee",self:SmallMoney(trainer.cost)) end
     elseif not learned and not feeShown and meta.training~=nil then add("Training fee",self:SmallMoney(meta.training).." (source)") end
+    for _,observed in ipairs(r.observedTrainerSources or {}) do
+        if not trainer or trainer.npcID~=observed.npc then
+            add("Trainer",self:NPCSourceText(observed.npc),"observed-trainer:"..observed.npc)
+            sourceCount=sourceCount+1
+        end
+        references["ForeverDB observed (checked "..observed.captured..")"]=true
+    end
     local refs=r.acquisitionOnly and {{id=r.item}} or r.acquisitionItems or {}
     local requirements={};local costs={}
     for _,ref in ipairs(refs) do

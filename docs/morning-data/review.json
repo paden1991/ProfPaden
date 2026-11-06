@@ -1,0 +1,3579 @@
+{
+  "accepted": [
+    {
+      "item": 3013,
+      "name": "Scroll of Protection",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1536,
+        "n": "Scarlet Missionary",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Scarlet Missionary",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/5.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 3013,
+      "name": "Scroll of Protection",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3118,
+        "n": "Dustwind Storm Witch",
+        "fv": true,
+        "seen": 1,
+        "src": "forever",
+        "m": 1411,
+        "x": 51.4,
+        "y": 19.7
+      },
+      "resolvedName": "Dustwind Storm Witch",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/5.json",
+      "resolvedZones": [
+        "Durotar"
+      ]
+    },
+    {
+      "item": 3013,
+      "name": "Scroll of Protection",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3117,
+        "n": "Dustwind Savage",
+        "fv": true,
+        "seen": 1,
+        "src": "forever",
+        "m": 1411,
+        "x": 52.1,
+        "y": 20.8
+      },
+      "resolvedName": "Dustwind Savage",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/5.json",
+      "resolvedZones": [
+        "Durotar"
+      ]
+    },
+    {
+      "item": 774,
+      "name": "Malachite",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1537,
+        "n": "Scarlet Zealot",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Scarlet Zealot",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/6.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 774,
+      "name": "Malachite",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 2166,
+        "n": "Oakenscowl",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Oakenscowl",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/6.json",
+      "resolvedZones": []
+    },
+    {
+      "item": 774,
+      "name": "Malachite",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3198,
+        "n": "Burning Blade Apprentice",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "Burning Blade Apprentice",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/6.json",
+      "resolvedZones": [
+        "Durotar"
+      ]
+    },
+    {
+      "item": 2318,
+      "name": "Light Leather",
+      "roles": [
+        "crafted-output",
+        "material",
+        "output",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 256092,
+        "n": "NPC 256092",
+        "fv": true,
+        "seen": 8,
+        "src": "forever"
+      },
+      "resolvedName": "Shadowgale Shriekling",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/14.json",
+      "resolvedZones": [
+        "Zephras Isle"
+      ]
+    },
+    {
+      "item": 6290,
+      "name": "Brilliant Smallfish",
+      "roles": [
+        "crafted-output",
+        "output"
+      ],
+      "source": {
+        "t": "quest",
+        "q": 95065,
+        "n": "Fishin' Time",
+        "lv": 12,
+        "side": "",
+        "fv": true,
+        "src": "forever",
+        "choice": true,
+        "m": 1453,
+        "x": 26.3,
+        "y": 47.0
+      },
+      "resolvedName": "Fishin' Time",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/18.json",
+      "resolvedZones": [
+        "Stormwind City"
+      ]
+    },
+    {
+      "item": 263512,
+      "name": "Pincer Bites",
+      "roles": [
+        "crafted-output",
+        "output"
+      ],
+      "source": {
+        "t": "quest",
+        "q": 93317,
+        "n": "Crab Season",
+        "lv": 9,
+        "side": "",
+        "fv": true,
+        "src": "forever",
+        "m": 2521,
+        "x": 60.6,
+        "y": 72.8
+      },
+      "resolvedName": "Crab Season",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/24.json",
+      "resolvedZones": [
+        "Zephras Isle"
+      ]
+    },
+    {
+      "item": 5465,
+      "name": "Small Spider Leg",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 266850,
+        "n": "Ridgeshade Creeper",
+        "fv": true,
+        "seen": 10,
+        "src": "forever",
+        "m": 1411,
+        "x": 51.7,
+        "y": 58.2
+      },
+      "resolvedName": "Ridgeshade Creeper",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/25.json",
+      "resolvedZones": [
+        "Durotar"
+      ]
+    },
+    {
+      "item": 1179,
+      "name": "Ice Cold Milk",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 11323,
+        "n": "Searing Blade Enforcer",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Searing Blade Enforcer",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/27.json",
+      "resolvedZones": [
+        "Ragefire Chasm"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1537,
+        "n": "Scarlet Zealot",
+        "fv": true,
+        "seen": 28,
+        "src": "forever"
+      },
+      "resolvedName": "Scarlet Zealot",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1536,
+        "n": "Scarlet Missionary",
+        "fv": true,
+        "seen": 14,
+        "src": "forever"
+      },
+      "resolvedName": "Scarlet Missionary",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1522,
+        "n": "Darkeye Bonecaster",
+        "fv": true,
+        "seen": 11,
+        "src": "forever"
+      },
+      "resolvedName": "Darkeye Bonecaster",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1520,
+        "n": "Rattlecage Soldier",
+        "fv": true,
+        "seen": 10,
+        "src": "forever"
+      },
+      "resolvedName": "Rattlecage Soldier",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3113,
+        "n": "Razormane Dustrunner",
+        "fv": true,
+        "seen": 8,
+        "src": "forever"
+      },
+      "resolvedName": "Razormane Dustrunner",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "Durotar"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 2010,
+        "n": "Gnarlpine Defender",
+        "fv": true,
+        "seen": 10,
+        "src": "forever"
+      },
+      "resolvedName": "Gnarlpine Defender",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "Teldrassil"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3111,
+        "n": "Razormane Quilboar",
+        "fv": true,
+        "seen": 7,
+        "src": "forever"
+      },
+      "resolvedName": "Razormane Quilboar",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "Durotar"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1915,
+        "n": "Dalaran Conjuror",
+        "src": "forever",
+        "fv": true,
+        "seen": 5
+      },
+      "resolvedName": "Dalaran Conjuror",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "Silverpine Forest"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1939,
+        "n": "Rot Hide Brute",
+        "src": "forever",
+        "fv": true,
+        "seen": 5
+      },
+      "resolvedName": "Rot Hide Brute",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": []
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3283,
+        "n": "Venture Co. Enforcer",
+        "src": "forever",
+        "fv": true,
+        "seen": 5
+      },
+      "resolvedName": "Venture Co. Enforcer",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "The Barrens"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3374,
+        "n": "Bael'dun Excavator",
+        "src": "forever",
+        "fv": true,
+        "seen": 5
+      },
+      "resolvedName": "Bael'dun Excavator",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "The Barrens"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3378,
+        "n": "Bael'dun Officer",
+        "src": "forever",
+        "fv": true,
+        "seen": 5
+      },
+      "resolvedName": "Bael'dun Officer",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "The Barrens"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 4814,
+        "n": "Twilight Elementalist",
+        "src": "forever",
+        "fv": true,
+        "seen": 5
+      },
+      "resolvedName": "Twilight Elementalist",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "Blackfathom Deeps"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 2011,
+        "n": "Gnarlpine Augur",
+        "fv": true,
+        "seen": 6,
+        "src": "forever"
+      },
+      "resolvedName": "Gnarlpine Augur",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "Teldrassil"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 2053,
+        "n": "Haggard Refugee",
+        "src": "forever",
+        "fv": true,
+        "seen": 4
+      },
+      "resolvedName": "Haggard Refugee",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "Silverpine Forest"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3115,
+        "n": "Dustwind Harpy",
+        "fv": true,
+        "seen": 8,
+        "src": "forever"
+      },
+      "resolvedName": "Dustwind Harpy",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": []
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3116,
+        "n": "Dustwind Pillager",
+        "fv": true,
+        "seen": 4,
+        "src": "forever"
+      },
+      "resolvedName": "Dustwind Pillager",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "Durotar"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3118,
+        "n": "Dustwind Storm Witch",
+        "fv": true,
+        "seen": 5,
+        "src": "forever"
+      },
+      "resolvedName": "Dustwind Storm Witch",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "Durotar"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3280,
+        "n": "Witchwing Windcaller",
+        "src": "forever",
+        "fv": true,
+        "seen": 4
+      },
+      "resolvedName": "Witchwing Windcaller",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "The Barrens"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3457,
+        "n": "Razormane Stalker",
+        "src": "forever",
+        "fv": true,
+        "seen": 4
+      },
+      "resolvedName": "Razormane Stalker",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": []
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3921,
+        "n": "Thistlefur Ursa",
+        "src": "forever",
+        "fv": true,
+        "seen": 4
+      },
+      "resolvedName": "Thistlefur Ursa",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "Ashenvale"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1529,
+        "n": "Bleeding Horror",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Bleeding Horror",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1656,
+        "n": "Thurman Agamand",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Thurman Agamand",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": []
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1662,
+        "n": "Captain Perrine",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Captain Perrine",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": []
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1753,
+        "n": "Maggot Eye",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Maggot Eye",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": []
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1935,
+        "n": "Tirisfal Farmhand",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Tirisfal Farmhand",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": []
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3205,
+        "n": "Zalazane",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "Zalazane",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/29.json",
+      "resolvedZones": []
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1525,
+        "n": "Rotting Dead",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Rotting Dead",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/31.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1537,
+        "n": "Scarlet Zealot",
+        "fv": true,
+        "seen": 4,
+        "src": "forever"
+      },
+      "resolvedName": "Scarlet Zealot",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/31.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1520,
+        "n": "Rattlecage Soldier",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "Rattlecage Soldier",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/31.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1522,
+        "n": "Darkeye Bonecaster",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "Darkeye Bonecaster",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/31.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1528,
+        "n": "Shambling Horror",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "Shambling Horror",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/31.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1536,
+        "n": "Scarlet Missionary",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "Scarlet Missionary",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/31.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1538,
+        "n": "Scarlet Friar",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "Scarlet Friar",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/31.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1657,
+        "n": "Devlin Agamand",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "Devlin Agamand",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/31.json",
+      "resolvedZones": []
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1662,
+        "n": "Captain Perrine",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "Captain Perrine",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/31.json",
+      "resolvedZones": []
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 2009,
+        "n": "Gnarlpine Shaman",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Gnarlpine Shaman",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/31.json",
+      "resolvedZones": [
+        "Teldrassil"
+      ]
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 2027,
+        "n": "Timberling Trampler",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Timberling Trampler",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/31.json",
+      "resolvedZones": [
+        "Teldrassil"
+      ]
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 2152,
+        "n": "Gnarlpine Ambusher",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Gnarlpine Ambusher",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/31.json",
+      "resolvedZones": [
+        "Teldrassil"
+      ]
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3115,
+        "n": "Dustwind Harpy",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Dustwind Harpy",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/31.json",
+      "resolvedZones": []
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3192,
+        "n": "Lieutenant Benedict",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Lieutenant Benedict",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/31.json",
+      "resolvedZones": []
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3206,
+        "n": "Voodoo Troll",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "Voodoo Troll",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/31.json",
+      "resolvedZones": []
+    },
+    {
+      "item": 2598,
+      "name": "Pattern: Red Linen Robe",
+      "roles": [
+        "acquisition",
+        "recipe-item"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3103,
+        "n": "Makrura Clacker",
+        "fv": true,
+        "seen": 1,
+        "src": "forever",
+        "m": 1411,
+        "x": 63.0,
+        "y": 56.0
+      },
+      "resolvedName": "Makrura Clacker",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/38.json",
+      "resolvedZones": [
+        "Durotar"
+      ]
+    },
+    {
+      "item": 2598,
+      "name": "Pattern: Red Linen Robe",
+      "roles": [
+        "acquisition",
+        "recipe-item"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3115,
+        "n": "Dustwind Harpy",
+        "fv": true,
+        "seen": 1,
+        "src": "forever",
+        "m": 1411,
+        "x": 50.0,
+        "y": 27.6
+      },
+      "resolvedName": "Dustwind Harpy",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/38.json",
+      "resolvedZones": [
+        "Durotar"
+      ]
+    },
+    {
+      "item": 5095,
+      "name": "Rainbow Fin Albacore",
+      "roles": [
+        "crafted-output",
+        "output"
+      ],
+      "source": {
+        "t": "quest",
+        "q": 95065,
+        "n": "Fishin' Time",
+        "lv": 12,
+        "side": "",
+        "fv": true,
+        "src": "forever",
+        "choice": true,
+        "m": 1453,
+        "x": 26.3,
+        "y": 47.0
+      },
+      "resolvedName": "Fishin' Time",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/39.json",
+      "resolvedZones": [
+        "Stormwind City"
+      ]
+    },
+    {
+      "item": 818,
+      "name": "Tigerseye",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 11318,
+        "n": "Ragefire Trogg",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "Ragefire Trogg",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/50.json",
+      "resolvedZones": [
+        "Ragefire Chasm"
+      ]
+    },
+    {
+      "item": 818,
+      "name": "Tigerseye",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 11321,
+        "n": "Molten Elemental",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Molten Elemental",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/50.json",
+      "resolvedZones": [
+        "Ragefire Chasm"
+      ]
+    },
+    {
+      "item": 118,
+      "name": "Minor Healing Potion",
+      "roles": [
+        "crafted-output",
+        "material",
+        "output",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1535,
+        "n": "Scarlet Warrior",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Scarlet Warrior",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/54.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 118,
+      "name": "Minor Healing Potion",
+      "roles": [
+        "crafted-output",
+        "material",
+        "output",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1525,
+        "n": "Rotting Dead",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Rotting Dead",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/54.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 118,
+      "name": "Minor Healing Potion",
+      "roles": [
+        "crafted-output",
+        "material",
+        "output",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1526,
+        "n": "Ravaged Corpse",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "Ravaged Corpse",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/54.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 118,
+      "name": "Minor Healing Potion",
+      "roles": [
+        "crafted-output",
+        "material",
+        "output",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1536,
+        "n": "Scarlet Missionary",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "Scarlet Missionary",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/54.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 118,
+      "name": "Minor Healing Potion",
+      "roles": [
+        "crafted-output",
+        "material",
+        "output",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 2009,
+        "n": "Gnarlpine Shaman",
+        "fv": true,
+        "seen": 3,
+        "src": "forever"
+      },
+      "resolvedName": "Gnarlpine Shaman",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/54.json",
+      "resolvedZones": [
+        "Teldrassil"
+      ]
+    },
+    {
+      "item": 118,
+      "name": "Minor Healing Potion",
+      "roles": [
+        "crafted-output",
+        "material",
+        "output",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 2011,
+        "n": "Gnarlpine Augur",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Gnarlpine Augur",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/54.json",
+      "resolvedZones": [
+        "Teldrassil"
+      ]
+    },
+    {
+      "item": 118,
+      "name": "Minor Healing Potion",
+      "roles": [
+        "crafted-output",
+        "material",
+        "output",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 2022,
+        "n": "Timberling",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Timberling",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/54.json",
+      "resolvedZones": [
+        "Teldrassil"
+      ]
+    },
+    {
+      "item": 118,
+      "name": "Minor Healing Potion",
+      "roles": [
+        "crafted-output",
+        "material",
+        "output",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3114,
+        "n": "Razormane Battleguard",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "Razormane Battleguard",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/54.json",
+      "resolvedZones": [
+        "Durotar"
+      ]
+    },
+    {
+      "item": 118,
+      "name": "Minor Healing Potion",
+      "roles": [
+        "crafted-output",
+        "material",
+        "output",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3113,
+        "n": "Razormane Dustrunner",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Razormane Dustrunner",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/54.json",
+      "resolvedZones": [
+        "Durotar"
+      ]
+    },
+    {
+      "item": 4536,
+      "name": "Shiny Red Apple",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 1993,
+        "n": "Greenpaw",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Greenpaw",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/56.json",
+      "resolvedZones": [
+        "Teldrassil"
+      ]
+    },
+    {
+      "item": 4536,
+      "name": "Shiny Red Apple",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 2009,
+        "n": "Gnarlpine Shaman",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Gnarlpine Shaman",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/56.json",
+      "resolvedZones": [
+        "Teldrassil"
+      ]
+    },
+    {
+      "item": 4536,
+      "name": "Shiny Red Apple",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3114,
+        "n": "Razormane Battleguard",
+        "fv": true,
+        "seen": 3,
+        "src": "forever"
+      },
+      "resolvedName": "Razormane Battleguard",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/56.json",
+      "resolvedZones": [
+        "Durotar"
+      ]
+    },
+    {
+      "item": 4536,
+      "name": "Shiny Red Apple",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 3113,
+        "n": "Razormane Dustrunner",
+        "fv": true,
+        "seen": 4,
+        "src": "forever"
+      },
+      "resolvedName": "Razormane Dustrunner",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/56.json",
+      "resolvedZones": [
+        "Durotar"
+      ]
+    },
+    {
+      "item": 1210,
+      "name": "Shadowgem",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 11322,
+        "n": "Searing Blade Cultist",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "Searing Blade Cultist",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sources/58.json",
+      "resolvedZones": [
+        "Ragefire Chasm"
+      ]
+    },
+    {
+      "item": 2880,
+      "name": "Weak Flux",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 257022,
+        "n": "Messana Crestwind",
+        "sub": "Miner",
+        "m": 2521,
+        "zone": "Zephras Isle",
+        "x": 44.7,
+        "y": 44.5,
+        "fv": 1,
+        "p": 100
+      },
+      "resolvedName": "Messana Crestwind",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/0.json",
+      "resolvedZones": [
+        "Zephras Isle"
+      ]
+    },
+    {
+      "item": 6530,
+      "name": "Nightcrawlers",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 4222,
+        "n": "Voloren",
+        "sub": "Fishing Supplier",
+        "side": "Alliance",
+        "m": 1457,
+        "zone": "Darnassus",
+        "x": 47.1,
+        "y": 56.8,
+        "fv": 1,
+        "p": 100
+      },
+      "resolvedName": "Voloren",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/2.json",
+      "resolvedZones": [
+        "Darnassus"
+      ]
+    },
+    {
+      "item": 6533,
+      "name": "Aquadynamic Fish Attractor",
+      "roles": [
+        "crafted-output",
+        "output"
+      ],
+      "source": {
+        "npc": 3550,
+        "n": "Martine Tramblay",
+        "sub": "Fishing Supplies",
+        "side": "Horde",
+        "m": 1420,
+        "zone": "Tirisfal Glades",
+        "x": 65.8,
+        "y": 59.7,
+        "fv": 1,
+        "p": 250,
+        "lim": 2
+      },
+      "resolvedName": "Martine Tramblay",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/5.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 6533,
+      "name": "Aquadynamic Fish Attractor",
+      "roles": [
+        "crafted-output",
+        "output"
+      ],
+      "source": {
+        "npc": 4574,
+        "n": "Lizbeth Cromwell",
+        "sub": "Fishing Supplier",
+        "side": "Horde",
+        "m": 1458,
+        "zone": "Undercity",
+        "x": 81.1,
+        "y": 30.9,
+        "fv": 1,
+        "p": 250,
+        "lim": 1
+      },
+      "resolvedName": "Lizbeth Cromwell",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/5.json",
+      "resolvedZones": [
+        "Undercity"
+      ]
+    },
+    {
+      "item": 3466,
+      "name": "Strong Flux",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 257022,
+        "n": "Messana Crestwind",
+        "sub": "Miner",
+        "m": 2521,
+        "zone": "Zephras Isle",
+        "x": 44.7,
+        "y": 44.5,
+        "fv": 1,
+        "p": 2000
+      },
+      "resolvedName": "Messana Crestwind",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/10.json",
+      "resolvedZones": [
+        "Zephras Isle"
+      ]
+    },
+    {
+      "item": 18256,
+      "name": "Imbued Vial",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 3548,
+        "n": "Selina Weston",
+        "sub": "Alchemy & Herbalism Supplies",
+        "side": "Horde",
+        "m": 1420,
+        "zone": "Tirisfal Glades",
+        "x": 61.7,
+        "y": 50.0,
+        "fv": 1,
+        "p": 30000,
+        "stack": 5
+      },
+      "resolvedName": "Selina Weston",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/16.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 2449,
+      "name": "Earthroot",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 3548,
+        "n": "Selina Weston",
+        "sub": "Alchemy & Herbalism Supplies",
+        "side": "Horde",
+        "m": 1420,
+        "zone": "Tirisfal Glades",
+        "x": 61.7,
+        "y": 50.0,
+        "fv": 1,
+        "p": 80,
+        "lim": 1
+      },
+      "resolvedName": "Selina Weston",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/17.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 3857,
+      "name": "Coal",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 257022,
+        "n": "Messana Crestwind",
+        "sub": "Miner",
+        "m": 2521,
+        "zone": "Zephras Isle",
+        "x": 44.7,
+        "y": 44.5,
+        "fv": 1,
+        "p": 500
+      },
+      "resolvedName": "Messana Crestwind",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/17.json",
+      "resolvedZones": [
+        "Zephras Isle"
+      ]
+    },
+    {
+      "item": 2453,
+      "name": "Bruiseweed",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 3548,
+        "n": "Selina Weston",
+        "sub": "Alchemy & Herbalism Supplies",
+        "side": "Horde",
+        "m": 1420,
+        "zone": "Tirisfal Glades",
+        "x": 61.7,
+        "y": 50.0,
+        "fv": 1,
+        "p": 100,
+        "lim": 1
+      },
+      "resolvedName": "Selina Weston",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/21.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 3030,
+      "name": "Razor Arrow",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 12021,
+        "n": "Daeolyn Summerleaf",
+        "sub": "General Goods",
+        "m": 1450,
+        "zone": "Moonglade",
+        "x": 45.2,
+        "y": 34.6,
+        "fv": 1,
+        "p": 300,
+        "stack": 200
+      },
+      "resolvedName": "Daeolyn Summerleaf",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/22.json",
+      "resolvedZones": [
+        "Moonglade"
+      ]
+    },
+    {
+      "item": 3030,
+      "name": "Razor Arrow",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 4173,
+        "n": "Landria",
+        "sub": "Bow Merchant",
+        "side": "Alliance",
+        "m": 1457,
+        "zone": "Darnassus",
+        "x": 63.3,
+        "y": 66.5,
+        "fv": 1,
+        "p": 300,
+        "stack": 200
+      },
+      "resolvedName": "Landria",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/22.json",
+      "resolvedZones": [
+        "Darnassus"
+      ]
+    },
+    {
+      "item": 10647,
+      "name": "Engineer's Ink",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 4581,
+        "n": "Salazar Bloch",
+        "sub": "Book Dealer",
+        "side": "Horde",
+        "m": 1458,
+        "zone": "Undercity",
+        "x": 77.3,
+        "y": 38.6,
+        "fv": 1,
+        "p": 2000
+      },
+      "resolvedName": "Salazar Bloch",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/23.json",
+      "resolvedZones": [
+        "Undercity"
+      ]
+    },
+    {
+      "item": 10648,
+      "name": "Blank Parchment",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 4581,
+        "n": "Salazar Bloch",
+        "sub": "Book Dealer",
+        "side": "Horde",
+        "m": 1458,
+        "zone": "Undercity",
+        "x": 77.3,
+        "y": 38.6,
+        "fv": 1,
+        "p": 500
+      },
+      "resolvedName": "Salazar Bloch",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/24.json",
+      "resolvedZones": [
+        "Undercity"
+      ]
+    },
+    {
+      "item": 6362,
+      "name": "Raw Rockscale Cod",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 4200,
+        "n": "Laird",
+        "sub": "Fish Vendor",
+        "side": "Alliance",
+        "m": 1439,
+        "zone": "Darkshore",
+        "x": 36.8,
+        "y": 44.3,
+        "fv": 1,
+        "p": 80,
+        "lim": 5
+      },
+      "resolvedName": "Laird",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/26.json",
+      "resolvedZones": [
+        "Darkshore"
+      ]
+    },
+    {
+      "item": 858,
+      "name": "Lesser Healing Potion",
+      "roles": [
+        "crafted-output",
+        "output"
+      ],
+      "source": {
+        "npc": 3548,
+        "n": "Selina Weston",
+        "sub": "Alchemy & Herbalism Supplies",
+        "side": "Horde",
+        "m": 1420,
+        "zone": "Tirisfal Glades",
+        "x": 61.7,
+        "y": 50.0,
+        "fv": 1,
+        "p": 100,
+        "lim": 2
+      },
+      "resolvedName": "Selina Weston",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/26.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 11291,
+      "name": "Star Wood",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 12021,
+        "n": "Daeolyn Summerleaf",
+        "sub": "General Goods",
+        "m": 1450,
+        "zone": "Moonglade",
+        "x": 45.2,
+        "y": 34.6,
+        "fv": 1,
+        "p": 4500
+      },
+      "resolvedName": "Daeolyn Summerleaf",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/27.json",
+      "resolvedZones": [
+        "Moonglade"
+      ]
+    },
+    {
+      "item": 1179,
+      "name": "Ice Cold Milk",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 12021,
+        "n": "Daeolyn Summerleaf",
+        "sub": "General Goods",
+        "m": 1450,
+        "zone": "Moonglade",
+        "x": 45.2,
+        "y": 34.6,
+        "fv": 1,
+        "p": 125,
+        "stack": 5
+      },
+      "resolvedName": "Daeolyn Summerleaf",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/27.json",
+      "resolvedZones": [
+        "Moonglade"
+      ]
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 12021,
+        "n": "Daeolyn Summerleaf",
+        "sub": "General Goods",
+        "m": 1450,
+        "zone": "Moonglade",
+        "x": 45.2,
+        "y": 34.6,
+        "fv": 1,
+        "p": 25,
+        "stack": 5
+      },
+      "resolvedName": "Daeolyn Summerleaf",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/31.json",
+      "resolvedZones": [
+        "Moonglade"
+      ]
+    },
+    {
+      "item": 253665,
+      "name": "Pattern: Linen Reagent Bag",
+      "roles": [
+        "acquisition",
+        "recipe-item"
+      ],
+      "source": {
+        "npc": 258463,
+        "n": "Darah",
+        "side": "Horde",
+        "m": 1454,
+        "zone": "Orgrimmar",
+        "x": 63.5,
+        "y": 50.4,
+        "fv": 1,
+        "p": 150
+      },
+      "resolvedName": "Darah",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/33.json",
+      "resolvedZones": [
+        "Orgrimmar"
+      ]
+    },
+    {
+      "item": 6308,
+      "name": "Raw Bristle Whisker Catfish",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 4200,
+        "n": "Laird",
+        "sub": "Fish Vendor",
+        "side": "Alliance",
+        "m": 1439,
+        "zone": "Darkshore",
+        "x": 36.8,
+        "y": 44.3,
+        "fv": 1,
+        "p": 40,
+        "lim": 5
+      },
+      "resolvedName": "Laird",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/36.json",
+      "resolvedZones": [
+        "Darkshore"
+      ]
+    },
+    {
+      "item": 253668,
+      "name": "Pattern: Woolen Reagent Bag",
+      "roles": [
+        "acquisition",
+        "recipe-item"
+      ],
+      "source": {
+        "npc": 258463,
+        "n": "Darah",
+        "side": "Horde",
+        "m": 1454,
+        "zone": "Orgrimmar",
+        "x": 63.5,
+        "y": 50.4,
+        "fv": 1,
+        "p": 250
+      },
+      "resolvedName": "Darah",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/36.json",
+      "resolvedZones": [
+        "Orgrimmar"
+      ]
+    },
+    {
+      "item": 1708,
+      "name": "Sweet Nectar",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 12021,
+        "n": "Daeolyn Summerleaf",
+        "sub": "General Goods",
+        "m": 1450,
+        "zone": "Moonglade",
+        "x": 45.2,
+        "y": 34.6,
+        "fv": 1,
+        "p": 1000,
+        "stack": 5
+      },
+      "resolvedName": "Daeolyn Summerleaf",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/44.json",
+      "resolvedZones": [
+        "Moonglade"
+      ]
+    },
+    {
+      "item": 1645,
+      "name": "Moonberry Juice",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 12021,
+        "n": "Daeolyn Summerleaf",
+        "sub": "General Goods",
+        "m": 1450,
+        "zone": "Moonglade",
+        "x": 45.2,
+        "y": 34.6,
+        "fv": 1,
+        "p": 2000,
+        "stack": 5
+      },
+      "resolvedName": "Daeolyn Summerleaf",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/45.json",
+      "resolvedZones": [
+        "Moonglade"
+      ]
+    },
+    {
+      "item": 1205,
+      "name": "Melon Juice",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 12021,
+        "n": "Daeolyn Summerleaf",
+        "sub": "General Goods",
+        "m": 1450,
+        "zone": "Moonglade",
+        "x": 45.2,
+        "y": 34.6,
+        "fv": 1,
+        "p": 500,
+        "stack": 5
+      },
+      "resolvedName": "Daeolyn Summerleaf",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/53.json",
+      "resolvedZones": [
+        "Moonglade"
+      ]
+    },
+    {
+      "item": 4470,
+      "name": "Simple Wood",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 12021,
+        "n": "Daeolyn Summerleaf",
+        "sub": "General Goods",
+        "m": 1450,
+        "zone": "Moonglade",
+        "x": 45.2,
+        "y": 34.6,
+        "fv": 1,
+        "p": 38
+      },
+      "resolvedName": "Daeolyn Summerleaf",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/54.json",
+      "resolvedZones": [
+        "Moonglade"
+      ]
+    },
+    {
+      "item": 4603,
+      "name": "Raw Spotted Yellowtail",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 4200,
+        "n": "Laird",
+        "sub": "Fish Vendor",
+        "side": "Alliance",
+        "m": 1439,
+        "zone": "Darkshore",
+        "x": 36.8,
+        "y": 44.3,
+        "fv": 1,
+        "p": 80,
+        "lim": 5
+      },
+      "resolvedName": "Laird",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/59.json",
+      "resolvedZones": [
+        "Darkshore"
+      ]
+    },
+    {
+      "item": 4605,
+      "name": "Red-speckled Mushroom",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 3329,
+        "n": "Kor'jus",
+        "sub": "Mushroom Vendor",
+        "side": "Horde",
+        "m": 1454,
+        "zone": "Orgrimmar",
+        "x": 49.0,
+        "y": 54.0,
+        "fv": 1,
+        "p": 125,
+        "stack": 5
+      },
+      "resolvedName": "Kor'jus",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/61.json",
+      "resolvedZones": [
+        "Orgrimmar"
+      ]
+    },
+    {
+      "item": 4605,
+      "name": "Red-speckled Mushroom",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 3547,
+        "n": "Hamlin Atkins",
+        "sub": "Mushroom Farmer",
+        "side": "Horde",
+        "m": 1420,
+        "zone": "Tirisfal Glades",
+        "x": 59.8,
+        "y": 51.9,
+        "fv": 1,
+        "p": 125,
+        "stack": 5
+      },
+      "resolvedName": "Hamlin Atkins",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/61.json",
+      "resolvedZones": [
+        "Tirisfal Glades"
+      ]
+    },
+    {
+      "item": 4605,
+      "name": "Red-speckled Mushroom",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 4571,
+        "n": "Morley Bates",
+        "sub": "Fungus Vendor",
+        "side": "Horde",
+        "m": 1458,
+        "zone": "Undercity",
+        "x": 74.1,
+        "y": 27.3,
+        "fv": 1,
+        "p": 125,
+        "stack": 5
+      },
+      "resolvedName": "Morley Bates",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/61.json",
+      "resolvedZones": [
+        "Undercity"
+      ]
+    },
+    {
+      "item": 8959,
+      "name": "Raw Spinefin Halibut",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "npc": 4200,
+        "n": "Laird",
+        "sub": "Fish Vendor",
+        "side": "Alliance",
+        "m": 1439,
+        "zone": "Darkshore",
+        "x": 36.8,
+        "y": 44.3,
+        "fv": 1,
+        "p": 3200,
+        "lim": 5
+      },
+      "resolvedName": "Laird",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "sourceURL": "https://foreverdb.net/data/sold/63.json",
+      "resolvedZones": [
+        "Darkshore"
+      ]
+    }
+  ],
+  "held": [
+    {
+      "item": 3013,
+      "name": "Scroll of Protection",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 250283,
+        "n": "NPC 250283",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 250283",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 3013,
+      "name": "Scroll of Protection",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 275662,
+        "n": "NPC 275662",
+        "fv": true,
+        "seen": 1,
+        "src": "forever",
+        "m": 1411,
+        "x": 58.8,
+        "y": 27.1
+      },
+      "resolvedName": "NPC 275662",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 2318,
+      "name": "Light Leather",
+      "roles": [
+        "crafted-output",
+        "material",
+        "output",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 268530,
+        "n": "NPC 268530",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 268530",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 5523,
+      "name": "Small Barnacled Clam",
+      "roles": [
+        "material"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 271080,
+        "n": "NPC 271080",
+        "src": "forever",
+        "fv": true,
+        "seen": 1
+      },
+      "resolvedName": "NPC 271080",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 2835,
+      "name": "Rough Stone",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "object",
+        "obj": 106318,
+        "n": "Battered Chest",
+        "fv": true,
+        "seen": 3,
+        "src": "forever"
+      },
+      "resolvedName": "Battered Chest",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Shared object identity needs zone-specific validation before map integration"
+    },
+    {
+      "item": 6358,
+      "name": "Oily Blackmouth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "object",
+        "obj": 35591,
+        "n": "Fishing Bobber",
+        "fv": true,
+        "seen": 6,
+        "src": "forever",
+        "m": 1439,
+        "x": 30.9,
+        "y": 40.9
+      },
+      "resolvedName": "Fishing Bobber",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Shared object identity needs zone-specific validation before map integration"
+    },
+    {
+      "item": 6361,
+      "name": "Raw Rainbow Fin Albacore",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "object",
+        "obj": 35591,
+        "n": "Fishing Bobber",
+        "fv": true,
+        "seen": 14,
+        "src": "forever",
+        "m": 1439,
+        "x": 30.4,
+        "y": 40.8
+      },
+      "resolvedName": "Fishing Bobber",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Shared object identity needs zone-specific validation before map integration"
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 267006,
+        "n": "NPC 267006",
+        "fv": true,
+        "seen": 15,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 267006",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 260428,
+        "n": "NPC 260428",
+        "fv": true,
+        "seen": 6,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 260428",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 275662,
+        "n": "NPC 275662",
+        "fv": true,
+        "seen": 7,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 275662",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 259434,
+        "n": "NPC 259434",
+        "fv": true,
+        "seen": 4,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 259434",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 260430,
+        "n": "NPC 260430",
+        "fv": true,
+        "seen": 4,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 260430",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 260431,
+        "n": "NPC 260431",
+        "fv": true,
+        "seen": 3,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 260431",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 275663,
+        "n": "NPC 275663",
+        "fv": true,
+        "seen": 4,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 275663",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 272034,
+        "n": "NPC 272034",
+        "fv": true,
+        "seen": 2,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 272034",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 259433,
+        "n": "NPC 259433",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 259433",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 2589,
+      "name": "Linen Cloth",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 275666,
+        "n": "NPC 275666",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 275666",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 6303,
+      "name": "Raw Slitherskin Mackerel",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 250283,
+        "n": "NPC 250283",
+        "fv": true,
+        "seen": 1,
+        "src": "forever",
+        "m": 1420,
+        "x": 13.9,
+        "y": 53.0
+      },
+      "resolvedName": "NPC 250283",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 250282,
+        "n": "NPC 250282",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 250282",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 275662,
+        "n": "NPC 275662",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 275662",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 159,
+      "name": "Refreshing Spring Water",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 275663,
+        "n": "NPC 275663",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 275663",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 6645,
+      "name": "Bloated Mud Snapper",
+      "roles": [
+        "material"
+      ],
+      "source": {
+        "t": "object",
+        "obj": 35591,
+        "n": "Fishing Bobber",
+        "fv": true,
+        "seen": 2,
+        "src": "forever",
+        "m": 1453,
+        "x": 54.8,
+        "y": 68.8
+      },
+      "resolvedName": "Fishing Bobber",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Shared object identity needs zone-specific validation before map integration"
+    },
+    {
+      "item": 118,
+      "name": "Minor Healing Potion",
+      "roles": [
+        "crafted-output",
+        "material",
+        "output",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 267006,
+        "n": "NPC 267006",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 267006",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 118,
+      "name": "Minor Healing Potion",
+      "roles": [
+        "crafted-output",
+        "material",
+        "output",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 271080,
+        "n": "NPC 271080",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 271080",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 118,
+      "name": "Minor Healing Potion",
+      "roles": [
+        "crafted-output",
+        "material",
+        "output",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 275662,
+        "n": "NPC 275662",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 275662",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 118,
+      "name": "Minor Healing Potion",
+      "roles": [
+        "crafted-output",
+        "material",
+        "output",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 275663,
+        "n": "NPC 275663",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 275663",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    },
+    {
+      "item": 2934,
+      "name": "Ruined Leather Scraps",
+      "roles": [
+        "material",
+        "reagent"
+      ],
+      "source": {
+        "t": "drop",
+        "npc": 266852,
+        "n": "NPC 266852",
+        "fv": true,
+        "seen": 1,
+        "src": "forever"
+      },
+      "resolvedName": "NPC 266852",
+      "newProviderIdentity": true,
+      "metaPresent": false,
+      "gatherPresent": false,
+      "sameEntityPresent": false,
+      "existingMeta": [],
+      "existingGather": [],
+      "reason": "Unnamed creature needs independent identification"
+    }
+  ]
+}
