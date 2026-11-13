@@ -1,6 +1,6 @@
 # ProfPaden
 
-WoW Forever, Interface 16001. Version 0.20.33-rc1 (release candidate).
+WoW Forever, Interface 16001. Version 0.20.34-rc1 (release candidate).
 
 ## Installation
 
@@ -22,4 +22,4 @@ Lua regressions cover gathering, guides, source data, tracking, walking and terr
 
 ## Latest verification
 
-Version 0.20.33-rc1 adds 102 item acquisitions and 119 observed trainer relationships from the November 6 morning scan. The [morning coverage report](docs/morning-data/README.md) includes the reviewed data, exclusions, 26 offline checks and visual references. The [November 5 launch pass](docs/launch-data/README.md) remains included. Earlier full-regression results remain historical in [QA.md](QA.md); live-game acceptance remains separate.
+Version 0.20.34-rc1 adds the November 12 source observations and November 6–11 profession hotfix corrections. The [update report](docs/november-12/README.md) includes provenance, held candidates, tests and visual references. Earlier release evidence remains in docs/morning-data and docs/launch-data; in-game acceptance is separate.

@@ -1,0 +1,240 @@
+[
+  {
+    "spell": 4508,
+    "name": "Minor Discolored Healing Potion",
+    "before": null,
+    "after": 10,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 1244645,
+    "name": "Lesser Discolored Healing Potion",
+    "before": null,
+    "after": 100,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 1244646,
+    "name": "Discolored Healing Potion",
+    "before": null,
+    "after": 500,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 3452,
+    "name": "Mana Potion",
+    "before": 4500,
+    "after": 5000,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 3448,
+    "name": "Lesser Invisibility Potion",
+    "before": 4500,
+    "after": 5000,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 1244647,
+    "name": "Greater Discolored Healing Potion",
+    "before": null,
+    "after": 1500,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 3450,
+    "name": "Elixir of Lesser Fortitude",
+    "before": null,
+    "after": 6000,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 11449,
+    "name": "Elixir of Agility",
+    "before": 5850,
+    "after": 6500,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 11450,
+    "name": "Elixir of Defense",
+    "before": 6750,
+    "after": 7500,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 12609,
+    "name": "Catseye Draught",
+    "before": 7200,
+    "after": 8000,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 11448,
+    "name": "Greater Mana Potion",
+    "before": 8100,
+    "after": 9000,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 11451,
+    "name": "Oil of Immolation",
+    "before": 7200,
+    "after": 8000,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 22808,
+    "name": "Draught of Greater Water Breathing",
+    "before": 9000,
+    "after": 10000,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 1244648,
+    "name": "Superior Discolored Healing Potion",
+    "before": null,
+    "after": 5000,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 1249632,
+    "name": "Viridian Dye",
+    "before": null,
+    "after": 10000,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 1231583,
+    "name": "Major Discolored Healing Potion",
+    "before": null,
+    "after": 10000,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 7779,
+    "name": "Enchant Bracer - Minor Agility",
+    "before": 360,
+    "after": 400,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 7788,
+    "name": "Enchant Weapon - Minor Striking",
+    "before": 450,
+    "after": 500,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 7745,
+    "name": "Enchant 2H Weapon - Minor Impact",
+    "before": 450,
+    "after": 500,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 7795,
+    "name": "Runed Silver Rod",
+    "before": 900,
+    "after": 1000,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 13378,
+    "name": "Enchant Shield - Minor Stamina",
+    "before": 540,
+    "after": 600,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 13421,
+    "name": "Enchant Cloak - Lesser Protection",
+    "before": 720,
+    "after": 800,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 7857,
+    "name": "Enchant Chest - Stamina",
+    "before": 900,
+    "after": 1000,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 7863,
+    "name": "Enchant Boots - Minor Stamina",
+    "before": 1260,
+    "after": 1400,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 7861,
+    "name": "Enchant Cloak - Lesser Fire Resistance",
+    "before": 1125,
+    "after": 1250,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 13501,
+    "name": "Enchant Bracer - Lesser Stamina",
+    "before": 1350,
+    "after": 1500,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 13485,
+    "name": "Enchant Shield - Lesser Spirit",
+    "before": 1350,
+    "after": 1500,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 13538,
+    "name": "Enchant Chest - Lesser Absorption",
+    "before": 2250,
+    "after": 2500,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 13503,
+    "name": "Enchant Weapon - Lesser Striking",
+    "before": 1800,
+    "after": 2000,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 13529,
+    "name": "Enchant 2H Weapon - Lesser Impact",
+    "before": 2160,
+    "after": 2400,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 13607,
+    "name": "Enchant Chest - Intellect",
+    "before": 2160,
+    "after": 2400,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 13622,
+    "name": "Enchant Bracer - Lesser Intellect",
+    "before": 2250,
+    "after": 2500,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 13626,
+    "name": "Enchant Chest - Minor Stats",
+    "before": 2250,
+    "after": 2500,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  },
+  {
+    "spell": 13628,
+    "name": "Runed Golden Rod",
+    "before": 2250,
+    "after": 2500,
+    "decision": "Hold fee until base-price versus reputation-discount provenance is established; live trainer observations retain priority."
+  }
+]

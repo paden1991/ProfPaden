@@ -1,0 +1,124 @@
+{
+  "source": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026",
+  "checked": "2026-11-12",
+  "recipes": {
+    "1263031": {
+      "learn": 125,
+      "yellow": 125,
+      "green": 127,
+      "grey": 130,
+      "note": "Requires Leatherworking 125; skill-up thresholds reduced by 15 in the November 6 hotfix."
+    },
+    "3326": {
+      "grey": 90,
+      "green": 70,
+      "note": "Skill-ups: 50–90. Gray threshold raised to 90 in the November 10 hotfix; green uses the catalog midpoint convention."
+    },
+    "1263056": {
+      "tools": [
+        "Runed Golden Rod"
+      ],
+      "note": "Crafting tool: Runed Golden Rod. The disenchanting bonus also applies to lower-level enchanters."
+    },
+    "1283400": {
+      "note": "Journeyman Campfire Kit requires Cooking 90 to place."
+    },
+    "1245246": {
+      "note": "Vendor sell value: 5 copper per elixir."
+    },
+    "3962": {
+      "note": "Vendor sell value: 1 silver 25 copper per grenade."
+    },
+    "1293849": {
+      "note": "No longer Bind-on-Pickup. Available when raids unlock."
+    },
+    "1293850": {
+      "note": "No longer Bind-on-Pickup. Available when raids unlock."
+    },
+    "7859": {
+      "note": "Applies its stated Spirit bonus (the Resist All bug was fixed)."
+    },
+    "13687": {
+      "note": "Applies its stated Spirit bonus (the Resist All bug was fixed)."
+    },
+    "3758": {
+      "materialCounts": {
+        "2997": 5
+      },
+      "bagSlots": 10,
+      "note": "10-slot bag; bolt requirement updated by the November 11 hotfix."
+    },
+    "6688": {
+      "materialCounts": {
+        "2997": 5
+      },
+      "bagSlots": 10,
+      "note": "10-slot bag; bolt requirement updated by the November 11 hotfix."
+    },
+    "6693": {
+      "materialCounts": {
+        "4305": 5
+      },
+      "bagSlots": 12,
+      "note": "12-slot bag; bolt requirement updated by the November 11 hotfix."
+    },
+    "6695": {
+      "materialCounts": {
+        "4305": 6
+      },
+      "bagSlots": 12,
+      "note": "12-slot bag; bolt requirement updated by the November 11 hotfix."
+    },
+    "12079": {
+      "materialCounts": {
+        "4339": 5
+      },
+      "bagSlots": 14,
+      "note": "14-slot bag; bolt requirement updated by the November 11 hotfix."
+    }
+  },
+  "items": {
+    "21547": {
+      "name": "Recipe: Elixir of Holy Power",
+      "oldName": "Recipe: Elixir of Greater Firepower"
+    },
+    "247754": {
+      "vendorSell": 5
+    },
+    "4390": {
+      "vendorSell": 125
+    },
+    "279961": {
+      "requiredSkill": 90
+    },
+    "279941": {
+      "requiredSkill": 125
+    },
+    "274387": {
+      "bindOnPickup": false
+    },
+    "274388": {
+      "bindOnPickup": false
+    },
+    "4241": {
+      "bagSlots": 10
+    },
+    "5763": {
+      "bagSlots": 10
+    },
+    "5764": {
+      "bagSlots": 12
+    },
+    "5765": {
+      "bagSlots": 12
+    },
+    "10051": {
+      "bagSlots": 14
+    },
+    "273096": {
+      "requiredSkill": 125,
+      "previousRequiredSkill": 140
+    }
+  },
+  "scope": "Official November 6–11 profession data corrections; live client observations retain precedence."
+}

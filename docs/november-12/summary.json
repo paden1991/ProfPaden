@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-12",
+  "version": "0.20.34-rc1",
+  "providerBuild": "1.60.1.70888",
+  "itemRelationships": 3745,
+  "items": 317,
+  "kinds": {
+    "drop": 2807,
+    "quest": 86,
+    "vendor": 852
+  },
+  "held": 417,
+  "heldReasons": {
+    "Shared object requires zone-specific validation": 232,
+    "Unresolved entity name": 185
+  },
+  "trainerRelationships": 712,
+  "trainerRecipes": 274
+}

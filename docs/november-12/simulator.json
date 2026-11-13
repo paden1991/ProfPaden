@@ -1,0 +1,23 @@
+{
+  "version": "0.20.34-rc1",
+  "environment": "UIForever",
+  "url": "https://uiforever.com/app?flavor=forever",
+  "simulatorBuild": "1.60.1.70450",
+  "providerBuild": "1.60.1.70888",
+  "errors": 0,
+  "missingAPIs": 0,
+  "observations": [
+    "Green Woolen Bag needs 5 bolts and displays updated 10-slot guide note",
+    "Tanning Rack static learn/yellow/green/gray are 125/125/127/130",
+    "Happy Camper static source skill is 125",
+    "Existing source links and detail scrolling render"
+  ],
+  "limitations": [
+    "Simulator item tooltip still returns Requires Leatherworking (140) for item 273096, separately displayed alongside corrected static 125. Confirmed by RecipeTooltipLines at runtime.",
+    "Real crafting, trainer services and physical gamepad input were not tested."
+  ],
+  "screenshots": [
+    "simulator-bag.png",
+    "simulator-rack.png"
+  ]
+}

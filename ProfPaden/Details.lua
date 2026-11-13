@@ -245,6 +245,7 @@ function P:AcquisitionRows(r,learned,feeShown)
             end
         end
     end end
+    if r.hotfixNote and r.hotfixNote~="" then add("Updated guide",r.hotfixNote) end
     local names={};for name in pairs(references) do names[#names+1]=name end;table.sort(names)
     if #names>0 then rows[#rows+1]={cells={table.concat(names," • ")},widths={350},muted=true} end
     return rows

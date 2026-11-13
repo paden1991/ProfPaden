@@ -1,0 +1,51 @@
+{
+  "passed": 9,
+  "checks": [
+    "Unrelated recipe values, map data, coordinates and earlier coverage preserved",
+    "All reviewed item and material sources reach runtime",
+    "All observed trainers reach the correct recipe",
+    "Official hotfix fields and derived material summaries agree",
+    "Source provenance retained without invented skinning, rates or coordinates",
+    "Repeated module load is idempotent",
+    "Reviewed ledger regenerates byte-identical Lua",
+    "Every recipe/material detail renders; new trainers and hotfix notes are visible",
+    "Three bags require fifteen bolts in the actual material detail calculation"
+  ],
+  "counts": {
+    "recipes": 2574,
+    "materials": 1499
+  },
+  "examples": [
+    {
+      "profession": "Tailoring",
+      "spell": 3758,
+      "name": "Green Woolen Bag",
+      "renderedRows": "Recipe | - • |cff1eff00Uncommon|r\nType / skill | Recipe to Container\nOne craft | - • Output 1\nMaterial value | - • 1 crafts\nMaterials owned | - used from bags\nStill to buy | -\nTraining fees | See source requirements\nRemaining cost | -\nUnpriced | 1 reagent(s) • Priced subtotal 2s \nMATERIALS • 1 CRAFT(S)\nMaterial | Have / Need | Each | Total\n|Hitem:2997|h[Bolt of Woolen Cloth]|h | 0 / 5 | - | -\nUnknown • Updated -\n|Hitem:2605|h[Green Dye]|h | 0 / 1 | 1s  | 1s \nVendor list estimate • Updated -\n|Hitem:2321|h[Fine Thread]|h | 0 / 1 | 1s  | 1s \nVendor list estimate • Updated -\nSOURCE & REQUIREMENTS\nDrop | |cff78c8ff|Hprofpaden:npc:3:drop|h[Flesh Eater]|h|r\nDuskwood 25.1, 38.2\nDrop | |cff78c8ff|Hprofpaden:npc:36:drop|h[Harvest Golem]|h|r\nWestfall 47.1, 67.6\nDrop | |cff78c8ff|Hprofpaden:npc:48:drop|h[Skeletal Warrior]|h|r\nDuskwood 77.4, 73.8\nDrop | |cff78c8ff|Hprofpaden:npc:95:drop|h[Defias Smuggler]|h|r\nWestfall 46.6, 19.6\nDrop | |cff78c8ff|Hprofpaden:npc:98:drop|h[Riverpaw Taskmaster]|h|r\nWestfall 56.5, 70.1\nDrop | |cff78c8ff|Hprofpaden:npc:114:drop|h[Harvest Watcher]|h|r\nWestfall 38.0, 47.8\nDrop | |cff78c8ff|Hprofpaden:npc:115:drop|h[Harvest Reaper]|h|r\nWestfall 65.7, 61.1\nDrop | |cff78c8ff|Hprofpaden:npc:121:drop|h[Defias Pathstalker]|h|r\nWestfall 38.7, 69.9\nDrop | |cff78c8ff|Hprofpaden:npc:122:drop|h[Defias Highwayman]|h|r\nWestfall 46.4, 78.3\nDrop | |cff78c8ff|Hprofpaden:npc:123:drop|h[Riverpaw Mongrel]|h|r\nWestfall 34.1, 25.7\nDrop | |cff78c8ff|Hprofpaden:npc:124:drop|h[Riverpaw Brute]|h|r\nWestfall 30.7, 69.8\nDrop | |cff78c8ff|Hprofpaden:npc:125:drop|h[Riverpaw Overseer]|h|r\nWestfall 60.9, 77.8\nDrop | |cff78c8ff|Hprofpaden:npc:5864:drop|h[Swinegart Spearhide]|h|r\nThe Barrens 40.8, 45.2\nDrop | |cff78c8ff|Hprofpaden:npc:5797:drop|h[Aean Swiftriver]|h|r\nThe Barrens 46.0, 70.0\nDrop | |cff78c8ff|Hprofpaden:npc:2179:drop|h[Stormscale Wave Rider]|h|r\nDarkshore 56.2, 34.6\nSkill required | |cffff8a75Need: Tailoring 75|r\nUpdated guide | 10-slot bag; bolt requirement updated by the November 11 hotfix.\nForeverChanges • ForeverDB observed (checked 2026-11-12) • QuestieDB Forever"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 3326,
+      "name": "Coarse Grinding Stone",
+      "renderedRows": "Recipe | - • |cffffffffCommon|r\nType / skill | Trade goods\nOne craft | - • Output 1\nMaterial value | - • 1 crafts\nMaterials owned | - used from bags\nStill to buy | -\nTraining fees | See source requirements\nRemaining cost | -\nUnpriced | 1 reagent(s) • Priced subtotal 0c\nMATERIALS • 1 CRAFT(S)\nMaterial | Have / Need | Each | Total\n|Hitem:2836|h[Coarse Stone]|h | 0 / 2 | - | -\nUnknown • Updated -\nSOURCE & REQUIREMENTS\nTraining fee | 2s 50c (source)\nTrainer | Angus Hammerhand\nTirisfal Glades\nTrainer | Basil Frye\nUndercity 60.2, 29.1\nTrainer | |cff78c8ff|Hprofpaden:npc:957|h[Dane Lindgren]|h|r\nStormwind City 64.1, 37.0\nSkill required | |cffff8a75Need: Blacksmithing 50|r\nUpdated guide | Skill-ups: 50–90. Gray threshold raised to 90 in the November 10 hotfix; green uses the catalog midpoint convention.\nForeverDB observed (checked 2026-11-06) • ForeverDB observed (checked 2026-11-12)"
+    },
+    {
+      "profession": "Leatherworking",
+      "spell": 1263031,
+      "name": "Tanning Rack",
+      "renderedRows": "Recipe | - • |cff1eff00Uncommon|r • NEW\nType / skill | Recipe to Other\nOne craft | - • Output 1\nMaterial value | - • 1 crafts\nMaterials owned | - used from bags\nStill to buy | -\nTraining fees | See source requirements\nRemaining cost | -\nUnpriced | 1 reagent(s) • Priced subtotal 3s 76c\nMATERIALS • 1 CRAFT(S)\nMaterial | Have / Need | Each | Total\n|Hitem:2319|h[Medium Leather]|h | 0 / 5 | - | -\nUnknown • Updated -\n|Hitem:2321|h[Fine Thread]|h | 0 / 3 | 1s  | 3s \nVendor list estimate • Updated -\n|Hitem:4470|h[Simple Wood]|h | 0 / 2 | 38c | 76c\nVendor list estimate • Updated -\nSOURCE & REQUIREMENTS\nDrop | |cff78c8ff|Hprofpaden:npc:3886:drop|h[Razorclaw the Butcher]|h|r\nShadowfang Keep\nEntrance: Silverpine Forest 44.8, 67.8\nVendor | |cff78c8ff|Hprofpaden:place:happy-camper:273096|hHappy Camper|h|r\nDun Morogh 51.6, 40.0\nVendor | Happy Camper\nDurotar\nRecipe price | 15s  / Happy Camper\nSkill required | |cffff8a75Need: Leatherworking 125|r\nUpdated guide | Requires Leatherworking 125; skill-up thresholds reduced by 15 in the November 6 hotfix.\nForeverChanges • ForeverDB; Forever-labelled records checked 2026-11-05; observation date may predate launch • Wowhead Forever"
+    },
+    {
+      "profession": "Enchanting",
+      "spell": 1263056,
+      "name": "Arcane Salvager",
+      "renderedRows": "Recipe | - • |cff1eff00Uncommon|r • NEW\nType / skill | Recipe to Other\nOne craft | - • Output 1\nMaterial value | - • 1 crafts\nMaterials owned | - used from bags\nStill to buy | -\nTraining fees | See source requirements\nRemaining cost | -\nUnpriced | 2 reagent(s) • Priced subtotal 0c\nMATERIALS • 1 CRAFT(S)\nMaterial | Have / Need | Each | Total\n|Hitem:11137|h[Vision Dust]|h | 0 / 2 | - | -\nUnknown • Updated -\n|Hitem:11174|h[Lesser Nether Essence]|h | 0 / 1 | - | -\nUnknown • Updated -\nSOURCE & REQUIREMENTS\nVendor | |cff78c8ff|Hprofpaden:place:happy-camper:273103|hHappy Camper|h|r\nDun Morogh 51.6, 40.0\nDrop | Rath'mael\nRuins of Lordaeron\nDrop | Shade of the Archmage\nAlterac Mountains\nDrop | |cff78c8ff|Hprofpaden:npc:4421:drop|h[Charlga Razorflank]|h|r\nRazorfen Kraul\nEntrance: The Barrens 42.9, 90.2\nVendor | Happy Camper\nDurotar\nRecipe price | 15s  / Happy Camper\nSkill required | |cffff8a75Need: Enchanting 140|r\nUpdated guide | Crafting tool: Runed Golden Rod. The disenchanting bonus also applies to lower-level enchanters.\nForeverChanges / player screenshots, 16 Oct • ForeverDB; Forever-labelled records checked 2026-11-05; observation date may predate launch • Wowhead Forever (checked 2026-11-05)"
+    },
+    {
+      "profession": "Tailoring",
+      "spell": 3758,
+      "name": "Three Green Woolen Bags",
+      "renderedRows": "Recipe | - • |cff1eff00Uncommon|r\nType / skill | Recipe to Container\nOne craft | - • Output 1\nMaterial value | - • 3 crafts\nMaterials owned | - used from bags\nStill to buy | -\nTraining fees | See source requirements\nRemaining cost | -\nUnpriced | 1 reagent(s) • Priced subtotal 6s \nMATERIALS • 3 CRAFT(S)\nMaterial | Have / Need | Each | Total\n|Hitem:2997|h[Bolt of Woolen Cloth]|h | 0 / 15 | - | -\nUnknown • Updated -\n|Hitem:2605|h[Green Dye]|h | 0 / 3 | 1s  | 3s \nVendor list estimate • Updated -\n|Hitem:2321|h[Fine Thread]|h | 0 / 3 | 1s  | 3s \nVendor list estimate • Updated -\nSOURCE & REQUIREMENTS\nDrop | |cff78c8ff|Hprofpaden:npc:3:drop|h[Flesh Eater]|h|r\nDuskwood 25.1, 38.2\nDrop | |cff78c8ff|Hprofpaden:npc:36:drop|h[Harvest Golem]|h|r\nWestfall 47.1, 67.6\nDrop | |cff78c8ff|Hprofpaden:npc:48:drop|h[Skeletal Warrior]|h|r\nDuskwood 77.4, 73.8\nDrop | |cff78c8ff|Hprofpaden:npc:95:drop|h[Defias Smuggler]|h|r\nWestfall 46.6, 19.6\nDrop | |cff78c8ff|Hprofpaden:npc:98:drop|h[Riverpaw Taskmaster]|h|r\nWestfall 56.5, 70.1\nDrop | |cff78c8ff|Hprofpaden:npc:114:drop|h[Harvest Watcher]|h|r\nWestfall 38.0, 47.8\nDrop | |cff78c8ff|Hprofpaden:npc:115:drop|h[Harvest Reaper]|h|r\nWestfall 65.7, 61.1\nDrop | |cff78c8ff|Hprofpaden:npc:121:drop|h[Defias Pathstalker]|h|r\nWestfall 38.7, 69.9\nDrop | |cff78c8ff|Hprofpaden:npc:122:drop|h[Defias Highwayman]|h|r\nWestfall 46.4, 78.3\nDrop | |cff78c8ff|Hprofpaden:npc:123:drop|h[Riverpaw Mongrel]|h|r\nWestfall 34.1, 25.7\nDrop | |cff78c8ff|Hprofpaden:npc:124:drop|h[Riverpaw Brute]|h|r\nWestfall 30.7, 69.8\nDrop | |cff78c8ff|Hprofpaden:npc:125:drop|h[Riverpaw Overseer]|h|r\nWestfall 60.9, 77.8\nDrop | |cff78c8ff|Hprofpaden:npc:5864:drop|h[Swinegart Spearhide]|h|r\nThe Barrens 40.8, 45.2\nDrop | |cff78c8ff|Hprofpaden:npc:5797:drop|h[Aean Swiftriver]|h|r\nThe Barrens 46.0, 70.0\nDrop | |cff78c8ff|Hprofpaden:npc:2179:drop|h[Stormscale Wave Rider]|h|r\nDarkshore 56.2, 34.6\nSkill required | |cffff8a75Need: Tailoring 75|r\nUpdated guide | 10-slot bag; bolt requirement updated by the November 11 hotfix.\nForeverChanges • ForeverDB observed (checked 2026-11-12) • QuestieDB Forever"
+    }
+  ],
+  "environment": "Offline Lua 5.1 frame mock, not live gameplay"
+}
