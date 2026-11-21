@@ -1,6 +1,6 @@
 {
   "addon": "ProfPaden",
-  "version": "0.20.34-rc1",
+  "version": "0.20.35-rc1",
   "interface": 16001,
   "files": [
     {
@@ -29850,7 +29850,7 @@
     {
       "path": "Core.lua",
       "bytes": 11582,
-      "sha256": "0703041d68cce508b90eb1efb593f0c6590dd3de8024eda2ab03f0f8cb8bb7a5",
+      "sha256": "03151c2515bc50db363e100c53217b9c6234e23dadfae4319319492fb4392e4c",
       "external": false
     },
     {
@@ -30010,6 +30010,12 @@
       "external": false
     },
     {
+      "path": "Data/WowheadNovember21.lua",
+      "bytes": 4127,
+      "sha256": "31968281ff67e5baddd9cbb91998a97e02df47eb212340229b652d69c6ee4460",
+      "external": false
+    },
+    {
       "path": "Data/ZephrasIsle.lua",
       "bytes": 479500,
       "sha256": "7ab3fe610562332a28641ebcfa7ed9799fcef925bf5e31bda042dce3a91a2b67",
@@ -30149,8 +30155,8 @@
     },
     {
       "path": "ProfPaden.toc",
-      "bytes": 1835,
-      "sha256": "5bef48afef13f24993863795671d355571b5d640d4126a15de50a0f52996bc7a",
+      "bytes": 1863,
+      "sha256": "c735b723bf99429596cc8192195f702630dfebce3070d796a180d4a18b919669",
       "external": false
     },
     {

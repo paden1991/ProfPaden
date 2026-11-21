@@ -1,0 +1,92 @@
+{
+  "passed": 36,
+  "checks": [
+    "Tailoring recipe count unchanged",
+    "Blacksmithing recipe count unchanged",
+    "Skinning recipe count unchanged",
+    "Alchemy recipe count unchanged",
+    "Mining recipe count unchanged",
+    "First Aid recipe count unchanged",
+    "Cooking recipe count unchanged",
+    "Fishing recipe count unchanged",
+    "Engineering recipe count unchanged",
+    "Leatherworking recipe count unchanged",
+    "Herbalism recipe count unchanged",
+    "Enchanting recipe count unchanged",
+    "All recipes retain quantities, ingredients, thresholds and outputs",
+    "GatherAreas unchanged",
+    "GatherNodeData unchanged",
+    "GatherAtlas unchanged",
+    "NPCSources unchanged",
+    "MaterialCrafts unchanged",
+    "GatherMaterialUses unchanged",
+    "Unrelated item metadata unchanged",
+    "1245250 automatic learning is visible and verified",
+    "1245246 automatic learning is visible and verified",
+    "1245287 automatic learning is visible and verified",
+    "1245320 automatic learning is visible and verified",
+    "1245321 automatic learning is visible and verified",
+    "Orcish War Leggings points to plans",
+    "Orcish plans requirement is 205 and stale disagreement removed",
+    "Conditional vendor is Sumi, after quest 2756",
+    "Quest reward metadata includes plans",
+    "Bronze Mace binds on equip",
+    "Seed Hybridizer warning covers failure and excluded seeds",
+    "Unresolved guide links excluded",
+    "Conflicting Spinefin source left unchanged",
+    "Repeated patch load is idempotent",
+    "All eight updated recipes render through production detail controls",
+    "Live trainer observation still takes precedence"
+  ],
+  "examples": [
+    {
+      "profession": "Blacksmithing",
+      "spell": 1245287,
+      "name": "Copper Rod",
+      "text": "Source | Learned automatically when learning the profession.\nSkill required | |cffff8a75Need: Blacksmithing 1|r"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 2740,
+      "name": "Bronze Mace",
+      "text": "Training fee | 2s  (source)\nTrainer | Angus Hammerhand\nTirisfal Glades\nTrainer | James Van Brunt\nUndercity 61.3, 30.6\nTrainer | Snarl\nOrgrimmar 79.6, 23.3\nSkill required | |cffff8a75Need: Blacksmithing 75|r\nUpdated guide | Bronze Mace now binds when equipped and can be added to the transmog collection.\nForeverDB observed (checked 2026-11-06) \u2022 ForeverDB observed (checked 2026-11-12)"
+    },
+    {
+      "profession": "Blacksmithing",
+      "spell": 9957,
+      "name": "Orcish War Leggings",
+      "text": "Quest | The Old Ways\nOrgrimmar\nQuest status | |cffff8a75Not completed [2756]|r\nQuest giver | Aturk the Anvil\nOrgrimmar 80.9, 23.3\nVendor | Sumi\nOrgrimmar 82.6, 24.0\nSkill required | |cffff8a75Need: Blacksmithing 205|r\nUpdated guide | The quest awards a recipe item. Replacement plans from Sumi require completion of The Old Ways.\nWowhead / Blizzard hotfix"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 1245250,
+      "name": "Elixir of Minor Force",
+      "text": "Source | Learned automatically when learning the profession.\nSkill required | |cff72d58aMet: Alchemy 1|r"
+    },
+    {
+      "profession": "Alchemy",
+      "spell": 1245246,
+      "name": "Minor Arcane Elixir",
+      "text": "Source | Learned automatically when learning the profession.\nSkill required | |cff72d58aMet: Alchemy 1|r\nUpdated guide | Vendor sell value: 5 copper per elixir."
+    },
+    {
+      "profession": "Herbalism",
+      "spell": 1263070,
+      "name": "Seed Hybridizer",
+      "text": "Source | Camping 101 trainer for tier 1; blueprint for higher tiers. Consult the item link for current acquisition.\nSkill required | |cffff8a75Need: Herbalism 300|r\nUpdated guide | Seed Hybridizer is enabled again. Combining seeds can fail, and Scarce Herb Seeds cannot be used."
+    },
+    {
+      "profession": "Enchanting",
+      "spell": 1245320,
+      "name": "Dust to Motes",
+      "text": "Source | Learned automatically when learning the profession.\nSkill required | |cffff8a75Need: Enchanting 1|r"
+    },
+    {
+      "profession": "Enchanting",
+      "spell": 1245321,
+      "name": "Novice's Practice Wand",
+      "text": "Source | Learned automatically when learning the profession.\nSkill required | |cffff8a75Need: Enchanting 1|r"
+    }
+  ],
+  "environment": "Offline Lua 5.1 frame fixture; not live gameplay"
+}

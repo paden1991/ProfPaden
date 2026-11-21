@@ -1,6 +1,6 @@
 # ProfPaden
 
-WoW Forever, Interface 16001. Version 0.20.34-rc1 (release candidate).
+WoW Forever, Interface 16001. Version 0.20.35-rc1 (release candidate).
 
 ## Installation
 
@@ -22,4 +22,4 @@ Lua regressions cover gathering, guides, source data, tracking, walking and terr
 
 ## Latest verification
 
-Version 0.20.34-rc1 adds the November 12 source observations and November 6–11 profession hotfix corrections. The [update report](docs/november-12/README.md) includes provenance, held candidates, tests and visual references. Earlier release evidence remains in docs/morning-data and docs/launch-data; in-game acceptance is separate.
+Version 0.20.35-rc1 adds eight reviewed Wowhead acquisition and hotfix updates after comparing all 933 recipes in the November 19 overview. The [November 21 review](docs/wowhead-2026-11-21/review.json) records accepted facts, conflicts and test results. Version 0.20.34-rc1 supplied the earlier November source and profession corrections. The [update report](docs/november-12/README.md) includes provenance, held candidates, tests and visual references. Earlier release evidence remains in docs/morning-data and docs/launch-data; in-game acceptance is separate.

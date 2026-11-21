@@ -1,0 +1,108 @@
+{
+  "target": "Forever Interface 16001",
+  "baseline": "0.20.34-rc1",
+  "version": "0.20.35-rc1",
+  "date": "2026-11-21",
+  "guideURL": "https://www.wowhead.com/forever/guide/professions/overview",
+  "guideUpdated": "2026-11-19",
+  "guideSha256": "38ab56ef17aff251cbfc18337ffe87b280ddfb1fbd856e09d8eccd2bd9d42bbc",
+  "comparedGuideRecipes": 933,
+  "existingCatalogRecipes": 2495,
+  "addedRecipes": 0,
+  "acceptedRecipeSpells": [
+    1245250,
+    1245246,
+    1245287,
+    1245320,
+    1245321,
+    9957,
+    2740,
+    1263070
+  ],
+  "rejected": [
+    {
+      "spell": 1250775,
+      "name": "Revealing Draught",
+      "profession": "Alchemy",
+      "newItems": [
+        250362
+      ],
+      "oldItems": [],
+      "source": "Acquisition source not yet published; check the linked Forever spell record."
+    },
+    {
+      "spell": 1248640,
+      "name": "Enchant Gloves - Superior Strength",
+      "profession": "Enchanting",
+      "newItems": [
+        249533
+      ],
+      "oldItems": [
+        274398
+      ],
+      "source": "Formula for 240 Merchant\u2019s Favor: Alynsia (A) or Beneris (H)\nVendor\nFormula: Enchant Gloves - Superior Strength [item 274398]\n\nVendor: Alynsia \u2014 Redridge Mountains\nVendor: Beneris "
+    },
+    {
+      "spell": 1270632,
+      "name": "Critter Cookie",
+      "profession": "Cooking",
+      "newItems": [
+        263505
+      ],
+      "oldItems": [],
+      "source": "Acquisition source not yet published; check the linked Forever spell record."
+    },
+    {
+      "spell": 1255241,
+      "name": "Cleansing Stew",
+      "profession": "Cooking",
+      "newItems": [
+        252949
+      ],
+      "oldItems": [],
+      "source": "Acquisition source not yet published; check the linked Forever spell record."
+    }
+  ],
+  "deferred": [
+    {
+      "spell": 1247741,
+      "name": "Spinefin Halibut",
+      "reason": "Overview says trainer but dedicated Cooking guide says unknown. No named trainer or observed service to resolve conflict."
+    }
+  ],
+  "limitations": [
+    "The public overview downloaded successfully. Direct detail-page collection stopped on HTTP 403 at the first candidate.",
+    "Four blank/unresolved item links were not promoted to verified acquisition data.",
+    "Hotfix and item details were inspected through public search results; no comment-based drop rate or coordinates added.",
+    "This audit covers the overview and selected current hotfixes, not every record on Wowhead."
+  ],
+  "mockup": "Existing appearance preserved; data-only change.",
+  "testing": "Existing UIForever preference retained; real-client acceptance remains separate.",
+  "sources": [
+    {
+      "url": "https://www.wowhead.com/forever/guide/professions/overview",
+      "supports": "Five automatic starter recipes; overview comparison"
+    },
+    {
+      "url": "https://www.wowhead.com/forever/fr/blue-tracker/news/us/wow-forever-hotfixes-november-20-2026-world-of-warcraft-blizzard-news-24315281",
+      "supports": "Orcish plans quest/replacement service; Bronze Mace binding; Seed Hybridizer restrictions"
+    },
+    {
+      "url": "https://www.wowhead.com/forever/de/item=7994/plans-orcish-war-leggings",
+      "supports": "Plans item 7994, skill requirement 205, binds on pickup"
+    },
+    {
+      "url": "https://www.wowhead.com/forever/npc=3356/sumi",
+      "supports": "Sumi NPC ID and plans sold"
+    },
+    {
+      "url": "https://www.wowhead.com/forever/quest=2756/the-old-ways",
+      "supports": "Quest identity 2756"
+    },
+    {
+      "url": "https://www.wowhead.com/forever/guide/professions/cooking/overview-leveling",
+      "supports": "Unresolved Spinefin Halibut source conflict"
+    }
+  ],
+  "offlineChecksPassed": 45
+}

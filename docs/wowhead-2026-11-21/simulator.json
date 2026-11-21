@@ -1,0 +1,26 @@
+{
+  "version": "0.20.35-rc1",
+  "simulator": "UIForever",
+  "client": "Forever 1.60.1.70450",
+  "package": "ProfPaden-0.20.35-rc1-forever.zip",
+  "checks": [
+    "Full package imports and loads",
+    "Version and data patch available",
+    "Orcish War Leggings catalog selection and conditional replacement note render",
+    "Seed Hybridizer catalog selection and failure/exclusion warning render"
+  ],
+  "finalErrors": 0,
+  "finalMissingAPIs": 0,
+  "screenshots": [
+    "simulator-plans.jpg",
+    "simulator-seeds.jpg"
+  ],
+  "testHarnessCorrections": [
+    "Initial console command overwrote the search widget; corrected after a clean reload.",
+    "Initial Seed Hybridizer lookup used Engineering; corrected by locating its actual Herbalism entry."
+  ],
+  "limitations": [
+    "No live WoW gameplay acceptance",
+    "Only the two changed detail views visually inspected; all eight covered by offline production-renderer checks"
+  ]
+}
