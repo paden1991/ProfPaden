@@ -1,0 +1,36 @@
+{
+  "checked": "2026-11-21",
+  "baseline": "0.20.35-rc1",
+  "result": "Derived zone indexes did not incorporate every source added by later data updates. Existing source coordinates and labels were intact.",
+  "fix": "Reconcile every material source map with the zone selector; merge missing mask coverage while retaining the previous aggregate and every historical source.",
+  "initialFlagsExplained": {
+    "invalidRawCoordinates": 709,
+    "invalidRawCoordinatesDisposition": "Preserved source sentinels; all exported coordinates are bounded, not plotted as spawns.",
+    "waterVsFishingSourceKinds": "Two open-water records use water in the atlas and fishing in coordinate metadata; source item IDs agree.",
+    "nodeZoneTextDifferences": "Includes dungeon placeholders and partial provider zone lists; not treated as proof of wrong coordinates. No zone names or raw coordinates were guessed."
+  },
+  "sourceSpotChecks": [
+    {
+      "url": "https://www.wowhead.com/forever/guide/professions/mining/overview-leveling",
+      "finding": "Copper Vein mining locations include starter zones, including Elwynn Forest and Durotar."
+    },
+    {
+      "url": "https://www.wowhead.com/forever/guide/professions/herbalism/overview-leveling",
+      "finding": "Peacebloom gathering locations include Elwynn Forest and other starter zones."
+    },
+    {
+      "url": "https://www.wowhead.com/forever/item=2318/light-leather",
+      "finding": "Keeps skinning distinct from loot and other acquisition methods; some displayed samples are explicitly Classic Era."
+    },
+    {
+      "url": "https://www.wowhead.com/forever/npc=113/stonetusk-boar",
+      "finding": "Elwynn Forest location and Chunk of Boar Meat loot confirmed; old sample rates were not replaced."
+    },
+    {
+      "url": "https://www.wowhead.com/forever/item=6522/deviate-fish",
+      "finding": "The Barrens fishing location confirmed; unrelated low-sample Classic Era records were not adopted."
+    }
+  ],
+  "scope": "Full internal map/source integrity and regression testing, plus fresh representative Wowhead location spot checks. Not a fresh online verification of all 48,985 source records.",
+  "staleTests": "Two older disclosure tests assumed Copper still had five records and no other visible Elwynn source. Updated assertions to retain added NPC sources while testing the original vein grouping and disclosure behavior."
+}

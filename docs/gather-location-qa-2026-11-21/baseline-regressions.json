@@ -1,0 +1,358 @@
+{
+  "gather": {
+    "tests": 18,
+    "passed": 18,
+    "results": [
+      {
+        "name": "Cooking keeps Gather; crafting professions expose relevant Materials",
+        "passed": true
+      },
+      {
+        "name": "Item search supports creature, zone, ID and reset without catalog interference",
+        "passed": true
+      },
+      {
+        "name": "Rare and quest views filter independently; switching professions normalizes pool view",
+        "passed": true
+      },
+      {
+        "name": "Existing leveling circuits remain reachable with their map paths",
+        "passed": true
+      },
+      {
+        "name": "Meat loot and skinning use distinct methods and reported source rates",
+        "passed": true
+      },
+      {
+        "name": "Specialty scales, lotus and Forever scarce materials retain real source links",
+        "passed": true
+      },
+      {
+        "name": "Felwood quest materials carry beacon prerequisites and correct quantities",
+        "passed": true
+      },
+      {
+        "name": "Fishing pools contain catch IDs and actual mapped spawn areas without fake coordinates",
+        "passed": true
+      },
+      {
+        "name": "Quest fish and open-water catches do not become imaginary pools",
+        "passed": true
+      },
+      {
+        "name": "Detail rows use real item hyperlinks, method columns, bag counts and map offset",
+        "passed": true
+      },
+      {
+        "name": "Zone dropdown selection swaps masks and resets when the selected material changes",
+        "passed": true
+      },
+      {
+        "name": "Long area menus stay bounded and expose every source selection",
+        "passed": true
+      },
+      {
+        "name": "World map matches source map, reuses one texture, hides on another zone and clears",
+        "passed": true
+      },
+      {
+        "name": "World map respects combat and historical circuits clear an older blue overlay",
+        "passed": true
+      },
+      {
+        "name": "First map click loads the world-map UI when it has not been opened yet",
+        "passed": true
+      },
+      {
+        "name": "Overlay is above map tile frames and never intercepts map input",
+        "passed": true
+      },
+      {
+        "name": "Atlas uses generated masks without frame polling or on-refresh coordinate aggregation",
+        "passed": true
+      },
+      {
+        "name": "Every source area has power-of-two map art and a transparent mask",
+        "passed": true
+      }
+    ]
+  },
+  "dropSources": [
+    {
+      "name": "Every captured current relationship and rate appears in every profession mirror",
+      "passed": true
+    },
+    {
+      "name": "Classic and Questie reference relationships are retained, including uncapped tables",
+      "passed": true
+    },
+    {
+      "name": "New browser coordinates retain source identity and unassessed walkability",
+      "passed": true
+    },
+    {
+      "name": "Westfall Wool sources, zone overlay and map-scoped UI are functional",
+      "passed": true
+    },
+    {
+      "name": "All-zones links paginate, clamp out-of-range pages and switch back to map scope",
+      "passed": true
+    },
+    {
+      "name": "Map and material changes reset source pages; zero-source maps remain usable",
+      "passed": true
+    },
+    {
+      "name": "New source hyperlinks never reach the Blizzard item tooltip parser",
+      "passed": true
+    },
+    {
+      "name": "Expanded entries have unique source identities, valid rates and bounded source rows",
+      "passed": true
+    },
+    {
+      "name": "Outdoor SoD source maps are retained alongside new Forever creatures",
+      "passed": true
+    },
+    {
+      "name": "Wool world-map button uses the Westfall overlay without fabricating a circuit",
+      "passed": true
+    },
+    {
+      "name": "All generated overlays decode and all runtime map assets exist",
+      "passed": true
+    },
+    {
+      "name": "Every previous node provider, non-loot source and material zone remains available",
+      "passed": true
+    },
+    {
+      "name": "Unmapped NPC tooltips explain the missing waypoint instead of promising directions",
+      "passed": true
+    }
+  ],
+  "skinning": {
+    "tests": 47,
+    "passed": 47,
+    "results": [
+      {
+        "name": "item-11512-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-15408-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-15412-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-15414-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-15415-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-15416-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-15417-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-15419-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-15422-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-15423-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-17012-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-20381-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-20498-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-20500-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-20501-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-2318-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-2319-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-249427-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-249428-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-2934-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-4232-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-4234-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-4235-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-4304-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-4461-dropped-by",
+        "passed": true
+      },
+      {
+        "name": "item-5082-dropped-by",
+        "passed": true
+      },
+      {
+        "name": "item-5116-dropped-by",
+        "passed": true
+      },
+      {
+        "name": "item-5784-dropped-by",
+        "passed": true
+      },
+      {
+        "name": "item-5785-dropped-by",
+        "passed": true
+      },
+      {
+        "name": "item-6470-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-6471-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-7286-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-7287-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-7392-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-7428-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-783-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-8154-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-8165-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-8167-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-8169-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-8170-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-8171-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "item-8368-skinned-from",
+        "passed": true
+      },
+      {
+        "name": "Both profession UIs paginate every current and reference source, with new mob search",
+        "passed": true
+      },
+      {
+        "name": "Every original coordinate record and provider is preserved",
+        "passed": true
+      },
+      {
+        "name": "Merged zone masks and navigation data work for both professions",
+        "passed": true
+      },
+      {
+        "name": "Unavailable tables stay explicit without fabricated sources",
+        "passed": true
+      }
+    ]
+  },
+  "disclosure": {
+    "tests": 6,
+    "passed": 6,
+    "results": [
+      {
+        "name": "Copper groups repeated veins while retaining added NPC sources and deduplicating locations",
+        "passed": true
+      },
+      {
+        "name": "Real disclosure handler exposes every original zone and its own rate, then collapses",
+        "passed": true
+      },
+      {
+        "name": "Changing item, page, scope or map resets disclosure and keeps existing source paging",
+        "passed": true
+      },
+      {
+        "name": "Distinct NPC identities and container methods remain distinct; provenance is retained",
+        "passed": true
+      },
+      {
+        "name": "All source facts remain referenced once across presentation groups",
+        "passed": true
+      },
+      {
+        "name": "Native disclosure buttons are reused and hidden when leaving source details",
+        "passed": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": "0.20.36-rc1",
+  "client": "UIForever 1.60.1.70450",
+  "fullPackageLoaded": true,
+  "finalErrors": 0,
+  "finalMissingAPIs": 0,
+  "clickChecks": [
+    "World map opens selected Duskwood (1431)",
+    "Skeletal Fiend Details expands and shows Duskwood and retained source date",
+    "Paged zone dropdown Zones 1-10 then Elwynn Forest changes Copper Ore map from Durotar to Elwynn Forest"
+  ],
+  "consoleChecks": [
+    "Linen Cloth Duskwood includes Skeletal Fiend and Skeletal Horror",
+    "Copper Ore Elwynn Forest",
+    "Peacebloom Elwynn Forest",
+    "Light Leather Westfall",
+    "Chunk of Boar Meat Elwynn Forest",
+    "Deviate Fish The Barrens"
+  ],
+  "limitations": [
+    "Blizzard map artwork appears as simulator placeholder tiles; map ID and overlays verified but native artwork requires actual-client check",
+    "No live gameplay or harvest/drop verification",
+    "No physical controller test; unchanged controls"
+  ],
+  "screenshots": [
+    "simulator-duskwood-details.jpg",
+    "simulator-worldmap.jpg",
+    "simulator-checks.jpg"
+  ]
+}

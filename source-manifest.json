@@ -1,6 +1,6 @@
 {
   "addon": "ProfPaden",
-  "version": "0.20.35-rc1",
+  "version": "0.20.36-rc1",
   "interface": 16001,
   "files": [
     {
@@ -21748,6 +21748,1884 @@
       "external": false
     },
     {
+      "path": "Assets/GatherReconciled/000bcb4e1b74078aabe0.tga",
+      "bytes": 65580,
+      "sha256": "81dba6a63c33372efc6cb40b51c2389a48dd90a0fc9c95de0347db1b0f76de99",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/004d05cb15744ba1b4ca.tga",
+      "bytes": 65580,
+      "sha256": "baa49c4af3699c11fbea3bad6e35b32f9ccd0d97ec12ff9df5de9e548fdeca8e",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/011d6d9c58293491e83f.tga",
+      "bytes": 65580,
+      "sha256": "9956f35455314d0e3bf1888c39d0eaac007dd70fa77521632c9a294150d32854",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/012182be955d8971eb7c.tga",
+      "bytes": 65580,
+      "sha256": "c2c10b0a5143c02a8bd3f0d14cd390f6f200fb864bcf8c9650c15c7f1b9293b7",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/01b278cdf59d9bee9d8d.tga",
+      "bytes": 65580,
+      "sha256": "2509533b9d5f8d7a1a56d51beed64cdd140799c141df89ace2cfde9fb621f378",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/0219ac249a2b3730cf13.tga",
+      "bytes": 65580,
+      "sha256": "4938eeba14c4fa3f7bf461044b2fc20649d77596812cd83119a5ba5bec3dead2",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/045ee216d08d8621d8af.tga",
+      "bytes": 65580,
+      "sha256": "512702fd32ea26394f290f38a4288d7205c2baa09bb57ea4d22891ab96aa6786",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/0578df639a955e44618b.tga",
+      "bytes": 65580,
+      "sha256": "27f91e3dd7b1177984c60aa973940cbcf6c27baac09810f28a29a7be48381dfe",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/06cff1dfb644d575d7df.tga",
+      "bytes": 65580,
+      "sha256": "50a2440eaf9f51d19801439f789db1d37ec5f0202c05697fe6066400c0387a8f",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/07c9a8a1b461c4fc0741.tga",
+      "bytes": 65580,
+      "sha256": "b6da5a3f3a4de9c12d2053672e10d84020f1552f979813af31b8f0d3f399bac6",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/07e50966733af689f2f4.tga",
+      "bytes": 65580,
+      "sha256": "7819975c8b671cb8e725ff2b71cb52e2110e4d5e6c58f32b47d3f3eaa0c4c43e",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/0803daaa548b4d8b326b.tga",
+      "bytes": 65580,
+      "sha256": "2437e74dc8e5bf6d0af5e53b317f12fa731137d5ded5c15efa0d673854a29cf3",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/085b82695410cd8f7799.tga",
+      "bytes": 65580,
+      "sha256": "1644c3f7577e344ac3709cc695564f0833caaf708bd4a66ff2d1f732a9749fd4",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/0a4c7c452eba201a3110.tga",
+      "bytes": 65580,
+      "sha256": "9978b9ad60b87338bef377ad727aa101580fc27e41a47ebbbf8131d41ba4d851",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/0a69f660f5db984b0d4d.tga",
+      "bytes": 65580,
+      "sha256": "bba789a6be25c6eec319a17cba60aa4f4b2734572b617dc7ebe7496c80e6a000",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/0b94c9f5befd6ad22bf3.tga",
+      "bytes": 65580,
+      "sha256": "b92ec854b3dfa86337ed938a1cc33981970c26e54f3ca160d8f18c0238ee7ee8",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/0c46c428815eae8ac4e8.tga",
+      "bytes": 65580,
+      "sha256": "5bb5f6f99cf183376a449f6012bfa4a41e14e8fcab2e06892a8048960490ee82",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/0cfb764d84834f31186a.tga",
+      "bytes": 65580,
+      "sha256": "dc1ac211b4ef039f08c68cc85e6e77df74b81743528ff3978961e9641d6aff88",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/0d8e41f31ce67d04f23f.tga",
+      "bytes": 65580,
+      "sha256": "ecda8e9789aa03095472da651f60f2451380b7dd1a2938f67c133b433e9088cf",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/0e55d7d8fcd08bbfc38c.tga",
+      "bytes": 65580,
+      "sha256": "9560354b3ee96f29d9dca2bc1ec94597cfb95eaa0122e97e173e33d5f512021b",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/0f5c50f6b210fc408a04.tga",
+      "bytes": 65580,
+      "sha256": "1b5baedb96f8f3506675668c680d42ad97dd1ca49e840c68dd6967bb897bff4e",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/10ece2d905b4490ef729.tga",
+      "bytes": 65580,
+      "sha256": "15e78a085cb55d496d650dd0eac27978a82dd89100df51ed44f9858b003d0172",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/1309320599f7f7245c5c.tga",
+      "bytes": 65580,
+      "sha256": "c408de41d52a7e66a5807228b67738d7d86db474733f5f07892636ab100f9ee7",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/1340d33a804b9485c68d.tga",
+      "bytes": 65580,
+      "sha256": "1dee3c567a3e10688b53ac8cde03f632ea3760d5f15bc0bb2312d6c30d020628",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/1471d60192b06387825e.tga",
+      "bytes": 65580,
+      "sha256": "9de9000f77a8752c8c364372c051142b5c89f5036f753f09a46fbd214dd16a97",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/1472950468c091c0be6d.tga",
+      "bytes": 65580,
+      "sha256": "7d4c49445e2d45eb45ef8bf7d9d656c05233bf270beae23485d9d79a20c9037b",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/14a90243e3e2bd02112b.tga",
+      "bytes": 65580,
+      "sha256": "0de42ce4ec28a3ad51079df881e066cdf89a49abba19a205f653495e808ca302",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/1573d969471e619ffcb7.tga",
+      "bytes": 65580,
+      "sha256": "b4a15c09588253557b1e2b23d4a03e8a6a1eebd44556466e31a571a57f7327fd",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/16840be8180c93037c4f.tga",
+      "bytes": 65580,
+      "sha256": "a1f21523ed638708927044d2f94f5e7b5471b34991abd8fe1ab1c0a3b9a76f6d",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/169e9f04954712b5d18c.tga",
+      "bytes": 65580,
+      "sha256": "02a2258c5527af34140e6f21b0947610d0b13223b88b3760f910518e495ecfb3",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/16b8ecd65b77749530d7.tga",
+      "bytes": 65580,
+      "sha256": "d06fef352a18e73abb52bd8892c88c268d2c6b94a5b9d70188a1fbb511bfd439",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/174d434b77e0b20a8757.tga",
+      "bytes": 65580,
+      "sha256": "9d89fb20c9c81fe401a613a9d13039f88bf704cf28f3c67e3f7b7b45ebdb43b0",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/180305e68e99cd9f086f.tga",
+      "bytes": 65580,
+      "sha256": "2e275ae680d8a07b3956008054c5185886099fa9e6c18d7d9fe3198c53c8760a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/18ae9742669cc5425e4a.tga",
+      "bytes": 65580,
+      "sha256": "6cd7ef8a9def73ee9f2bc28c07f153676cc1a39551f9297a6d56b1880597a1be",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/1a3f91c7a54f4e2606a3.tga",
+      "bytes": 65580,
+      "sha256": "c909fffce105a6f4bb4e8a975c3ac39ecc846449cc42dcc9689fe93375ea2749",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/1ab33c5751242afb7f43.tga",
+      "bytes": 65580,
+      "sha256": "b7b700a68f8f8d4299dd5cd5bab17f0a6f982b3d5dd6ae315fb606910b3e00ef",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/1d46060333f340d25af8.tga",
+      "bytes": 65580,
+      "sha256": "a834f2090ec11fb3821d743d9ee32921899ae9968d1c4dc020e60a2d965ae95e",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/1ec6097eb1bc9cc6634e.tga",
+      "bytes": 65580,
+      "sha256": "fc61cd10e254d4ed72a31b2c3eb2c0ed4bdcbd2120219414bce9e579f544492f",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/1f1b0e9608fa9105ce16.tga",
+      "bytes": 65580,
+      "sha256": "c094c4ebb9cce19ad110a28c7a08324f73cd0e447724e4779ed2798f399f412a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/1f2532839b69cdfa2b48.tga",
+      "bytes": 65580,
+      "sha256": "ee17b1e5e8610e602081df8635189b3b8b2331ab2ea9bb039453846b31b26468",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/1f7bb27f441f58bba5a9.tga",
+      "bytes": 65580,
+      "sha256": "a8d0c4634467d103308c80f41a35e237c6424a0eaeec363fae89184332df99e8",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/1f8b3a0332e812e7f8f8.tga",
+      "bytes": 65580,
+      "sha256": "33981a9d1936e23fba951ebf444fb78726fd5fc3e2168c8d32aefc31819ee28f",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/1ff1f3a349d83df90113.tga",
+      "bytes": 65580,
+      "sha256": "0480dae05152c2bd0e03ed0b1416b3cebe3eb9d30b847e24507f15a61672bf25",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/20fedf1eae450baf1ff6.tga",
+      "bytes": 65580,
+      "sha256": "3ee8a95790f2d103df4022f09d306e1bddb6da31ab358b1726b0822e29eeeb04",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/214ba5561aeba36acd78.tga",
+      "bytes": 65580,
+      "sha256": "5bf359942a735d09070599e7f194452669d5c216e1ea4dfb007bbacfa6889f03",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/2289afc247e54250b570.tga",
+      "bytes": 65580,
+      "sha256": "2793b73cae6d18cba9c29114ab5cc07bc5e8f34817421c6563d2a75b33fe4063",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/23b2f7f278d1c5e5eb4f.tga",
+      "bytes": 65580,
+      "sha256": "8f757b13bf9c73bc7350acb0631d266945d015162c56b52db45a755e34cc1d2a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/26afde57add4fd35303f.tga",
+      "bytes": 65580,
+      "sha256": "f85bd3e5833ba8e38a6a2f07741af041bf11aa7d95faa31ea4d761c8914e37e5",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/2731453a27482c1b34e2.tga",
+      "bytes": 65580,
+      "sha256": "d548518d9a796aa1099b5305188b415e3144ed1c63f0b64c14b4cfe8800dc60a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/284547d52d35dcbb3cf3.tga",
+      "bytes": 65580,
+      "sha256": "75025b8f8e5d1f8a4c69d7f12ea2751af7a6ab5dec0b3b90a35efe30ce591a1e",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/2b0fb7458370d36e4102.tga",
+      "bytes": 65580,
+      "sha256": "d143164bf89b0d055f7559d7d2f96565d7d7b9da6cd06a254a62dc437654afb3",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/2b10433484ee50fcf800.tga",
+      "bytes": 262188,
+      "sha256": "f7af5afd551f6ff90d1ba63bc77d5be1eeac659eebb0edfe9a4c9e2b2d368427",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/2b86700a52c82f54544b.tga",
+      "bytes": 65580,
+      "sha256": "678cee64ccd24228fbb50d11e5a6e722d2b81f0164be908d3a06281749662e3d",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/2c0da44ff805dea77367.tga",
+      "bytes": 65580,
+      "sha256": "fc97b5bbe72f9705c823ea0d9c7dd3d81f89d444f774cae74a87d8ab5b6151aa",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/2ea63e37f0341edc0f12.tga",
+      "bytes": 65580,
+      "sha256": "2af0f8acc785fa0956f0b36d9718db02ced0ecf98cf974f21d487b8f31937a42",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/2f01aff2e277aeba3979.tga",
+      "bytes": 65580,
+      "sha256": "10128881f40bb52b00183d2d338f519011a584d06ebdf6bb5657fe7459488044",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/308b6ad632a106e0d963.tga",
+      "bytes": 65580,
+      "sha256": "eec8b2aa8e303ad26df559756dcd7cc2a91129d23f49a60370368284e0d229dd",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/308e0aefbde5627223f1.tga",
+      "bytes": 65580,
+      "sha256": "857d4ace2f45077792152f5c01510244c1ced37428faa55b66b71487b53aae84",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/30e52a77a7985bddd8a2.tga",
+      "bytes": 65580,
+      "sha256": "a08d7b50ed76eebf6f52eadb8482a673be108f76e976018c4a963f9e9e889cc7",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/312c57d140e54ede2e4f.tga",
+      "bytes": 65580,
+      "sha256": "7e43970d3e646203eb79ecb32df767167eb645c32b4c10c4a191fe44b6a15d5e",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/31f1e412583f3717d631.tga",
+      "bytes": 65580,
+      "sha256": "1c63973402e3e310458e602f9c2ba8ffc561da9c9110112d107d478866fb02d8",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/327d39c4ea12288e7302.tga",
+      "bytes": 65580,
+      "sha256": "4d3bdfcc79ead630a7a5077e0a27e977d98881e06d0de3e0a8d3ad7f3f5fe366",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/32d71b373fcdc7764c03.tga",
+      "bytes": 65580,
+      "sha256": "52914e123ef2d8d61b42c893c48bbe041f1f159e060c5e54024f4977cb8c9100",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/332d58fda4b962017751.tga",
+      "bytes": 65580,
+      "sha256": "0b06366fb7b77b19ad92522e48764eb4be30c28e6d3c377e937c1d0b76b3be8c",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/337342744836435abaf7.tga",
+      "bytes": 262188,
+      "sha256": "7fd83e35f4072e54d069a8a1189f36e3a4cad44785679746f5c7d275528975ca",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3396a544db613b9f87b0.tga",
+      "bytes": 65580,
+      "sha256": "15e97b9e749781b8131df04687965995ec9ebebd6361d4dc645cde0e9b7aa636",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/35a049777a4dcfe66101.tga",
+      "bytes": 65580,
+      "sha256": "c41c0c9235cd790175643ece04be22df40f48c7e0a408c32fd737894a4ed5aa0",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3769423993f726453bb3.tga",
+      "bytes": 65580,
+      "sha256": "d12d12144549486f13c049e0b89a01a64f89d09608b42482199ac17ef2befe45",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/379ab323f2017db54c15.tga",
+      "bytes": 65580,
+      "sha256": "480fd1761c3fd5e4aff390b7a206d772636c124f52aa40a2617561f57d3986e1",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3ab52549cf07c960f149.tga",
+      "bytes": 65580,
+      "sha256": "ffac9d382f10a07484d2a861429cb5a80350eb7e35a521eff3ed71718a5d0e16",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3b0dfff7f4fb9dd065d7.tga",
+      "bytes": 65580,
+      "sha256": "93892084700b0bd16a5343bbd3ca57cf8301503a2dd1e832c64914f4c165b076",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3b4438ea220d8a3b929f.tga",
+      "bytes": 65580,
+      "sha256": "49c05078be39fb6cd5fd2ab46abe4eba9b4e95ffb3db6ca7eb934c0893c57b8a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3b675f9e57cd2e381467.tga",
+      "bytes": 65580,
+      "sha256": "77592145bd46cf0d79be3a89916a7c62a2694af30f6222c9be60441e524de1c0",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3ba45d99853fb2648099.tga",
+      "bytes": 65580,
+      "sha256": "5e2f3489f9c6b82a05d0a9c5b0e52f8e338a130d719f76e940a17554362d64ba",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3bcdae1895109195e481.tga",
+      "bytes": 65580,
+      "sha256": "44d54d62aa3d9a21d2633f2a85068655ea219787e5a9499e3e68f3457b6442b3",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3c398523a10e6fea2146.tga",
+      "bytes": 65580,
+      "sha256": "57b4b9522cc2fc51bf4ed076ffd94d5ad0d21016602b00eec92170324c213cbd",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3c844cbee2ed8b4b509b.tga",
+      "bytes": 65580,
+      "sha256": "726b7636edafba1b11ce41252d739d0210508329bd17d85230a11c07f98b7400",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3cc91ba6ea36d43a48e8.tga",
+      "bytes": 65580,
+      "sha256": "af3c1bc3ba683ba5b5ca06a9eb0b72ecfb0a1ee8f687df040a1692dc5e525590",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3d9bfb390910f9825c0a.tga",
+      "bytes": 65580,
+      "sha256": "00c3e1a857f0502a9e6f5ff31d3cbd2109d204c99867c163b2927f148d0d8ee3",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3f26bc686d0aefb6777d.tga",
+      "bytes": 65580,
+      "sha256": "8b7ea0cd66ff7bc2740bd07f897568f778b8cb2d6bf78a88e240e834754e9b1a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3f81e5bb640b5410a1ee.tga",
+      "bytes": 65580,
+      "sha256": "2594bab86ca5e8193a6e83031a540009de0d9572cdfb8e64b01d420af3e7d709",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3f82c94a49650ddb392b.tga",
+      "bytes": 65580,
+      "sha256": "ec7cd03f850e76b4be43773355aa7e5a4ff5956c525d84cb246b6164200c0928",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/3fd2dd0a85ce8790e027.tga",
+      "bytes": 65580,
+      "sha256": "5cf21d38fd216c2c3330ba18f973723cc5a1bd18430ab3e69cc6bbcb5134cfa7",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/41147413d71ce3b6c09e.tga",
+      "bytes": 65580,
+      "sha256": "1f187562cd7a9262665991269e8e5700f484b0606521b6b5ec6583f461f35b69",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/426cb4733b9fe4074cf6.tga",
+      "bytes": 65580,
+      "sha256": "69144ccd4e3daef0315fc86b133e1d3ce10170a37bd3927013bed6ad3de15dfe",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/42cc0e546343e3a5f40b.tga",
+      "bytes": 65580,
+      "sha256": "e89b8d73afb81634b7201fa2451974414bd37e8946ce3bc37815b004458f3c5c",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/42d024d2604b74d1fa13.tga",
+      "bytes": 65580,
+      "sha256": "59b0ce2cfbb4a3db55335174d8b3a60aa6b306be6f57171a258b53e37c4f15f3",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/42d197418da34b0ae47d.tga",
+      "bytes": 65580,
+      "sha256": "a7ce7409a0b079df2812e6248c82a98431541bdfb8ba9f2c8f920338a20abcf0",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/4310ecf12eefefd2070c.tga",
+      "bytes": 65580,
+      "sha256": "c0097456e907bf23346fbf5dbf03247425e2c7d108ca3dd603450df01e5a710e",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/43d143c17a487ab73cdd.tga",
+      "bytes": 65580,
+      "sha256": "0e970de7cb9f699d35d0d489288307afdb83e55904c06fbb4c4fd250e236036b",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/451fe20c54096cd0ad28.tga",
+      "bytes": 65580,
+      "sha256": "35c3e8ea0bb496e81e4ed6ade62b662a188c76aa6f2e566ca63914a71cdd0b31",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/4637c8e3ee5c611baaea.tga",
+      "bytes": 65580,
+      "sha256": "8486ebbd820266c51cfa7d4664aa179db0a0fb7723d260a17e48d6c75350cefe",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/475b8c64a1e106362d64.tga",
+      "bytes": 65580,
+      "sha256": "3742cc83275eafc168d5fb6f7e9c5150f3b6e8fad562f72aae95dafcf37e932c",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/47d7d7702808a0084fae.tga",
+      "bytes": 65580,
+      "sha256": "75d548bcd59c3bd0ad705dc78d08401837f7ad211889dd765d5cd9cba639d705",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/48c6b53ee7173c000685.tga",
+      "bytes": 65580,
+      "sha256": "6a8ad6044cd6466dbabff0fecba95680b3f7a9f50b5788d024f4cb34ac56a2ef",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/4acecf8500474be7dc49.tga",
+      "bytes": 65580,
+      "sha256": "e6e07f95a5103c3947108fe0fea78edda42041bbdf10b4fff2dcf3a6b8ffafe9",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/4b246b6eb92065eb3089.tga",
+      "bytes": 65580,
+      "sha256": "3ab2607fb2d7143a0f22597a9ab82f999a5bb10bd6e7510a2812e2267f2fd8b7",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/4b33147b9ec90d375042.tga",
+      "bytes": 65580,
+      "sha256": "99ff6e3cad2ab9d9e4655a95200d4e7c9d1dfe928b82970072380c24c10eff99",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/4c503d11c3ffeccca692.tga",
+      "bytes": 65580,
+      "sha256": "ceaababc75159d7b54543c33171d895a67838a9de1c6965d87c809391f3a3516",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/4c7a3117c0fc20675412.tga",
+      "bytes": 65580,
+      "sha256": "ef4626910704499feb62d29c8fe6f3c881624e80700089db8bff7340e8fe1b58",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/4e8ee3860df76b03191d.tga",
+      "bytes": 65580,
+      "sha256": "a977c98373f168a47c752b992fcb2f0167ddbb1db06c1b97b51b0b32055e4d16",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/4f61a06ee4964e283dfc.tga",
+      "bytes": 65580,
+      "sha256": "e6946df4fb77ea2ab5cb5c8f327cfca11fe2ed614e36f926ca3a336edafc7656",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/506f9b230ec72b919ba9.tga",
+      "bytes": 65580,
+      "sha256": "bb1731c8101f1c0bbf08fdacbe3973df90643167a1f49ef026fe11e7f4138091",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/51dd71e9a5ce57a5fcc4.tga",
+      "bytes": 65580,
+      "sha256": "d52c63ffebafd7802c490577080763835609a24c48ff1eeaceea88a0c396c07c",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/531fd7a8dc612bf6391e.tga",
+      "bytes": 262188,
+      "sha256": "7388e5f5b07097f1636d3d2684942ce1a56d48c6178aa61eae6b5d47aece2fcd",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/53208c89f211e7bae126.tga",
+      "bytes": 65580,
+      "sha256": "4581fde44cdeb9d21764848f074bda5bad78a953b62b2e82cd1ea84779b45b59",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/53a34315cbf0f1b46d99.tga",
+      "bytes": 65580,
+      "sha256": "347d7529502f610f62eca88f6bf869d7b42c3ee54287036d0544df0e7264b7fe",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/54bc6b57b48d73486f46.tga",
+      "bytes": 65580,
+      "sha256": "b0e48a5c5ea0e1540362f1b718889cdd582923c12338e532854cf9191e3c9a40",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/54f45c14ffbbcc82d75f.tga",
+      "bytes": 65580,
+      "sha256": "f08abbe700d0f97d096725b06f8e39b6adef417572390d18cfc9a319da042756",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/555e750f2d5143b4242e.tga",
+      "bytes": 65580,
+      "sha256": "39a75b90fae531c9661658f0f93bb80f0375cf07e0e93877897865e46a31c82b",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/574a190ecb906da035d9.tga",
+      "bytes": 65580,
+      "sha256": "3f332b329acd320631bfabd4b3c5c0c9b680830a79640caf10b90173231761a7",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/57cce7b21245259eec09.tga",
+      "bytes": 65580,
+      "sha256": "0bd5e35c7b998822b298278ca99520829023afd793b8a523f391c26738f19408",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/57fecc22ae46cbfeae3a.tga",
+      "bytes": 65580,
+      "sha256": "999ce2905fa40c47cd6dbf6f0a3dc7ec1af829d901dffb7f0665ed477a9f8430",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/5883411b462303f9ac8f.tga",
+      "bytes": 65580,
+      "sha256": "3aeb574c6ad999b6c7cf238a4feea4bb5ed7c4fd601dfc63072585223914bc9b",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/589eef222e4c095c373f.tga",
+      "bytes": 65580,
+      "sha256": "02db9098582e4ff64cbf75ccce7607d81abe51e7ec78f39629230b3e9784e439",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/58d8c300e6c30124ae31.tga",
+      "bytes": 65580,
+      "sha256": "69a0cdb2c6a0b24a07a9e554fe27f4ffcb5bca259f62af4ff8e6b294fe30d455",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/592dea292629a5a3707d.tga",
+      "bytes": 65580,
+      "sha256": "efcb22286f2d2936315766989f26f764b92f05b3d052cfe0d55b3e6dd0ceb833",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/598cbd77d14fdc057912.tga",
+      "bytes": 65580,
+      "sha256": "fafb329f721b14d7110f3ab6c1d486e64b3f42b9034222fb8b8b4269a37ccfa5",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/59b80ae4f2cfd356917d.tga",
+      "bytes": 65580,
+      "sha256": "62f99b3b9693db118d47b57d7a2cb6127786a55913cf6b9e5d958bea10fbc186",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/59f5ac3a9883b004bc1f.tga",
+      "bytes": 65580,
+      "sha256": "33702cb5abdf1685c0f1ec09a6233fea1719836f3c4832a510a177a452c04ddb",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/5a051cda8ea08a81af59.tga",
+      "bytes": 65580,
+      "sha256": "acb21c4716e44fcaaa855bcaefb50e5291a0d51aa3440095764a5f4c3afb1670",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/5a28f8de8d04afa84d55.tga",
+      "bytes": 65580,
+      "sha256": "3f5ba5647c681dbdbc6624d91216a767c92ec8e3be404138da67f4fb9ecd2f25",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/5b66bc1a8e30759c2b9c.tga",
+      "bytes": 65580,
+      "sha256": "c4154fe87d0962aa5a42619d78a5e071b96657d05e98d62d74209f115d66b4f0",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/5ca2d18df46efe144e33.tga",
+      "bytes": 65580,
+      "sha256": "463d7554ed4356c648cf55429c2088163ea4030754b92bf8864af7ee4c5f27b9",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/5d5a831a70ebf2c4a18a.tga",
+      "bytes": 65580,
+      "sha256": "f3a56f2408e1b7c0ace7a470a92a4bb9092f2cb64f9253b386dd3a657d926f4a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/5e229a63c109558d2132.tga",
+      "bytes": 65580,
+      "sha256": "f9e8365b7944d9115dc5a2d496047f6acf8aaf07be83e98ebf8311dc6b1b2d6f",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/5eaf5f6edc59f3ddc46c.tga",
+      "bytes": 65580,
+      "sha256": "5882bcf52922a7a2c86d75381e608c3b50559a26f32d35a37c51b1a79920e6a7",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/5f8e39ab41816b9d2bd0.tga",
+      "bytes": 65580,
+      "sha256": "b01d635c6f583f56b14b4f14c2261a99c89456d336b0c0466d9f3c3ec267f84e",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/6185da3d793e565dc25e.tga",
+      "bytes": 65580,
+      "sha256": "351a9834f0c78b207ff2f97f2b27541f876c70d6831a0abe99f8c94171bcf2e5",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/63d6fef1ee139298cd1d.tga",
+      "bytes": 65580,
+      "sha256": "79a01597458d35d06a18da0325b3c77fda107722cb6a194fee5c0b3a2e337550",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/643d3c618eb17fea26fb.tga",
+      "bytes": 65580,
+      "sha256": "51505518bde6ef7a0bb2812d02fe9adbde67027aa63886db7d783d48f3232a45",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/65088647975c17997b70.tga",
+      "bytes": 65580,
+      "sha256": "588b352833ca9c07be10f6ab2ec3fec3475e5d096f4979bb7ad62441610fa9a0",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/65bbfe47dd5f63075d0b.tga",
+      "bytes": 65580,
+      "sha256": "117baa2a507dc32d62057f2e84318177ed3f0d53cb7a437e6cc0ff5a031e7bee",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/663bb0ec7cff2773c974.tga",
+      "bytes": 65580,
+      "sha256": "9673e2e5726f0d6579e46389dced47b063352929965e47ca9a2f92542769bab0",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/685043780d6098908d62.tga",
+      "bytes": 65580,
+      "sha256": "4083691c5f8f41d077a765514d996e56c6e2a422de0dfaabdf0015392cd00512",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/6887b3696d8413f94b12.tga",
+      "bytes": 65580,
+      "sha256": "010e7924f7ad6c394c7859fca59a0e88a6561a57ac10a47bfaa41fd198d14fe5",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/68baea0a100658571961.tga",
+      "bytes": 65580,
+      "sha256": "1bc85fbaa5fd76639278c60446c769c7a7bc7314510388e82b8d318149319487",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/699c3b9e5fca77b2fcc0.tga",
+      "bytes": 65580,
+      "sha256": "e09b68243fce3b6948226fdc73b963a5e121b79847e196e25fe8139523c3024b",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/6a0c4504e7750268ad97.tga",
+      "bytes": 65580,
+      "sha256": "547b7b8db37412d54cfe2c008f808d6fc85df6bf437f034ce188d7078a5770d2",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/6ae0d87e2a35705ac43d.tga",
+      "bytes": 65580,
+      "sha256": "486a0f83e61f2c366d7864a2b00287a8d832678a244de88cc21db32e38c0dd06",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/6b6d32c87e6906224914.tga",
+      "bytes": 65580,
+      "sha256": "cfa30dee0f6c6538d8b30c897454c733584ec44cbb979b6a26e90f044e8b474b",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/6be6e2b4679bd343350c.tga",
+      "bytes": 65580,
+      "sha256": "045077bf18fbff4fd78a3d516035da433b34a3c1e2e51c0da131108f34583ebd",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/6c6350dfc01d235b97d9.tga",
+      "bytes": 65580,
+      "sha256": "8fdc8c9322716da95014d3c8e7ae4bea12875c7ac5686cd6f71a3d6ee5c7370f",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/6d716bd374b6e36b5875.tga",
+      "bytes": 65580,
+      "sha256": "e10e2246c08947abcb1496e7e7653f90dea7ad237480399c5f08a4a30b33d52f",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/6e6179c03f3cb35d211d.tga",
+      "bytes": 65580,
+      "sha256": "a08d92e932e7212e79a58e4325182e5b0d7757b55c4209be2f0a0c773cd53fe0",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/6ed6ff9526b6e6cd9363.tga",
+      "bytes": 65580,
+      "sha256": "d4673afbbff6bcae1fa3c121b9910ccc9d9435cad8a4febcca688b0050e2f300",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/6f541e887765182ee938.tga",
+      "bytes": 65580,
+      "sha256": "a8b9ceb38552ac176a1bd02414e3093b0fc83c2330c91558cbb0e6805a70650f",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7146126a4b22c21a9099.tga",
+      "bytes": 65580,
+      "sha256": "efd7f121fd2e63f9c3095ce2db77862bee47ae80f3bf40e8509d41e0ed746796",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/71554ce32552e5b80726.tga",
+      "bytes": 65580,
+      "sha256": "4f66fceff138a7407d41b3af9dbbb9c8767f67ab905e6237bd6f92d710537939",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7191cbb88ef32af709f1.tga",
+      "bytes": 65580,
+      "sha256": "fe75756598962dea2220c7153cbb6250780ddb58e94a6690ece81598bbb6369e",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/723ff527220f88309265.tga",
+      "bytes": 65580,
+      "sha256": "f4c34660ebfe9ae9fe79ecfcd0a4fdac4642f484bc97686854a84fb029ac5bf2",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/729b3d20097ca0b718c6.tga",
+      "bytes": 65580,
+      "sha256": "83220147657b45e415b27503e02f0c69a7a05d3dca1f4fe2c8b55b279dead7fb",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/731f1b35139e57d04719.tga",
+      "bytes": 65580,
+      "sha256": "02a2258c5527af34140e6f21b0947610d0b13223b88b3760f910518e495ecfb3",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/736c615ce29182328f56.tga",
+      "bytes": 65580,
+      "sha256": "bb178ade06d22102656d07a29c3e92ddebc8552f8a950f7204b036e83dbdaf23",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7448a00009ade72b1ded.tga",
+      "bytes": 65580,
+      "sha256": "4b965b377c811cee5cd75089176c898fc4bb26ec7ec2312ad0f74790118dd616",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7471156b3096100338f2.tga",
+      "bytes": 65580,
+      "sha256": "24df01faa141ffdf1910fdbed5b069cafb3ab217df19a4bcd819a438954fce6d",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/750d2eff698f45633e74.tga",
+      "bytes": 65580,
+      "sha256": "1c0dc0d474ac2168b37ab66d9ff9fcd8c4a77a1260b8c4128812bf344700ceb0",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/75b6ec2533a5bc014c53.tga",
+      "bytes": 65580,
+      "sha256": "ce502b6d998224f072fe878a9ffc0bbc5188cfeb6d1e3b371986c49c5a47cd67",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/768295ba8dff07854244.tga",
+      "bytes": 65580,
+      "sha256": "7ab4b22036dee18d2ed883ca15f44dd75cb6848657ee863bc8e39557267304de",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7899409a566191153d92.tga",
+      "bytes": 65580,
+      "sha256": "8dad8ece9018882775c760e0a3ec993b7640d92a52cddb84d9ab193b6877acb3",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/79301988aead547df678.tga",
+      "bytes": 65580,
+      "sha256": "04d498570982ca7bcdd3c65bf636f9a52486fd9e9919c2b2e73e5224957c9514",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7931ed0794e853178aa3.tga",
+      "bytes": 65580,
+      "sha256": "e5c23916763cfe9c5e45a18663b7d9c7e2c5f8ce00e1527dbe0d78a0f8309050",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7a3e4399e699a9a25413.tga",
+      "bytes": 65580,
+      "sha256": "e601cdad5f9350856506891bf92316d2cd5bbe1585beeb96505c0e3d04ba02d3",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7a68e8519af48adb5c33.tga",
+      "bytes": 65580,
+      "sha256": "b3302b4461194543230ef27d6836fe7df84d2fa8255a21cd5d9860e49cf3543c",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7a961b6c6d6364986aa9.tga",
+      "bytes": 65580,
+      "sha256": "992f361da905242385cff3511163bb96ef4fbf4fb53f91ad727f30636228f16a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7b0a821a1425b96ebca9.tga",
+      "bytes": 65580,
+      "sha256": "3ba240a0debe0ece4737ca327ccf64bfd3b5b7f9bc0e261d28d551506c5d5302",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7b7fc1d180556896b82d.tga",
+      "bytes": 65580,
+      "sha256": "0ce9d4a3e77f5b674830776ce5a34f101fd57cff6faa09a63925e59347a57e3b",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7bb69cfb46fa03ff1176.tga",
+      "bytes": 65580,
+      "sha256": "953e3c825b7b43ac8fcc7a4845e607649d34c1f0e92a62faae348f6f6adec627",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7c0448ef13c5ecde88bc.tga",
+      "bytes": 65580,
+      "sha256": "3163b41b16d814b063bb41c75044dd5d00507d66679decf2f87e9e2b0aa1d5f6",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7c215207d2fc0047ae18.tga",
+      "bytes": 65580,
+      "sha256": "9da267ac68bc1853daea61ab03c186794b91d466e282ca6e125d25e117809436",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7e7e00a6919279a1b81c.tga",
+      "bytes": 65580,
+      "sha256": "da3694eca538da84bfae3a10209501e00aa2d23c4cac171d83fe841f3149ab37",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/7e91673a45b54c80bb63.tga",
+      "bytes": 65580,
+      "sha256": "103b0ff671ca75aad6ea52cfe911f756495607df7f6c7552422145823bc269d6",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/80058dc444fe0e481749.tga",
+      "bytes": 65580,
+      "sha256": "ebe347abc0f78f0895195bd68f1a1fe8d4ba344135ab1995d994791b3cae5330",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/8114b5436cf51bbf9abf.tga",
+      "bytes": 65580,
+      "sha256": "3cbc196cdd9c8c92419fe794b907ef9d6ccfe13121bd7fabb797990ec7bc63cb",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/811cb5b1a5ff67e2e76a.tga",
+      "bytes": 65580,
+      "sha256": "17282b9a767c36bc0b6ec732763e75e76e23ab742eacef639872819118064ab3",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/819f1aac05560d3b6509.tga",
+      "bytes": 65580,
+      "sha256": "0e625c6aa46fb469aab1ac936dbbc6a3b6c4de8bef259596399c24d4c40abb3b",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/838d65b58218d3947b5f.tga",
+      "bytes": 65580,
+      "sha256": "5b59572c1928f77e2888d8fb57a933804bf6192d1ad82f480146b8b7109c4e4d",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/83bc0b0d8ee9867f817c.tga",
+      "bytes": 65580,
+      "sha256": "5486dd842903f07092acd96501e790fb0655987e0586db176ef393a9c3a9562c",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/83ff22b2d096d7ed74f2.tga",
+      "bytes": 65580,
+      "sha256": "3220f6529f3101cdbe3c1700eb269cda5716292724e8c2125b95fd89e26d8034",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/84497f0e9e102e1e155b.tga",
+      "bytes": 65580,
+      "sha256": "7bf5ebbb95c12dc3b7c5b70aed1ae7dd129eab949cde9c1af434f6e6ef886a1a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/851b3f14c267e144cd69.tga",
+      "bytes": 65580,
+      "sha256": "6cd7ef8a9def73ee9f2bc28c07f153676cc1a39551f9297a6d56b1880597a1be",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/85332e3e8467d8947ed9.tga",
+      "bytes": 65580,
+      "sha256": "2e5fc1294ce48f96592e5a9512e60e539684a792b294034e40dda12180c2b243",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/8544c7b22df667cd8ec9.tga",
+      "bytes": 65580,
+      "sha256": "ffac9d382f10a07484d2a861429cb5a80350eb7e35a521eff3ed71718a5d0e16",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/855597b634ce9fb2e956.tga",
+      "bytes": 65580,
+      "sha256": "d0bae6361c0b73e07f26640e4fcc63b1519f402583a9effde066f3e90256e2ae",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/86c0b5ee1de6d34d1fec.tga",
+      "bytes": 65580,
+      "sha256": "2f0aeefb9d6d705cb4a8cc01de232e9db53b94ca457a086c383dbdf0a5be4a4d",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/87d43674b08a1b686fa5.tga",
+      "bytes": 65580,
+      "sha256": "f4a54bf0004809a969d0269db62bea814dc10aa6369e7ba06ab25078767622dc",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/8a7412ce4281c7f4f2d0.tga",
+      "bytes": 65580,
+      "sha256": "a99172ae44fd59529fe934dfde98bac4a110ce10f3ea07776d80c3851353f190",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/8a8735c713701875619a.tga",
+      "bytes": 65580,
+      "sha256": "07b4bc24fb6856cc48cc78f0f87007069f5a1c3ebab32bbe575e0c00750da0c4",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/8b317978791497b4d8ee.tga",
+      "bytes": 65580,
+      "sha256": "5949486d65cb2415cc3695aa84644e93a59950064ba4524161234a991fcdf9aa",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/8bd9cea113e01d266c86.tga",
+      "bytes": 65580,
+      "sha256": "07fba110757f59c5ec788ff75264c53081fe3d28c809010eb46001cd68dffa5b",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/8cf294ef75e5857b5dac.tga",
+      "bytes": 65580,
+      "sha256": "0ccea38b23b6c1656dcc299653d83c277a01567801116ec84a256b21220133fe",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/8e66f56e58aaf11d06ca.tga",
+      "bytes": 65580,
+      "sha256": "53b0805a09faa95ab5d052bcd027993704c9e7002b4266d0590f5a0b92019ae5",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/906333e096cd83bc1662.tga",
+      "bytes": 65580,
+      "sha256": "34419d34f88632c977a9a21f13f99559e870862e7312e804b59071d8d4e22796",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/92bda2e94dac0cbb67f1.tga",
+      "bytes": 65580,
+      "sha256": "84cc60e96a198f8f8f0a051963af54aad53ec850edee9c45b0048118ca6c0ab6",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/93d52e27a6ebf40da640.tga",
+      "bytes": 65580,
+      "sha256": "4377e5a39799f5cbb7e18230368d3a8ea9525a8982e353c21b8628a7af09fe47",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/94686e2aeecd2cb8b90a.tga",
+      "bytes": 65580,
+      "sha256": "8e7bb2224df84f16b3aca2f7ea619854927b64f195288d9067645e5995b25aad",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/94df47f437dbba5a48f3.tga",
+      "bytes": 65580,
+      "sha256": "98dfd9b0de552379a145a35d5d8cb360084b0b233d8d920e13baa712f92752f4",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/951e9c911992de46419d.tga",
+      "bytes": 65580,
+      "sha256": "03d0ba117cfdda25f1c3926225f6e7feb0859d1170f70638dc43053c63ce7177",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/954396d599af69186a93.tga",
+      "bytes": 65580,
+      "sha256": "a201e578bbe488cfd39d236e29ec094e40be1cbd957f189cef70b795b7c94dde",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/9589a9e9b4f24f1ff98d.tga",
+      "bytes": 65580,
+      "sha256": "120d871fb82d5b44f3d489867ebab806c82444ac9b1bcb6e66ac5258d6ba3935",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/962f764f9e7112671798.tga",
+      "bytes": 65580,
+      "sha256": "2af0f8acc785fa0956f0b36d9718db02ced0ecf98cf974f21d487b8f31937a42",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/971e43b6210bdbbcc9f7.tga",
+      "bytes": 65580,
+      "sha256": "55f18af7e4db75a54bb8a8b01add5ebb691801ffff3435210c48c9848fed932f",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/9971f9436841be538bc0.tga",
+      "bytes": 65580,
+      "sha256": "1013b6617b9ff3bad8ae2595f06c0cea5b3c706364616a81713a3fd301d4225c",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/99a52503d81d0dee44e2.tga",
+      "bytes": 65580,
+      "sha256": "9ab32b0a3863a2a651919cd1d56f05947df2a6c37e3e8ea6c1be3810b1ecc554",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/99b3c7c3cbc8b74b5a2e.tga",
+      "bytes": 65580,
+      "sha256": "97eaf6f067a60f5bfe63351338352c9b596afb6bbe0e670303a3c33916be3032",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/9c3c0f73731f18bc9e93.tga",
+      "bytes": 65580,
+      "sha256": "1588b7a2bea008c4f7a21e824adb1e505a7c2759434d622309290d9bf512f6c6",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/9e4ee9560932cc41a648.tga",
+      "bytes": 65580,
+      "sha256": "82de8efd85635c37e567373b75a5ee356cecd1fe8620c5076c65552d7e05d5ae",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/9e7ecc7d45ce6343f53d.tga",
+      "bytes": 65580,
+      "sha256": "ea6bf5d04be7ba1305ebb0ba7e609551bb8ed6a2ac9ee49a0a19f5b376ababdf",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/9ea0effbe43b7a840524.tga",
+      "bytes": 65580,
+      "sha256": "9b8078ddfbf79e8f8a518c27c08bac272678ba175120c1cb9201d2b502bc54c7",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a0b0fd40a724b9f6f761.tga",
+      "bytes": 262188,
+      "sha256": "cc5fa8c8688601dd21d921277cda63b1abae50f22f21f36e383443d27d5c30f9",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a141ec2cab0a9f0bcade.tga",
+      "bytes": 65580,
+      "sha256": "bc751596cd1dae11e728af3489c64053a27b0bf5d0cb3c6c03458c434736a064",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a1e39f6541a0e748f643.tga",
+      "bytes": 65580,
+      "sha256": "72bb175459d0f115a508bc7d1cf4dd8df85670adc66625b2289ba63ae012ba4e",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a2a07433c62dbe1f3a76.tga",
+      "bytes": 65580,
+      "sha256": "3ae10b8e2dbcc100b672d8c1309f1398bcc08fb1306f863eb67069648bf0a891",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a2beb8f8ea38200eb8b0.tga",
+      "bytes": 65580,
+      "sha256": "13e48715c0d63553787f669eba8c681318a127c041c584fc29492ccf2d817d5e",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a2f05d34a03635f5ea74.tga",
+      "bytes": 65580,
+      "sha256": "89f7b9ff2216848387f4305eeb236775daea8ea798c505d5bf0e7783593d783a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a2fb1eae710b103e1c5c.tga",
+      "bytes": 65580,
+      "sha256": "d39de0a1d2cc77f464121ff16e020b9bc202809d11817eb64cb1b08d679ed3ec",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a3ee3cddeeae56c0310c.tga",
+      "bytes": 65580,
+      "sha256": "99b8b5aba57807cb06f9a17f38724fa6797272f4ec1125032cec770651d6ebfc",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a45362da844356c4e44f.tga",
+      "bytes": 65580,
+      "sha256": "64d9e27d752a20237904d83c13a18ef2c771e6e53d39d205f21fec4a72fc2bf5",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a4ae635bfee307cc64d1.tga",
+      "bytes": 65580,
+      "sha256": "99f1f68eb073c210bd5a8531c9804ba722057a1c4e6686ef81f4e308cb379b9d",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a4fa7c315c86d13b37c3.tga",
+      "bytes": 65580,
+      "sha256": "94720a3d321729c7072957563b3d42fd4423c70925058fa074586ea4e3966c9a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a5054e44a64a0738d85b.tga",
+      "bytes": 65580,
+      "sha256": "f239942d9061e4e59e1c64eafb57d95509662b685b0aef1c71130dd528a116a1",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a54b00dc4c3dd2f0f7d9.tga",
+      "bytes": 262188,
+      "sha256": "171e9deab7be5300c35632f23af256835fd3a2a4f6924e916f18b5d0c19fc823",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a636561944d7569b188f.tga",
+      "bytes": 65580,
+      "sha256": "bfe17a3652ad2997d8930a339bb7334a0078af690c8c31efb344d86b9288e3db",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a7a0b27a55656d838807.tga",
+      "bytes": 65580,
+      "sha256": "73678cbe61193c950d0446e614d79b16ab26a519f793752b27794169bb14f510",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a8dfcca2017f7076b0f3.tga",
+      "bytes": 65580,
+      "sha256": "855db6a9efaa212b3c1e5b73a979a09bffd2c7174348668097f06352e6084fc9",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a8f96d67b35549180e75.tga",
+      "bytes": 65580,
+      "sha256": "bb803244ba14bfaf5eba993c9703bb0b68f2ade3111710cddab988a2eb4f4d32",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a9af908f997aa5350313.tga",
+      "bytes": 65580,
+      "sha256": "5757ad04ad649057d36294a60a4a2ae783f62c8b4a793876917e57c34d387fe9",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/a9b74f8136e70556d045.tga",
+      "bytes": 65580,
+      "sha256": "a2a9ce6c65caee7f04cb1d823f4f5c8d634049b9a246b9ed87266765121b034b",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/aa73ab9182c1bebf9642.tga",
+      "bytes": 65580,
+      "sha256": "09f37177522433f75013a39640952fa3453e28e953959649d0ea0e4cc54102c7",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/ab8f7a1ce7274141bfb8.tga",
+      "bytes": 65580,
+      "sha256": "68ef8476df22c8e4f8a15cb16e3af46acc1d3e7febda32fe4e7bd12c04fe1041",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/aeeb2866a5ebda062ef8.tga",
+      "bytes": 65580,
+      "sha256": "865837140d7e76cf5fbd991ffcbe2db07a9abeca4c82b855f8d82a2d9e41574b",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/b138f0c67217dfdff75c.tga",
+      "bytes": 65580,
+      "sha256": "0a074993e71ebc5627a0762376e85b6499dc8d8e13984c34c34a4ea3c7397693",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/b2207049b402938c1e89.tga",
+      "bytes": 65580,
+      "sha256": "4b3e2370a3683fa19efb1ae527c0fc3a5452ba65b5b754670f57e6aa6e092b3b",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/b34a8518ec1a687d04a0.tga",
+      "bytes": 65580,
+      "sha256": "84ca25b699c25adab50b2c4c9d09fee75c03542a0cc01b66a8e86f23282a0b1a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/b49d7edbb470c77ae95b.tga",
+      "bytes": 65580,
+      "sha256": "0459d369fcdb2feb421eb15744c96ebb428d8c8b0ea69bf705c5eb50c8af45b1",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/b61ae24a04414cb7fda5.tga",
+      "bytes": 65580,
+      "sha256": "78f1a842836c48057a595baf3075f26d5bc87f590c517a3df91b487fb076f247",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/b8dab93b6729938b2f9f.tga",
+      "bytes": 65580,
+      "sha256": "72acf2d25fad4d1f7957812f958375ab651b0dbb472b5e329e0805756f0b5cfe",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/b97808b326496e52946a.tga",
+      "bytes": 65580,
+      "sha256": "03eea77980a32b6369e9a8c002ce1b789dfe20329586bf607581cc6abd513c87",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/ba5e61d0a598c609b198.tga",
+      "bytes": 65580,
+      "sha256": "7212af6eaa61c56ff08a173d78140c2f2d90cc26371dd10b7a054f371feca378",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/ba9acc1e1a1f7e7d39c8.tga",
+      "bytes": 65580,
+      "sha256": "6b11c7230125ff3eeef9b0a07390106fc3eb599595fca873ade2d9b524232d76",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/bb45428cd33854f47936.tga",
+      "bytes": 65580,
+      "sha256": "9b9999bbb11fb87db67ba378d0f5df2cf14cbe6ba7698e09e2c4c87c44dd4dfa",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/bc323da78d980b56269d.tga",
+      "bytes": 65580,
+      "sha256": "7693d9787b73fd157c08087e598ff55c80481d53e3cff83c693d7ccba08a3c39",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/bc4a5450a716f78f9027.tga",
+      "bytes": 65580,
+      "sha256": "76a295af94c220ad6e328b88a7b1be387cd76a7049a15a29f21d5cc12a18cb07",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/bd37cd0db77a32ac9d83.tga",
+      "bytes": 65580,
+      "sha256": "c1c95f25dace8b5103dd21d8e5dae9ffe9c6f9a95374e2fe48aabb6f6102960a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/bfba1d1accbf1120b82a.tga",
+      "bytes": 65580,
+      "sha256": "c1a996ddce4670b0555e76b0411f4fde854af1c3cfffbc2275b9f9d6e6dc6f14",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/c13f5bcee17bcaf795d1.tga",
+      "bytes": 65580,
+      "sha256": "632e3656d1aae86ef0a9b1eff4ed7694e0a2d398ce114ebda2b09550ee742b49",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/c21fd40d6f4e4c8367fd.tga",
+      "bytes": 65580,
+      "sha256": "6bda9fe6c68bf5371830b310943cf3b35aab7f61466a5c30032835eedef0020a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/c26a0416e25b06798e33.tga",
+      "bytes": 65580,
+      "sha256": "9ca58dcb65bd3d0695a646e562663d8c1643a22a42a26fe6b2d3a66663a78f89",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/c42570400a8647c58f8d.tga",
+      "bytes": 65580,
+      "sha256": "e1b1e32d27e46325203f86641ff4fce22c260a949d1d973650ecdd4660b6edec",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/c56c257affaa3f7569ef.tga",
+      "bytes": 65580,
+      "sha256": "c8993b9cb3c93a942053a8b9e6b708f9de81581313e60160575403e75a6d7fb7",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/c65ae13d4d7f2a7dd251.tga",
+      "bytes": 65580,
+      "sha256": "6d346d11dd35b5ab61e0c0f689d5e9257cfc8eb9ac4c4a362308e4831185a9e4",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/c71c3c70cee4f23c9a5c.tga",
+      "bytes": 65580,
+      "sha256": "72e826067f39363627edfc941af19e134be09509417eef126d6cabda0d24f2e4",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/c86a03953a2845b148ce.tga",
+      "bytes": 65580,
+      "sha256": "dedbf04f8df93f72b43e947816c96814383c7ac1a5f12c6499cffb50a2a51bb7",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/c88dc6347c40ae179fb8.tga",
+      "bytes": 65580,
+      "sha256": "e8bb2991e571259d15eff4ae18f36d8e06aa65ca5beafb253885d3fed393a734",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/c91a2866480ec42360a3.tga",
+      "bytes": 65580,
+      "sha256": "ddb2311ada8bc927ddb5e49834f55d9aeca9ac7be9f9cd71fe85b3f93ab595aa",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/c9b50252ae30ff1b3e8f.tga",
+      "bytes": 65580,
+      "sha256": "a212a19032c37e08c1606e7c69a8d33e6a51b0f1b931873116ef75712cfbdf69",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/c9bb1c06f3b0c20a8199.tga",
+      "bytes": 65580,
+      "sha256": "aafc92d57c8e9ed93fdffd98b20d194125fc6c271256d5aa6208c5566fb117cf",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/c9c5823f734bb7dc1973.tga",
+      "bytes": 65580,
+      "sha256": "af50ba5f8fa0c920264ccd3289c5dcf1570a4192932308a1da35385bd3e086b2",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/ca8e9b4db0b6b40328d4.tga",
+      "bytes": 65580,
+      "sha256": "d85453e914ef17d504412b228d81fe870c41ff51ff2039d39a53fc40db8f7fae",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/cb3a388ea83092b459ad.tga",
+      "bytes": 65580,
+      "sha256": "6aaf851881515dcf57f06fdfc283bfac186f4d07e5602be429b2d083db495a08",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/cb503d2d97d969045ce0.tga",
+      "bytes": 65580,
+      "sha256": "14af909af9526c3d02a8f386450107483c1cb5951a5496c3364f98de750e5457",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/ce6af6f9bd81d6bf4443.tga",
+      "bytes": 65580,
+      "sha256": "4b9c598163e804af441028a39bc1cb62a4b7105f7ae131de66faf830ce13eeb1",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/cfc7a3eea29678a3a116.tga",
+      "bytes": 65580,
+      "sha256": "1f753ed88e0a97fca7a911b8f3848f0caee0713a4d73a0b77224908bd43aed79",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/cfeeb73d0c24592623a6.tga",
+      "bytes": 65580,
+      "sha256": "9fa454951a9b33fa4107e7df6edf5763ce0bc1210d6473efe2184fae499cce55",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/d074d1454cc1a0569a64.tga",
+      "bytes": 65580,
+      "sha256": "41cdd8ec8ca0dbb6abfead6e7d7547c91179251b2d0e61c515e0cb62106b7083",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/d0a91e7cad70f1e67364.tga",
+      "bytes": 65580,
+      "sha256": "b939dcaa6f5573788765a426dc8be73b8b2f8a99fcb1368a7399ae7d37c5e273",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/d1ae81005318183d79db.tga",
+      "bytes": 65580,
+      "sha256": "ea41805b274de1eb28ad25eb9eb1ceedc03300435357ef0c915727f2166c61fe",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/d209ef264c2e1124bfb5.tga",
+      "bytes": 65580,
+      "sha256": "5a46045547f5097daa32309d215d4ca01f810d82069fb4eb0a7c6bc3fa702d3f",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/d25050218d10e3739e44.tga",
+      "bytes": 65580,
+      "sha256": "51390069b9c717684ba81aa254d8effe75fbbe4c01872b67d9b8029e3b81299c",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/d3902c135e5c1055ed15.tga",
+      "bytes": 65580,
+      "sha256": "065299f9c9cf064a9f1d94d9ad7fce4548e242a0518cfecc87c685848d2ad8b3",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/d4b86e22350b86e4d11f.tga",
+      "bytes": 65580,
+      "sha256": "b837bf237d0c548f7748886a1709650d03bce7b1725a7c3befaa42f22c282bfc",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/d4e2051633f53cc7a787.tga",
+      "bytes": 65580,
+      "sha256": "db2340e239e09a088bed8d15cbcbf170e4d04485f065fc23571b5ffbd50bf4a2",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/d586848e4b7668fc868c.tga",
+      "bytes": 65580,
+      "sha256": "7f9ee9f94c62362fa6a2736b1232c32ba17a25c1f19ea46d15e38394e5a0a725",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/d66a57ce2773be9c6de2.tga",
+      "bytes": 65580,
+      "sha256": "5c75cc68df5f92143954b865406229f931d7054b90cfd8810c8b720a4f43672f",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/d6dd5fa620e860c52e38.tga",
+      "bytes": 65580,
+      "sha256": "fcad8a340818baf4746a690770bab860447133f4ffa4bbd3bf27190fa1f6d065",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/d700c5e857fd52604c15.tga",
+      "bytes": 65580,
+      "sha256": "36e8e585863f77dbd18a221deff8d5cd1ab3683e74c0a9d29dd90fb1ba170dae",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/da7e1e577e55d790426d.tga",
+      "bytes": 65580,
+      "sha256": "c7c1bfd1a25435f9ea2e0b815ea62af01bd7c26d02f6e2837121cb4b94da845e",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/db1810fb4236661658cd.tga",
+      "bytes": 65580,
+      "sha256": "b3482cb26582aa3ab4179be257db4ec21de5595f22ae9f6403d77fdcf951e1f7",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/de9a1c60ebdccb743e0b.tga",
+      "bytes": 65580,
+      "sha256": "f2f1d1b5be139a11cdfc20ad2483d793ee16bcdb80feadd3ea1b2dbd85165077",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/df472df4b6e72b4a87db.tga",
+      "bytes": 65580,
+      "sha256": "b255043a44fc5dffbc3c16d9ea91159a2ea9956c425d659f3a976c841db951d2",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/e0314fce48acd820577a.tga",
+      "bytes": 65580,
+      "sha256": "fc0f84a78fe076cb2d0822a469b51a31f8fd4fbcf7ae9cab107c0f255110e8a4",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/e0b0094e18745a916c65.tga",
+      "bytes": 65580,
+      "sha256": "a50053e644dbcca414c74318ae027107f287eed9d39529e9cc94ac30aed31544",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/e0c6ff834749a5f83293.tga",
+      "bytes": 65580,
+      "sha256": "d3237314df19e451c2305123e4ea553f9a03e0796efd08730f0e44fee648311a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/e456861322fc92432083.tga",
+      "bytes": 65580,
+      "sha256": "77ad9b640f16c81d6546016407a52000de280e1dec347cc0158e0cbba6777902",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/e6d48dfb91ce02c5956f.tga",
+      "bytes": 65580,
+      "sha256": "a0238a768ae8ad93fe3116c921ed976688b46be6ed0e9b7bf6c9208737216005",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/e770e98477752685f5cb.tga",
+      "bytes": 65580,
+      "sha256": "c3e1f3fef4e55339d70ea99585150baef38e659ffe21f07b9385c2d41b8e0754",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/e88dcce8945c2ff1e192.tga",
+      "bytes": 65580,
+      "sha256": "ecc7e327c94a02a025199cc6a5b3cb9ab30022c397449278ae882e6ace63ad36",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/e9021f34221bea8502d3.tga",
+      "bytes": 65580,
+      "sha256": "169349c108383ebbb866a3bbc189eca72aa3a9eea82af744da54cdd989b7c428",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/e93ad6146df36dc3b899.tga",
+      "bytes": 65580,
+      "sha256": "f5399cdd08d8917a137f900984925eb1fc3cab43107b42dee1aa37126646d272",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/ea29491dc9e0d317a0b3.tga",
+      "bytes": 65580,
+      "sha256": "dd9842a0208e5b115ec405981249770e3e94397c7bf6511c8e373260f4903006",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/eadfbed36b057ed9d4f3.tga",
+      "bytes": 65580,
+      "sha256": "0c9db36efa5300c12f4452895595bbfb34ef9a9799afa4806d28ffd18ebbbeca",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/eaf4b6845d23e15cff62.tga",
+      "bytes": 65580,
+      "sha256": "d90261ea662015f79ec8038ce4d366e67afb6657cad9cc2ed2fb4bd1311c3ccb",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/eb95a2cd5ab8ef2129ce.tga",
+      "bytes": 65580,
+      "sha256": "449fd9d8ac3ccdae43bbbcc61813b0d7b00d52620b897e1656e4bd34628e0668",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/ebcbdf9621885bdad4d1.tga",
+      "bytes": 65580,
+      "sha256": "8b7ea0cd66ff7bc2740bd07f897568f778b8cb2d6bf78a88e240e834754e9b1a",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/ebf328ed3d7abf6f43a2.tga",
+      "bytes": 65580,
+      "sha256": "ab5e1f61b7905b5bea694b78a5afd28643b173719443e1944c61e5ac37667c60",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/ec79c3abb895cc7224bb.tga",
+      "bytes": 65580,
+      "sha256": "bd5576a0b884428e18adc0c4c788882f145b41a55a5a8e29f5c6cbfd7c7003d8",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/ecd16c82d8199b84a244.tga",
+      "bytes": 65580,
+      "sha256": "de93d5663bf85a1b20a521a572b73c3e04636031ce39a79f5cb102708ad561a6",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/ed76b829f13e5ca29840.tga",
+      "bytes": 65580,
+      "sha256": "8606c4f7f7854cb0a24ae2b205cb652ed65c2cd585d95e91021534f50fe11716",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/edd71dbf0049219a25e4.tga",
+      "bytes": 65580,
+      "sha256": "1f0cacc10ff7836a00076e25935b939cc7ee9a84b075dfda950aa84ba6d821e8",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/ee116bd8b7f449b97102.tga",
+      "bytes": 65580,
+      "sha256": "9672d5cddfce5a7887716713936de266bb39b0f90002432f0d1259f255c0e769",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/effd05e123c51c15a5ea.tga",
+      "bytes": 65580,
+      "sha256": "5f46789831c2293778fe818e4bf1b5f0f9e2a5672e91fe2a3c17fabe4ba06962",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/f1335a6f36da27dbafcd.tga",
+      "bytes": 65580,
+      "sha256": "64265b635128d3ed7f650c867c02e5c97584acf55172e16f69480eca1e34ad1d",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/f19ac5e3daf9f30d5ca4.tga",
+      "bytes": 65580,
+      "sha256": "747d0a924e1ae0b4ad94ae7b18f2c1fb20de954b06b233575a544a40095ef7be",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/f29a58bd4b7e225b8f60.tga",
+      "bytes": 65580,
+      "sha256": "98dfd9b0de552379a145a35d5d8cb360084b0b233d8d920e13baa712f92752f4",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/f2c9c3845616f68b801f.tga",
+      "bytes": 65580,
+      "sha256": "4f477dc54646ba2699f19dc2738fa7a8d72d456e960d8c8bf73dbfa8657442a9",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/f449d54319ec8789e43b.tga",
+      "bytes": 65580,
+      "sha256": "02160a70dfe91e573a48d7e6542b8147b96ade88e2d7673ae447c5510cca48ab",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/f4e90df8ce5a42794805.tga",
+      "bytes": 65580,
+      "sha256": "a630556c305cab3265f5181bd85db2133c622e980fd2096ba54b0da6b8fc66b9",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/f7617e5a45ed6ba69462.tga",
+      "bytes": 65580,
+      "sha256": "8104bffbdb44c53413e3a91dba572ad4668faa78302ac1795bc601c36a51ce76",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/fa1d736ad84002fe60d4.tga",
+      "bytes": 65580,
+      "sha256": "1d1f8865b9241a416dd2bd8d0e025e3b63b974c92fd9930113fbc38c778c67bf",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/fb7fae0f7a2c92b0f798.tga",
+      "bytes": 65580,
+      "sha256": "3d980f665402b32d1202a4474fd378c52970c3327143310447ec2faabbc798e9",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/fb83ece662f3697c7fc1.tga",
+      "bytes": 65580,
+      "sha256": "1bd12663c1841d85b610aba04e8978f75462c80091d3062186cb1bbafe157420",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/fb959bc518c3389b89fc.tga",
+      "bytes": 65580,
+      "sha256": "9ea7b180aedf01a0bb2b060e260c56cac64ebfd18d641778a33b8b1e23c87d8c",
+      "external": false
+    },
+    {
+      "path": "Assets/GatherReconciled/fe48007cacee2be31423.tga",
+      "bytes": 65580,
+      "sha256": "93174da8081b514b62b1797a635626ae0b61859a71826abdc88dc424ffdf5ad2",
+      "external": false
+    },
+    {
       "path": "Assets/GatherZones/0080f87702331700eda8.tga",
       "bytes": 65580,
       "sha256": "6447a5312290b0dccfe0bbaaa63d26428d4c8a58df437417f0aad09d97e03e65",
@@ -29850,7 +31728,7 @@
     {
       "path": "Core.lua",
       "bytes": 11582,
-      "sha256": "03151c2515bc50db363e100c53217b9c6234e23dadfae4319319492fb4392e4c",
+      "sha256": "e924e0c4d8dee466393ca92a24f430fba5d029f24f4ff090ef2fb2bce65ab2be",
       "external": false
     },
     {
@@ -29905,6 +31783,12 @@
       "path": "Data/GatherGuides.lua",
       "bytes": 60389,
       "sha256": "df3f02bb8bcaf7f413cf7aaf6e7d07fd939f77038098857f4cee488c3f5575e2",
+      "external": false
+    },
+    {
+      "path": "Data/GatherLocationRepair.lua",
+      "bytes": 280646,
+      "sha256": "d78fb389387d181e87faeb882505dcca4d6c55858a98dec0f8c3f36e61b13957",
       "external": false
     },
     {
@@ -30155,8 +32039,8 @@
     },
     {
       "path": "ProfPaden.toc",
-      "bytes": 1863,
-      "sha256": "c735b723bf99429596cc8192195f702630dfebce3070d796a180d4a18b919669",
+      "bytes": 1894,
+      "sha256": "4c9649999a8771be72df17e0767de2e802f8529c5cffc931ba2719b1ea719dfb",
       "external": false
     },
     {

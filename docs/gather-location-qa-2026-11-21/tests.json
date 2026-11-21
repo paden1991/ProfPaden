@@ -1,0 +1,19 @@
+{
+  "version": "0.20.36-rc1",
+  "passed": 8,
+  "checks": [
+    "All original sources, rates, coordinates and NPC records unchanged",
+    "Every source map has one selectable zone and is included in its overlay index",
+    "Every previous map choice remains selectable",
+    "Source groups retain every record and map filtering excludes unrelated locations",
+    "Node exports exclude sentinel coordinates and honor the selected map",
+    "All 313 repaired overlays exactly combine their recorded inputs without lost cells",
+    "Repeated repair load is idempotent",
+    "Gather UI selects repaired Duskwood, toggles details, pages sources and resets six material types"
+  ],
+  "entries": 1499,
+  "sourceRecords": 48985,
+  "zoneChoices": 8536,
+  "exportedNodesChecked": 1169461,
+  "environment": "Offline Lua 5.1 and production UI with client stubs; not live gameplay"
+}
