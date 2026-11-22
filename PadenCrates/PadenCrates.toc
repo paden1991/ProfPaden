@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: PadenCrates
+## Notes: Cheapest Waylaid Crate bundles and Craftsman's Writ costs, with secure right-click filling.
+## Author: Paden
+## Version: 0.2.1-rc1
+## SavedVariables: PadenCratesDB
+## OptionalDeps: Auctionator, Baganator
+Locales.lua
+Catalog.lua
+Engine.lua
+Adapter.lua
+Fill.lua
+Tooltip.lua
+Shopping.lua
+ShoppingUI.lua
+Core.lua

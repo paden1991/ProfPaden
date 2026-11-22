@@ -1,10 +1,18 @@
 # ProfPaden
 
-WoW Forever, Interface 16001. Version 0.20.36-rc1 (release candidate).
+WoW Forever, Interface 16001. Version 0.20.37-rc1 (release candidate).
 
 ## Installation
 
-Select Forever in WowUp, choose **Install from URL**, and enter `https://github.com/paden1991/ProfPaden`. The installable release asset ends in `-forever.zip` and contains one correctly named addon folder. Do not use GitHub's automatic source-code archive as an installable package.
+Select Forever in WowUp, choose **Install from URL**, and enter `https://github.com/paden1991/ProfPaden`. The installable release asset ends in `-forever.zip` and contains the ProfPaden and PadenCrates addon folders. Do not use GitHub's automatic source-code archive as an installable package.
+
+## Crate and writ companion
+
+The ProfPaden release now includes **PadenCrates 0.2.1-rc1**. It appears separately in WoW's AddOns list and preserves the existing PadenCratesDB settings. If it is already installed, extract/update over that same PadenCrates folder; do not install a second renamed copy.
+
+Enable Auctionator and scan for prices. The **Supplies** tab beside Auctionator's tabs (or `/pcrates shop`) plans the missing items for carried crates and writs, combines shared requirements, deducts bag inventory once, and sends exact quantities to Auctionator for review. Confirm purchases there. Uncached writs use recorded requirements until quest data loads; the writ itself is excluded from materials. Crafting and quest turn-ins remain manual.
+
+[Companion instructions](PadenCrates/README.md) · [Checks and screenshots](docs/padencrates/README.md)
 
 ## Current package
 
@@ -16,7 +24,7 @@ Routes includes the existing compiled 43-map elevation data and numeric terrain 
 
 ## Validation
 
-`python tools/build_release.py` verifies every runtime file against the reviewed SHA-256 manifest, packages one addon folder, and checks the TOC and ZIP. Use a matching `v<version>` tag to publish via GitHub Actions; manual dispatch accepts an existing reviewed tag.
+`python tools/build_release.py` verifies every runtime file against the reviewed SHA-256 manifest, packages the main addon and reviewed companions, and checks the TOC and ZIP. Use a matching `v<version>` tag to publish via GitHub Actions; manual dispatch accepts an existing reviewed tag.
 
 Lua regressions cover gathering, guides, source data, tracking, walking and terrain. The Forever simulator loads the package without the removed companions. Its native map texture assets show checkerboards in both ProfPaden and Blizzard's map; real-client map artwork and optional NodeSight coexistence still require live acceptance. This is not a live-game certification.
 

@@ -1,15 +1,14 @@
-ProfPaden 0.20.36-rc1 — WoW Forever / Interface 16001.
+ProfPaden 0.20.37-rc1 — WoW Forever / Interface 16001.
 
-Gather location QA found that newer drop sources could appear in text without their zones being selectable on the map. Linen Cloth in Duskwood was one example.
+Includes PadenCrates 0.2.1-rc1 as a companion in the same WowUp-compatible ZIP. Both ProfPaden/ and PadenCrates/ install into Interface/AddOns. Existing PadenCrates settings are retained.
 
-- Restores 402 missing material/zone choices and completes 679 existing zone views across 180 material entries.
-- Builds 313 shared overlays from existing recorded source masks, preserving previous map coverage. No new spawn coordinates, drop rates, or acquisition claims are introduced.
-- Preserves original source records, historical/reference labels, node coordinates, and live-observation behavior.
+- Adds Auctionator price estimates for Waylaid Crates and Craftsman's Writs, with secure right-click crate filling when eligible.
+- Adds a Supplies tab styled to match Auctionator. Preview shortages for carried crates/writs and send exact quantities to Auctionator; purchases require confirmation there.
+- Fixes writ shopping when quest data has not loaded, and excludes the writ itself from required materials.
+- Keeps ProfPaden's current profession and gathering behavior/data unchanged.
 
-Validation: eight focused repair checks cover all 1,499 material entries, 48,985 source records, 8,536 selectable material/zone combinations, overlay pixel unions, and 1,169,461 exported node instances. All exported coordinates are bounded; raw sentinel records remain preserved but are excluded from exports. The 36 prior acquisition checks still pass. Baseline regression suites passed 84 checks after correcting two obsolete test assumptions about Copper's source count.
+Enable Auctionator and scan for prices, then /reload and open Supplies at the auction house (or /pcrates shop). If PadenCrates is already installed, update its existing folder, not a renamed second copy.
 
-UIForever loaded the complete package with zero errors and zero missing APIs. Actual clicks tested location disclosure, paged zone selection, and the selected world map. Console checks covered cloth, ore, herbs, leather, meat and fish. The simulator shows placeholder Blizzard map tiles: native artwork and actual loot/harvest behavior remain unverified in-game.
+Validation: 970 Lua 5.1 assertions; simulator checks of the Supplies tab, cold-cache writ quantities and actual Auctionator 351 list handoff. Clean production reload reported zero Lua errors/missing APIs. All package runtime files are checked against SHA-256 manifests. Actual-client purchases, secure item consumption and controller navigation still require live acceptance.
 
-This is a complete internal location-integrity audit plus representative fresh Wowhead spot checks, not a new online verification of every drop record. Evidence: docs/gather-location-qa-2026-11-21/.
-
-Install ProfPaden-0.20.36-rc1-forever.zip or update through WowUp. Reload WoW after updating.
+Install ProfPaden-0.20.37-rc1-forever.zip. This release contains both addon folders; GitHub's automatic source-code archive is not the installable package. See docs/padencrates for visual and functional evidence. Catalog attribution is included in PadenCrates/Catalog-LICENSE.txt.

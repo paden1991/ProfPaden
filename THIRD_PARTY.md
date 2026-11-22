@@ -18,3 +18,7 @@ Public availability does not assign a blanket open-source license to this packag
 The November 6, 2026 coverage pass adds explicitly Forever-labelled creature loot, vendor, quest and recipe-trainer observations from ForeverDB (https://foreverdb.net/). The reviewed ledger and exclusions are in docs/morning-data in the source repository. Observation counts are not drop rates; observed positions are not new spawn points. Numeric profession changes and unresolved/shared source identities were not imported.
 
 The November 12, 2026 update adds reviewed ForeverDB source and trainer observations and official Blizzard profession hotfixes from November 6–11. See docs/november-12 for provenance, held candidates and validation. Observation counts do not establish drop rates, stock, prices or precise spawn coordinates.
+
+## PadenCrates companion catalog
+
+The PadenCrates catalog is adapted from Warlune/forever-waylaid-addon, commit 92c6316feb6298f270b40966c73472d2c21e6ba8, copyright 2026 Anthony Dill, MIT. The full notice is distributed in PadenCrates/Catalog-LICENSE.txt. Auctionator and Baganator are optional separately installed integrations; their code is not included in this companion.

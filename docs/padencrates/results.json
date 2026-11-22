@@ -1,0 +1,13 @@
+{
+  "lua": "5.1",
+  "assertionsPassed": 700,
+  "runtimeFixtureAssertionsPassed": 91,
+  "shoppingAssertionsPassed": 179,
+  "crateReferenceMatches": 30,
+  "crateReferenceDifferences": [],
+  "writQuestAndTargetReferenceMatches": 150,
+  "writReferenceDifferences": [],
+  "visual": "see QA.md and simulator screenshots",
+  "actualClient": "not run",
+  "writLiveQuestVerification": "pending"
+}

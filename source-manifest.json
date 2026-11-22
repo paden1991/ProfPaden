@@ -1,6 +1,6 @@
 {
   "addon": "ProfPaden",
-  "version": "0.20.36-rc1",
+  "version": "0.20.37-rc1",
   "interface": 16001,
   "files": [
     {
@@ -31728,7 +31728,7 @@
     {
       "path": "Core.lua",
       "bytes": 11582,
-      "sha256": "e924e0c4d8dee466393ca92a24f430fba5d029f24f4ff090ef2fb2bce65ab2be",
+      "sha256": "368c4cb831e95ab3777c4ac2f52feeebd9889e10a04083768d4f9769f97b0227",
       "external": false
     },
     {
@@ -32040,7 +32040,7 @@
     {
       "path": "ProfPaden.toc",
       "bytes": 1894,
-      "sha256": "4c9649999a8771be72df17e0767de2e802f8529c5cffc931ba2719b1ea719dfb",
+      "sha256": "b458709d18d51e518894cbbe162211b397f9b16097b3c1d9c0651d869f17806c",
       "external": false
     },
     {
@@ -32126,6 +32126,87 @@
       "bytes": 4228,
       "sha256": "f9173f5ec57b0f640b57c57534cef4dca85b1a783ac98e148446f6b13a28bb89",
       "external": false
+    }
+  ],
+  "companions": [
+    {
+      "addon": "PadenCrates",
+      "version": "0.2.1-rc1",
+      "interface": 16001,
+      "files": [
+        {
+          "path": "Adapter.lua",
+          "bytes": 3323,
+          "sha256": "f45178111edec340b38bc8b04325474c2fac296124fd736ff9ab34522a781ffc",
+          "external": false
+        },
+        {
+          "path": "Catalog-LICENSE.txt",
+          "bytes": 1069,
+          "sha256": "cd948121095343c44ef1797a9dce8fb155fbdcdfffc8c7fbca892f4b0ac5cee8",
+          "external": false
+        },
+        {
+          "path": "Catalog.lua",
+          "bytes": 38428,
+          "sha256": "7f2edcd2614c0ec11b8ac4a5b046aeef115c8f14a2ecdc0578db1b713cb77f08",
+          "external": false
+        },
+        {
+          "path": "Core.lua",
+          "bytes": 3366,
+          "sha256": "8ca0ac7bfef970144368c8effac3166a647d939d9d67e254f507c6e4d7c60ab9",
+          "external": false
+        },
+        {
+          "path": "Engine.lua",
+          "bytes": 3820,
+          "sha256": "d4b5cc92a1b48a9597b838dfe02fa3212c34517d32a5a7e43884c249372a7644",
+          "external": false
+        },
+        {
+          "path": "Fill.lua",
+          "bytes": 4382,
+          "sha256": "c24b085c1356e1de9265f6b309427ab588e49c0c589bf199d4eef038ea29fccd",
+          "external": false
+        },
+        {
+          "path": "Locales.lua",
+          "bytes": 4262,
+          "sha256": "48e22e3f8bbabbbc1a113bdab0ec607cba192892ea405cf69d05bccbc2e1cabc",
+          "external": false
+        },
+        {
+          "path": "PadenCrates.toc",
+          "bytes": 377,
+          "sha256": "2cc2afb85faa3683fc88fac6f689a0ff6cc878773f9d3ede00033a9fefa92b5e",
+          "external": false
+        },
+        {
+          "path": "README.md",
+          "bytes": 4423,
+          "sha256": "34ca828ae067a3fe43c9d4f92faeeef8cafb949dc35b8f3e2210d9caf45df3ee",
+          "external": false
+        },
+        {
+          "path": "Shopping.lua",
+          "bytes": 5994,
+          "sha256": "64314d4aba5ce1e5a87b8e21af74e29f5d7b64810556bf451b18558ff6778fbc",
+          "external": false
+        },
+        {
+          "path": "ShoppingUI.lua",
+          "bytes": 8377,
+          "sha256": "180ec35e610ded1032d6a825a510e986e00aea8f8022596d54b3f94f7cf40873",
+          "external": false
+        },
+        {
+          "path": "Tooltip.lua",
+          "bytes": 3142,
+          "sha256": "17495bcdb7d64eedc2899a651960bfe0a7df317b2496979683e57185e8141df5",
+          "external": false
+        }
+      ]
     }
   ]
 }
