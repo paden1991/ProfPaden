@@ -1,0 +1,20 @@
+Transcribed from the observed UIForever console output, 2026-11-22.
+MATERIAL_QA_PASS 273127 Golem Heart 1
+MATERIAL_QA_PASS 273130 Undeath Engine 1
+MATERIAL_QA_PASS 273131 Bottled Screams 1
+MATERIAL_QA_PASS 273125 Lich's Index Finger 1
+MATERIAL_QA_PASS 273128 Maker's Spark 1
+MATERIAL_QA_PASS 249424 Rosecap 4
+MATERIAL_QA_PASS 268417 Unusual Herb Seeds 2
+MATERIAL_QA_PASS 268418 Scarce Herb Seeds 2
+MATERIAL_QA_PASS 249399 Frilled Lichen 26
+MATERIAL_QA_PASS 11754 Black Diamond 8
+MATERIAL_QA_PASS 15420 Ironfeather 5
+MATERIAL_QA_PASS 4306 Silk Cloth 529
+SOURCE_PAGE_AFTER_CLICK 1
+QA console assertion expected 2 and failed (see pagination-click-assertion.txt).
+Registered handler checks:
+SOURCE_HANDLER_PASS 2
+LAST_PAGE_PASS 27
+PAGE_CLAMP_PASS 27
+Final status: 0 errors, 0 missing APIs; recorded console assertion cleared.

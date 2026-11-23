@@ -1,0 +1,46 @@
+{
+  "version": "0.20.39-rc1",
+  "simulator": "https://uiforever.com/app?flavor=forever",
+  "build": "1.60.1.70450",
+  "resolution": [
+    1280,
+    720
+  ],
+  "uiScale": 0.71,
+  "dependencies": [
+    "Auctionator 351",
+    "PadenCrates 0.2.1-rc1"
+  ],
+  "design": "Existing UI preserved; data-only patch",
+  "input": "Mouse and Lua console; no physical gamepad or real-client tests",
+  "package": "ProfPaden-0.20.39-rc1-forever.zip",
+  "initialization": "pass",
+  "materialSelectionsPassed": 12,
+  "detailsMouseClick": "pass",
+  "detailMouseWheelScroll": "pass",
+  "reportLabelsAndWrapping": "pass",
+  "paginationHandler": "pass: page 2, last page 27, clamp 999 to 27",
+  "paginationMouseClick": "not passed: simulator click did not advance existing hyperlink",
+  "observedErrors": [
+    {
+      "source": "QA console assertion",
+      "count": 1,
+      "cause": "Expected page 2 after mouse click; actual page 1",
+      "record": "pagination-click-assertion.txt"
+    }
+  ],
+  "finalErrors": 0,
+  "missingAPIs": 0,
+  "limitations": [
+    "Native map artwork is checkerboard in simulator, as before this update",
+    "Browser storage warning appeared during import; imported runtime version verified",
+    "Live drops, actual-client hyperlink clicking, persistence, combat and hardware controller not tested"
+  ],
+  "screenshots": [
+    "golem-heart-details.jpg",
+    "scarce-herb-seeds.jpg",
+    "seed-source-details.jpg",
+    "black-diamond-reports.jpg",
+    "cloth-pagination.jpg"
+  ]
+}

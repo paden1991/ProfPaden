@@ -1,0 +1,10 @@
+{
+  "packagingGuardsPassed": 9,
+  "PadenCrates": {
+    "version": "0.2.1-rc1",
+    "engineAssertions": 700,
+    "runtimeAssertions": 91,
+    "shoppingAssertions": 179,
+    "total": 970
+  }
+}

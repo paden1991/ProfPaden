@@ -1,0 +1,5 @@
+Simulator mouse click on existing Next hyperlink did not advance from page 1.
+The console verification assert(page == 2) failed; this was the sole observed error.
+Stack: [C]: in function assert; [console]:1: in main chunk.
+The registered OnHyperlinkClick handler subsequently passed for page 2, page 27 and out-of-range clamping.
+Mouse hyperlink delivery remains unverified; no production UI code changed.

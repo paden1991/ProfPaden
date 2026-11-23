@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "checks": [
+    "Recipes, training thresholds, map areas, overlays and node coordinates unchanged",
+    "All 4874 new links appear once across 278 profession entries; existing sources preserved",
+    "Reports retain observation counts and uncertainty, with no invented rates or coordinates",
+    "Scarce Herb Seeds usage follows the November 19 official hotfix",
+    "Repeated merge preserves source counts and search text",
+    "Actual Lua 5.1 addon loads and renders all 75 updated material detail views"
+  ],
+  "updatedMaterials": 75,
+  "newRelationships": 1200,
+  "affectedEntries": 278,
+  "affectedLinks": 4874,
+  "liveGame": "not run"
+}

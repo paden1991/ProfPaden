@@ -1,0 +1,7758 @@
+[
+  {
+    "item": 118,
+    "name": "Minor Healing Potion",
+    "professions": [
+      "Tailoring"
+    ],
+    "existingSources": 65,
+    "newObservedCandidates": 87,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 159,
+    "name": "Refreshing Spring Water",
+    "professions": [
+      "First Aid",
+      "Cooking",
+      "Engineering"
+    ],
+    "existingSources": 124,
+    "newObservedCandidates": 88,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 723,
+    "name": "Goretusk Liver",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 6,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 729,
+    "name": "Stringy Vulture Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 9,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 730,
+    "name": "Murloc Eye",
+    "professions": [
+      "Cooking",
+      "Alchemy"
+    ],
+    "existingSources": 54,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 731,
+    "name": "Goretusk Snout",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 765,
+    "name": "Silverleaf",
+    "professions": [
+      "Herbalism",
+      "Alchemy",
+      "Leatherworking"
+    ],
+    "existingSources": 15,
+    "newObservedCandidates": 26,
+    "acceptedRelationships": 3,
+    "result": "updated"
+  },
+  {
+    "item": 769,
+    "name": "Chunk of Boar Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 24,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 774,
+    "name": "Malachite",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering"
+    ],
+    "existingSources": 63,
+    "newObservedCandidates": 142,
+    "acceptedRelationships": 60,
+    "result": "updated"
+  },
+  {
+    "item": 783,
+    "name": "Light Hide",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 138,
+    "newObservedCandidates": 39,
+    "acceptedRelationships": 25,
+    "result": "updated"
+  },
+  {
+    "item": 785,
+    "name": "Mageroyal",
+    "professions": [
+      "Tailoring",
+      "Herbalism",
+      "Cooking",
+      "Alchemy",
+      "Leatherworking"
+    ],
+    "existingSources": 17,
+    "newObservedCandidates": 27,
+    "acceptedRelationships": 5,
+    "result": "updated"
+  },
+  {
+    "item": 814,
+    "name": "Flask of Oil",
+    "professions": [
+      "Tailoring",
+      "Engineering"
+    ],
+    "existingSources": 26,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 818,
+    "name": "Tigerseye",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering"
+    ],
+    "existingSources": 57,
+    "newObservedCandidates": 167,
+    "acceptedRelationships": 68,
+    "result": "updated"
+  },
+  {
+    "item": 929,
+    "name": "Healing Potion",
+    "professions": [
+      "Tailoring"
+    ],
+    "existingSources": 59,
+    "newObservedCandidates": 170,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 1015,
+    "name": "Lean Wolf Flank",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 15,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 1080,
+    "name": "Tough Condor Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 1081,
+    "name": "Crisp Spider Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 36,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 1179,
+    "name": "Ice Cold Milk",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 107,
+    "newObservedCandidates": 146,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 1205,
+    "name": "Melon Juice",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 82,
+    "newObservedCandidates": 192,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 1206,
+    "name": "Moss Agate",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 27,
+    "newObservedCandidates": 102,
+    "acceptedRelationships": 48,
+    "result": "updated"
+  },
+  {
+    "item": 1210,
+    "name": "Shadowgem",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 43,
+    "newObservedCandidates": 138,
+    "acceptedRelationships": 45,
+    "result": "updated"
+  },
+  {
+    "item": 1251,
+    "name": "Linen Bandage",
+    "professions": [
+      "First Aid"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 1288,
+    "name": "Large Venom Sac",
+    "professions": [
+      "First Aid",
+      "Alchemy"
+    ],
+    "existingSources": 21,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 1468,
+    "name": "Murloc Fin",
+    "professions": [
+      "First Aid",
+      "Cooking"
+    ],
+    "existingSources": 26,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 1475,
+    "name": "Small Venom Sac",
+    "professions": [
+      "First Aid",
+      "Cooking"
+    ],
+    "existingSources": 26,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 1529,
+    "name": "Jade",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 16,
+    "newObservedCandidates": 45,
+    "acceptedRelationships": 5,
+    "result": "updated"
+  },
+  {
+    "item": 1645,
+    "name": "Moonberry Juice",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 122,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 1705,
+    "name": "Lesser Moonstone",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering"
+    ],
+    "existingSources": 24,
+    "newObservedCandidates": 66,
+    "acceptedRelationships": 20,
+    "result": "updated"
+  },
+  {
+    "item": 1708,
+    "name": "Sweet Nectar",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 14,
+    "newObservedCandidates": 164,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2251,
+    "name": "Gooey Spider Leg",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 22,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2289,
+    "name": "Scroll of Strength II",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 35,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2312,
+    "name": "Fine Leather Gloves",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2313,
+    "name": "Medium Armor Kit",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2318,
+    "name": "Light Leather",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Skinning",
+      "First Aid",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 453,
+    "newObservedCandidates": 32,
+    "acceptedRelationships": 7,
+    "result": "updated"
+  },
+  {
+    "item": 2319,
+    "name": "Medium Leather",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Skinning",
+      "First Aid",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 353,
+    "newObservedCandidates": 25,
+    "acceptedRelationships": 10,
+    "result": "updated"
+  },
+  {
+    "item": 2320,
+    "name": "Coarse Thread",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2321,
+    "name": "Fine Thread",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Skinning",
+      "First Aid",
+      "Leatherworking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2324,
+    "name": "Bleach",
+    "professions": [
+      "Tailoring",
+      "Leatherworking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2325,
+    "name": "Black Dye",
+    "professions": [
+      "Tailoring",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2447,
+    "name": "Peacebloom",
+    "professions": [
+      "Tailoring",
+      "Herbalism",
+      "First Aid",
+      "Cooking",
+      "Alchemy",
+      "Leatherworking"
+    ],
+    "existingSources": 9,
+    "newObservedCandidates": 30,
+    "acceptedRelationships": 3,
+    "result": "updated"
+  },
+  {
+    "item": 2449,
+    "name": "Earthroot",
+    "professions": [
+      "Blacksmithing",
+      "Herbalism",
+      "Alchemy",
+      "Leatherworking"
+    ],
+    "existingSources": 13,
+    "newObservedCandidates": 33,
+    "acceptedRelationships": 2,
+    "result": "updated"
+  },
+  {
+    "item": 2450,
+    "name": "Briarthorn",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Herbalism",
+      "First Aid",
+      "Alchemy",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 29,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 2452,
+    "name": "Swiftthistle",
+    "professions": [
+      "Blacksmithing",
+      "Herbalism",
+      "Cooking",
+      "Alchemy",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 30,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 2453,
+    "name": "Bruiseweed",
+    "professions": [
+      "Tailoring",
+      "Herbalism",
+      "First Aid",
+      "Alchemy"
+    ],
+    "existingSources": 10,
+    "newObservedCandidates": 28,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2454,
+    "name": "Elixir of Minor Strength",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2455,
+    "name": "Minor Mana Potion",
+    "professions": [
+      "Tailoring",
+      "Leatherworking"
+    ],
+    "existingSources": 47,
+    "newObservedCandidates": 110,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2456,
+    "name": "Minor Rejuvenation Potion",
+    "professions": [
+      "Alchemy"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2457,
+    "name": "Elixir of Minor Agility",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2458,
+    "name": "Elixir of Minor Fortitude",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2459,
+    "name": "Swiftness Potion",
+    "professions": [
+      "Blacksmithing",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 6,
+    "newObservedCandidates": 3,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2570,
+    "name": "Linen Cloak",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2589,
+    "name": "Linen Cloth",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "First Aid",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 457,
+    "newObservedCandidates": 174,
+    "acceptedRelationships": 72,
+    "result": "updated"
+  },
+  {
+    "item": 2592,
+    "name": "Wool Cloth",
+    "professions": [
+      "Tailoring",
+      "First Aid",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 379,
+    "newObservedCandidates": 224,
+    "acceptedRelationships": 107,
+    "result": "updated"
+  },
+  {
+    "item": 2594,
+    "name": "Flagon of Dwarven Honeymead",
+    "professions": [
+      "First Aid"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2596,
+    "name": "Skin of Dwarven Stout",
+    "professions": [
+      "First Aid",
+      "Cooking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2604,
+    "name": "Red Dye",
+    "professions": [
+      "Tailoring"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2605,
+    "name": "Green Dye",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Leatherworking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2672,
+    "name": "Stringy Wolf Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 110,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2673,
+    "name": "Coyote Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2674,
+    "name": "Crawler Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 15,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2675,
+    "name": "Crawler Claw",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 16,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2677,
+    "name": "Boar Ribs",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 16,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2678,
+    "name": "Mild Spices",
+    "professions": [
+      "Tailoring",
+      "First Aid",
+      "Cooking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2686,
+    "name": "Thunder Ale",
+    "professions": [
+      "First Aid"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2692,
+    "name": "Hot Spices",
+    "professions": [
+      "Tailoring",
+      "First Aid",
+      "Cooking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2723,
+    "name": "Bottle of Dalaran Noir",
+    "professions": [
+      "First Aid"
+    ],
+    "existingSources": 13,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2770,
+    "name": "Copper Ore",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 9,
+    "newObservedCandidates": 24,
+    "acceptedRelationships": 6,
+    "result": "updated"
+  },
+  {
+    "item": 2771,
+    "name": "Tin Ore",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 18,
+    "acceptedRelationships": 7,
+    "result": "updated"
+  },
+  {
+    "item": 2772,
+    "name": "Iron Ore",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Skinning",
+      "Mining",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 16,
+    "acceptedRelationships": 7,
+    "result": "updated"
+  },
+  {
+    "item": 2775,
+    "name": "Silver Ore",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 6,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2776,
+    "name": "Gold Ore",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2835,
+    "name": "Rough Stone",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 7,
+    "newObservedCandidates": 18,
+    "acceptedRelationships": 5,
+    "result": "updated"
+  },
+  {
+    "item": 2836,
+    "name": "Coarse Stone",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 11,
+    "newObservedCandidates": 19,
+    "acceptedRelationships": 8,
+    "result": "updated"
+  },
+  {
+    "item": 2838,
+    "name": "Heavy Stone",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 6,
+    "newObservedCandidates": 15,
+    "acceptedRelationships": 7,
+    "result": "updated"
+  },
+  {
+    "item": 2840,
+    "name": "Copper Bar",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2841,
+    "name": "Bronze Bar",
+    "professions": [
+      "Blacksmithing",
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2842,
+    "name": "Silver Bar",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 5,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2863,
+    "name": "Coarse Sharpening Stone",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2870,
+    "name": "Shining Silver Breastplate",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2880,
+    "name": "Weak Flux",
+    "professions": [
+      "Blacksmithing",
+      "Engineering"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2886,
+    "name": "Crag Boar Rib",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 11,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2894,
+    "name": "Rhapsody Malt",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2924,
+    "name": "Crocolisk Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 11,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2934,
+    "name": "Ruined Leather Scraps",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Skinning",
+      "First Aid",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 310,
+    "newObservedCandidates": 16,
+    "acceptedRelationships": 5,
+    "result": "updated"
+  },
+  {
+    "item": 2996,
+    "name": "Bolt of Linen Cloth",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 5,
+    "newObservedCandidates": 5,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 2997,
+    "name": "Bolt of Woolen Cloth",
+    "professions": [
+      "Tailoring",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 6,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3013,
+    "name": "Scroll of Protection",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 43,
+    "newObservedCandidates": 97,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3030,
+    "name": "Razor Arrow",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3172,
+    "name": "Boar Intestines",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 14,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3173,
+    "name": "Bear Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 14,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3174,
+    "name": "Spider Ichor",
+    "professions": [
+      "First Aid",
+      "Cooking"
+    ],
+    "existingSources": 33,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3182,
+    "name": "Spider's Silk",
+    "professions": [
+      "Tailoring",
+      "Leatherworking"
+    ],
+    "existingSources": 30,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3355,
+    "name": "Wild Steelbloom",
+    "professions": [
+      "Blacksmithing",
+      "Herbalism",
+      "Alchemy",
+      "Leatherworking"
+    ],
+    "existingSources": 5,
+    "newObservedCandidates": 9,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3356,
+    "name": "Kingsblood",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Herbalism",
+      "Alchemy",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 6,
+    "newObservedCandidates": 18,
+    "acceptedRelationships": 3,
+    "result": "updated"
+  },
+  {
+    "item": 3357,
+    "name": "Liferoot",
+    "professions": [
+      "Herbalism",
+      "First Aid",
+      "Cooking",
+      "Alchemy"
+    ],
+    "existingSources": 5,
+    "newObservedCandidates": 15,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 3358,
+    "name": "Khadgar's Whisker",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Herbalism",
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 11,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 3369,
+    "name": "Grave Moss",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Herbalism",
+      "Alchemy",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3371,
+    "name": "Empty Vial",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "First Aid",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Fishing",
+      "Enchanting"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3372,
+    "name": "Leaded Vial",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "First Aid",
+      "Cooking",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3383,
+    "name": "Elixir of Wisdom",
+    "professions": [
+      "Tailoring",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3385,
+    "name": "Lesser Mana Potion",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 34,
+    "newObservedCandidates": 157,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3389,
+    "name": "Elixir of Lesser Defense",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3390,
+    "name": "Elixir of Lesser Agility",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3391,
+    "name": "Elixir of Ogre Strength",
+    "professions": [
+      "Blacksmithing",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3404,
+    "name": "Buzzard Wing",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 22,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3466,
+    "name": "Strong Flux",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3470,
+    "name": "Rough Grinding Stone",
+    "professions": [
+      "Blacksmithing",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3478,
+    "name": "Coarse Grinding Stone",
+    "professions": [
+      "Blacksmithing",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3486,
+    "name": "Heavy Grinding Stone",
+    "professions": [
+      "Blacksmithing",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3575,
+    "name": "Iron Bar",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Skinning",
+      "Mining",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3576,
+    "name": "Tin Bar",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3577,
+    "name": "Gold Bar",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 8,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3667,
+    "name": "Tender Crocolisk Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 20,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3685,
+    "name": "Raptor Egg",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 26,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3712,
+    "name": "Turtle Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 30,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3713,
+    "name": "Soothing Spices",
+    "professions": [
+      "First Aid",
+      "Cooking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3730,
+    "name": "Big Bear Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 10,
+    "newObservedCandidates": 4,
+    "acceptedRelationships": 3,
+    "result": "updated"
+  },
+  {
+    "item": 3731,
+    "name": "Lion Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 7,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3818,
+    "name": "Fadeleaf",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Herbalism",
+      "Cooking",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 13,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 3819,
+    "name": "Wintersbite",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Herbalism",
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 4,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3820,
+    "name": "Stranglekelp",
+    "professions": [
+      "Tailoring",
+      "Herbalism",
+      "Alchemy",
+      "Leatherworking",
+      "Fishing"
+    ],
+    "existingSources": 8,
+    "newObservedCandidates": 7,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3821,
+    "name": "Goldthorn",
+    "professions": [
+      "Herbalism",
+      "Cooking",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 7,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3823,
+    "name": "Lesser Invisibility Potion",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3824,
+    "name": "Shadow Oil",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Alchemy",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3827,
+    "name": "Mana Potion",
+    "professions": [
+      "Tailoring",
+      "Leatherworking"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 56,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3829,
+    "name": "Frost Oil",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3857,
+    "name": "Coal",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 14,
+    "newObservedCandidates": 25,
+    "acceptedRelationships": 18,
+    "result": "updated"
+  },
+  {
+    "item": 3858,
+    "name": "Mithril Ore",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3859,
+    "name": "Steel Bar",
+    "professions": [
+      "Blacksmithing",
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3860,
+    "name": "Mithril Bar",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 3864,
+    "name": "Citrine",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 14,
+    "newObservedCandidates": 46,
+    "acceptedRelationships": 8,
+    "result": "updated"
+  },
+  {
+    "item": 4096,
+    "name": "Coarse Gorilla Hair",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 2,
+    "result": "updated"
+  },
+  {
+    "item": 4231,
+    "name": "Cured Light Hide",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4232,
+    "name": "Medium Hide",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 155,
+    "newObservedCandidates": 54,
+    "acceptedRelationships": 35,
+    "result": "updated"
+  },
+  {
+    "item": 4233,
+    "name": "Cured Medium Hide",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4234,
+    "name": "Heavy Leather",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Skinning",
+      "First Aid",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 268,
+    "newObservedCandidates": 43,
+    "acceptedRelationships": 5,
+    "result": "updated"
+  },
+  {
+    "item": 4235,
+    "name": "Heavy Hide",
+    "professions": [
+      "Blacksmithing",
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 121,
+    "newObservedCandidates": 42,
+    "acceptedRelationships": 20,
+    "result": "updated"
+  },
+  {
+    "item": 4236,
+    "name": "Cured Heavy Hide",
+    "professions": [
+      "Blacksmithing",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4243,
+    "name": "Fine Leather Tunic",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4246,
+    "name": "Fine Leather Belt",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4253,
+    "name": "Toughened Leather Gloves",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4255,
+    "name": "Green Leather Armor",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4265,
+    "name": "Heavy Armor Kit",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4289,
+    "name": "Salt",
+    "professions": [
+      "Blacksmithing",
+      "Leatherworking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4291,
+    "name": "Silken Thread",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "First Aid",
+      "Leatherworking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4304,
+    "name": "Thick Leather",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Skinning",
+      "First Aid",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 378,
+    "newObservedCandidates": 32,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 4305,
+    "name": "Bolt of Silk Cloth",
+    "professions": [
+      "Tailoring",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 5,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4306,
+    "name": "Silk Cloth",
+    "professions": [
+      "Tailoring",
+      "First Aid",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 349,
+    "newObservedCandidates": 352,
+    "acceptedRelationships": 180,
+    "result": "updated"
+  },
+  {
+    "item": 4320,
+    "name": "Spidersilk Boots",
+    "professions": [
+      "Tailoring"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4337,
+    "name": "Thick Spider's Silk",
+    "professions": [
+      "Tailoring",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 49,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4338,
+    "name": "Mageweave Cloth",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "First Aid",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 228,
+    "newObservedCandidates": 218,
+    "acceptedRelationships": 102,
+    "result": "updated"
+  },
+  {
+    "item": 4339,
+    "name": "Bolt of Mageweave",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4340,
+    "name": "Gray Dye",
+    "professions": [
+      "Tailoring",
+      "Leatherworking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4341,
+    "name": "Yellow Dye",
+    "professions": [
+      "Tailoring"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4342,
+    "name": "Purple Dye",
+    "professions": [
+      "Tailoring",
+      "Alchemy"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4357,
+    "name": "Rough Blasting Powder",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 9,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4359,
+    "name": "Handful of Copper Bolts",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 32,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4360,
+    "name": "Rough Copper Bomb",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4361,
+    "name": "Copper Tube",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 34,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4363,
+    "name": "Copper Modulator",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 66,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4364,
+    "name": "Coarse Blasting Powder",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 74,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4368,
+    "name": "Flying Tiger Goggles",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4371,
+    "name": "Bronze Tube",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4375,
+    "name": "Whirring Bronze Gizmo",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4377,
+    "name": "Heavy Blasting Powder",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 37,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4380,
+    "name": "Big Bronze Bomb",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4382,
+    "name": "Bronze Framework",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 42,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4385,
+    "name": "Green Tinted Goggles",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4387,
+    "name": "Iron Strut",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 6,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4389,
+    "name": "Gyrochronatom",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 5,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4394,
+    "name": "Big Iron Bomb",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4397,
+    "name": "Gnomish Cloaking Device",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4399,
+    "name": "Wooden Stock",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4400,
+    "name": "Heavy Stock",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4402,
+    "name": "Small Flame Sac",
+    "professions": [
+      "Cooking",
+      "Alchemy",
+      "Engineering"
+    ],
+    "existingSources": 24,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4404,
+    "name": "Silver Contact",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 5,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4405,
+    "name": "Crude Scope",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 17,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4407,
+    "name": "Accurate Scope",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4461,
+    "name": "Raptor Hide",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 18,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4470,
+    "name": "Simple Wood",
+    "professions": [
+      "Tailoring",
+      "Skinning",
+      "Herbalism",
+      "First Aid",
+      "Cooking",
+      "Leatherworking",
+      "Fishing",
+      "Enchanting"
+    ],
+    "existingSources": 13,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4536,
+    "name": "Shiny Red Apple",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 37,
+    "newObservedCandidates": 17,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4589,
+    "name": "Long Elegant Feather",
+    "professions": [
+      "Tailoring"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 4603,
+    "name": "Raw Spotted Yellowtail",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 28,
+    "acceptedRelationships": 13,
+    "result": "updated"
+  },
+  {
+    "item": 4605,
+    "name": "Red-speckled Mushroom",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 25,
+    "newObservedCandidates": 33,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4611,
+    "name": "Blue Pearl",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4625,
+    "name": "Firebloom",
+    "professions": [
+      "Tailoring",
+      "Herbalism",
+      "Cooking",
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 9,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 4655,
+    "name": "Giant Clam Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 6,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5051,
+    "name": "Dig Rat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5082,
+    "name": "Thin Kodo Leather",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 10,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5116,
+    "name": "Long Tail Feather",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 37,
+    "newObservedCandidates": 4,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5373,
+    "name": "Lucky Charm",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5465,
+    "name": "Small Spider Leg",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 66,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5466,
+    "name": "Scorpid Stinger",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 25,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5467,
+    "name": "Kodo Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 10,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5468,
+    "name": "Soft Frenzy Flesh",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5469,
+    "name": "Strider Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 8,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5470,
+    "name": "Thunder Lizard Tail",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 8,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5471,
+    "name": "Stag Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 9,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 2,
+    "result": "updated"
+  },
+  {
+    "item": 5498,
+    "name": "Small Lustrous Pearl",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Leatherworking",
+      "Fishing"
+    ],
+    "existingSources": 604,
+    "newObservedCandidates": 4,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5500,
+    "name": "Iridescent Pearl",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Leatherworking",
+      "Fishing",
+      "Enchanting"
+    ],
+    "existingSources": 347,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5503,
+    "name": "Clam Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 168,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5504,
+    "name": "Tangy Clam Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 295,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5507,
+    "name": "Ornate Spyglass",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5523,
+    "name": "Small Barnacled Clam",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 40,
+    "newObservedCandidates": 12,
+    "acceptedRelationships": 12,
+    "result": "updated"
+  },
+  {
+    "item": 5524,
+    "name": "Thick-shelled Clam",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 31,
+    "newObservedCandidates": 13,
+    "acceptedRelationships": 5,
+    "result": "updated"
+  },
+  {
+    "item": 5633,
+    "name": "Great Rage Potion",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5635,
+    "name": "Sharp Claw",
+    "professions": [
+      "Blacksmithing",
+      "Alchemy"
+    ],
+    "existingSources": 192,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5637,
+    "name": "Large Fang",
+    "professions": [
+      "Blacksmithing",
+      "Cooking",
+      "Alchemy",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 162,
+    "newObservedCandidates": 7,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5784,
+    "name": "Slimy Murloc Scale",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 42,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5785,
+    "name": "Thick Murloc Scale",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 23,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 5966,
+    "name": "Guardian Gloves",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6037,
+    "name": "Truesilver Bar",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6048,
+    "name": "Shadow Protection Potion",
+    "professions": [
+      "Tailoring",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6217,
+    "name": "Copper Rod",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6260,
+    "name": "Blue Dye",
+    "professions": [
+      "Tailoring",
+      "Leatherworking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6261,
+    "name": "Orange Dye",
+    "professions": [
+      "Tailoring",
+      "Leatherworking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6289,
+    "name": "Raw Longjaw Mud Snapper",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 29,
+    "newObservedCandidates": 17,
+    "acceptedRelationships": 15,
+    "result": "updated"
+  },
+  {
+    "item": 6291,
+    "name": "Raw Brilliant Smallfish",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6303,
+    "name": "Raw Slitherskin Mackerel",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 17,
+    "newObservedCandidates": 10,
+    "acceptedRelationships": 2,
+    "result": "updated"
+  },
+  {
+    "item": 6308,
+    "name": "Raw Bristle Whisker Catfish",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 33,
+    "newObservedCandidates": 22,
+    "acceptedRelationships": 19,
+    "result": "updated"
+  },
+  {
+    "item": 6317,
+    "name": "Raw Loch Frenzy",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6338,
+    "name": "Silver Rod",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6357,
+    "name": "Sealed Crate",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6358,
+    "name": "Oily Blackmouth",
+    "professions": [
+      "Alchemy",
+      "Fishing",
+      "Enchanting"
+    ],
+    "existingSources": 10,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6359,
+    "name": "Firefin Snapper",
+    "professions": [
+      "Tailoring",
+      "Alchemy",
+      "Fishing",
+      "Enchanting"
+    ],
+    "existingSources": 10,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6361,
+    "name": "Raw Rainbow Fin Albacore",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 5,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 6362,
+    "name": "Raw Rockscale Cod",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 13,
+    "newObservedCandidates": 30,
+    "acceptedRelationships": 12,
+    "result": "updated"
+  },
+  {
+    "item": 6370,
+    "name": "Blackmouth Oil",
+    "professions": [
+      "Alchemy",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6371,
+    "name": "Fire Oil",
+    "professions": [
+      "Tailoring",
+      "Alchemy",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6452,
+    "name": "Anti-Venom",
+    "professions": [
+      "First Aid"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6453,
+    "name": "Strong Anti-Venom",
+    "professions": [
+      "First Aid"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6458,
+    "name": "Oil Covered Fish",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6470,
+    "name": "Deviate Scale",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 23,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 6471,
+    "name": "Perfect Deviate Scale",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 17,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 6522,
+    "name": "Deviate Fish",
+    "professions": [
+      "Cooking",
+      "Alchemy",
+      "Leatherworking",
+      "Fishing"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6530,
+    "name": "Nightcrawlers",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 22,
+    "newObservedCandidates": 23,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6643,
+    "name": "Bloated Brilliant Smallfish",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6645,
+    "name": "Bloated Mud Snapper",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6647,
+    "name": "Bloated Bristle Whisker Catfish",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6662,
+    "name": "Elixir of Giant Growth",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 6889,
+    "name": "Small Egg",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 72,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7067,
+    "name": "Elemental Earth",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 55,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7068,
+    "name": "Elemental Fire",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 61,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7069,
+    "name": "Elemental Air",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 21,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7070,
+    "name": "Elemental Water",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "First Aid",
+      "Alchemy",
+      "Leatherworking",
+      "Fishing"
+    ],
+    "existingSources": 41,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7071,
+    "name": "Iron Buckle",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7072,
+    "name": "Naga Scale",
+    "professions": [
+      "Tailoring"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 6,
+    "acceptedRelationships": 2,
+    "result": "updated"
+  },
+  {
+    "item": 7075,
+    "name": "Core of Earth",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 49,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7076,
+    "name": "Essence of Earth",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "First Aid",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 45,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7077,
+    "name": "Heart of Fire",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 59,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7078,
+    "name": "Essence of Fire",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "First Aid",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 57,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7079,
+    "name": "Globe of Water",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking",
+      "Fishing",
+      "Enchanting"
+    ],
+    "existingSources": 22,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7080,
+    "name": "Essence of Water",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "First Aid",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Fishing",
+      "Enchanting"
+    ],
+    "existingSources": 14,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7081,
+    "name": "Breath of Wind",
+    "professions": [
+      "Blacksmithing",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7082,
+    "name": "Essence of Air",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "First Aid",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 9,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7191,
+    "name": "Fused Wiring",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 30,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7286,
+    "name": "Black Whelp Scale",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7287,
+    "name": "Red Whelp Scale",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 5,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7387,
+    "name": "Dusky Belt",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7392,
+    "name": "Green Whelp Scale",
+    "professions": [
+      "Skinning",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7428,
+    "name": "Shadowcat Hide",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7909,
+    "name": "Aquamarine",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 10,
+    "newObservedCandidates": 34,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 7910,
+    "name": "Star Ruby",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Engineering"
+    ],
+    "existingSources": 15,
+    "newObservedCandidates": 20,
+    "acceptedRelationships": 2,
+    "result": "updated"
+  },
+  {
+    "item": 7911,
+    "name": "Truesilver Ore",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7912,
+    "name": "Solid Stone",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 33,
+    "acceptedRelationships": 23,
+    "result": "updated"
+  },
+  {
+    "item": 7966,
+    "name": "Solid Grinding Stone",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7971,
+    "name": "Black Pearl",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Leatherworking",
+      "Fishing",
+      "Enchanting"
+    ],
+    "existingSources": 138,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7972,
+    "name": "Ichor of Undeath",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 153,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 7973,
+    "name": "Big-mouth Clam",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 7,
+    "newObservedCandidates": 20,
+    "acceptedRelationships": 18,
+    "result": "updated"
+  },
+  {
+    "item": 7974,
+    "name": "Zesty Clam Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8146,
+    "name": "Wicked Claw",
+    "professions": [
+      "Blacksmithing",
+      "Cooking",
+      "Leatherworking"
+    ],
+    "existingSources": 282,
+    "newObservedCandidates": 8,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8150,
+    "name": "Deeprock Salt",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Cooking",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 91,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8151,
+    "name": "Flask of Mojo",
+    "professions": [
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 56,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8152,
+    "name": "Flask of Big Mojo",
+    "professions": [
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 57,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8153,
+    "name": "Wildvine",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Herbalism",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 32,
+    "acceptedRelationships": 26,
+    "result": "updated"
+  },
+  {
+    "item": 8154,
+    "name": "Scorpid Scale",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 10,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8165,
+    "name": "Worn Dragonscale",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 73,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8167,
+    "name": "Turtle Scale",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 15,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8168,
+    "name": "Jet Black Feather",
+    "professions": [
+      "Blacksmithing",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8169,
+    "name": "Thick Hide",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Skinning",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 99,
+    "newObservedCandidates": 15,
+    "acceptedRelationships": 7,
+    "result": "updated"
+  },
+  {
+    "item": 8170,
+    "name": "Rugged Leather",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Skinning",
+      "First Aid",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 334,
+    "newObservedCandidates": 9,
+    "acceptedRelationships": 4,
+    "result": "updated"
+  },
+  {
+    "item": 8171,
+    "name": "Rugged Hide",
+    "professions": [
+      "Tailoring",
+      "Skinning",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 119,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 8172,
+    "name": "Cured Thick Hide",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8173,
+    "name": "Thick Armor Kit",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8343,
+    "name": "Heavy Silken Thread",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "First Aid",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8365,
+    "name": "Raw Mithril Head Trout",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 3,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8366,
+    "name": "Bloated Mithril Head Trout",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8368,
+    "name": "Thick Wolfhide",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 31,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8544,
+    "name": "Mageweave Bandage",
+    "professions": [
+      "First Aid"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8766,
+    "name": "Morning Glory Dew",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 43,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8831,
+    "name": "Purple Lotus",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Herbalism",
+      "Alchemy",
+      "Enchanting"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 4,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8836,
+    "name": "Arthas' Tears",
+    "professions": [
+      "Herbalism",
+      "Alchemy"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 8,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8838,
+    "name": "Sungrass",
+    "professions": [
+      "Herbalism",
+      "First Aid",
+      "Cooking",
+      "Alchemy",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 3,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8839,
+    "name": "Blindweed",
+    "professions": [
+      "Herbalism",
+      "Alchemy"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8845,
+    "name": "Ghost Mushroom",
+    "professions": [
+      "Tailoring",
+      "Herbalism",
+      "Alchemy",
+      "Enchanting"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 3,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8846,
+    "name": "Gromsblood",
+    "professions": [
+      "Blacksmithing",
+      "Herbalism",
+      "Alchemy",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 5,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8925,
+    "name": "Crystal Vial",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Herbalism",
+      "First Aid",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Fishing",
+      "Enchanting"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8949,
+    "name": "Elixir of Agility",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8951,
+    "name": "Elixir of Defense",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 8959,
+    "name": "Raw Spinefin Halibut",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 4,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 9060,
+    "name": "Inlaid Mithril Cylinder",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 9061,
+    "name": "Goblin Rocket Fuel",
+    "professions": [
+      "Cooking",
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 9206,
+    "name": "Elixir of Greater Strength",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 9210,
+    "name": "Ghost Dye",
+    "professions": [
+      "Tailoring"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 9224,
+    "name": "Potion of Demon Slaying",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 9260,
+    "name": "Volatile Rum",
+    "professions": [
+      "Cooking",
+      "Alchemy",
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 10,
+    "acceptedRelationships": 5,
+    "result": "updated"
+  },
+  {
+    "item": 9262,
+    "name": "Black Vitriol",
+    "professions": [
+      "Mining",
+      "Alchemy",
+      "Engineering"
+    ],
+    "existingSources": 9,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10026,
+    "name": "Black Mageweave Boots",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10284,
+    "name": "Simple Flour",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10285,
+    "name": "Shadow Silk",
+    "professions": [
+      "Tailoring",
+      "Engineering"
+    ],
+    "existingSources": 50,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10286,
+    "name": "Heart of the Wild",
+    "professions": [
+      "Tailoring",
+      "Alchemy",
+      "Engineering"
+    ],
+    "existingSources": 59,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10290,
+    "name": "Pink Dye",
+    "professions": [
+      "Tailoring"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10308,
+    "name": "Scroll of Intellect IV",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10500,
+    "name": "Fire Goggles",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10502,
+    "name": "Spellpower Goggles Xtreme",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10505,
+    "name": "Solid Blasting Powder",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 11,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10507,
+    "name": "Solid Dynamite",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10518,
+    "name": "Parachute Cloak",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10543,
+    "name": "Goblin Construction Helmet",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10546,
+    "name": "Deadly Scope",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10558,
+    "name": "Gold Power Core",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10559,
+    "name": "Mithril Tube",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10560,
+    "name": "Unstable Trigger",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10561,
+    "name": "Mithril Casing",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 9,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10576,
+    "name": "Mithril Mechanical Dragonling",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10577,
+    "name": "Goblin Mortar",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10586,
+    "name": "The Big One",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10588,
+    "name": "Goblin Rocket Helmet",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10592,
+    "name": "Catseye Draught",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10620,
+    "name": "Thorium Ore",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 8,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10647,
+    "name": "Engineer's Ink",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 10,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10648,
+    "name": "Blank Parchment",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 10,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10938,
+    "name": "Lesser Magic Essence",
+    "professions": [
+      "Blacksmithing",
+      "Enchanting"
+    ],
+    "existingSources": 10,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10939,
+    "name": "Greater Magic Essence",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10940,
+    "name": "Strange Dust",
+    "professions": [
+      "Blacksmithing",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 10,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10978,
+    "name": "Small Glimmering Shard",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 10998,
+    "name": "Lesser Astral Essence",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11040,
+    "name": "Morrowgrain",
+    "professions": [
+      "Tailoring"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11082,
+    "name": "Greater Astral Essence",
+    "professions": [
+      "Tailoring",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11083,
+    "name": "Soul Dust",
+    "professions": [
+      "Alchemy",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11084,
+    "name": "Large Glimmering Shard",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11128,
+    "name": "Golden Rod",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11134,
+    "name": "Lesser Mystic Essence",
+    "professions": [
+      "Tailoring",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11135,
+    "name": "Greater Mystic Essence",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11137,
+    "name": "Vision Dust",
+    "professions": [
+      "Tailoring",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11138,
+    "name": "Small Glowing Shard",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11139,
+    "name": "Large Glowing Shard",
+    "professions": [
+      "Blacksmithing",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11144,
+    "name": "Truesilver Rod",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11174,
+    "name": "Lesser Nether Essence",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11175,
+    "name": "Greater Nether Essence",
+    "professions": [
+      "Tailoring",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11176,
+    "name": "Dream Dust",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11177,
+    "name": "Small Radiant Shard",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11178,
+    "name": "Large Radiant Shard",
+    "professions": [
+      "Tailoring",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11184,
+    "name": "Blue Power Crystal",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11185,
+    "name": "Green Power Crystal",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11186,
+    "name": "Red Power Crystal",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11188,
+    "name": "Yellow Power Crystal",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11291,
+    "name": "Star Wood",
+    "professions": [
+      "Cooking",
+      "Enchanting"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11370,
+    "name": "Dark Iron Ore",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11371,
+    "name": "Dark Iron Bar",
+    "professions": [
+      "Blacksmithing",
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11382,
+    "name": "Blood of the Mountain",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11512,
+    "name": "Patch of Tainted Skin",
+    "professions": [
+      "Skinning"
+    ],
+    "existingSources": 8,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11513,
+    "name": "Tainted Vitriol",
+    "professions": [
+      "Mining"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11514,
+    "name": "Fel Creep",
+    "professions": [
+      "Herbalism"
+    ],
+    "existingSources": 7,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 11754,
+    "name": "Black Diamond",
+    "professions": [
+      "Blacksmithing",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 28,
+    "acceptedRelationships": 8,
+    "result": "updated"
+  },
+  {
+    "item": 12037,
+    "name": "Mystery Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 72,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12184,
+    "name": "Raptor Flesh",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 24,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12202,
+    "name": "Tiger Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 21,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12203,
+    "name": "Red Wolf Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 61,
+    "newObservedCandidates": 5,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12204,
+    "name": "Heavy Kodo Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12205,
+    "name": "White Spider Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 35,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12206,
+    "name": "Tender Crab Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 3,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12207,
+    "name": "Giant Egg",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 30,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12208,
+    "name": "Tender Wolf Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 49,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12223,
+    "name": "Meaty Bat Wing",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 38,
+    "newObservedCandidates": 3,
+    "acceptedRelationships": 3,
+    "result": "updated"
+  },
+  {
+    "item": 12359,
+    "name": "Thorium Bar",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12360,
+    "name": "Arcanite Bar",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12361,
+    "name": "Blue Sapphire",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 9,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12363,
+    "name": "Arcane Crystal",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 7,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12364,
+    "name": "Huge Emerald",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 8,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12365,
+    "name": "Dense Stone",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 8,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12607,
+    "name": "Brilliant Chromatic Scale",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12644,
+    "name": "Dense Grinding Stone",
+    "professions": [
+      "Blacksmithing",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12655,
+    "name": "Enchanted Thorium Bar",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12662,
+    "name": "Demonic Rune",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing"
+    ],
+    "existingSources": 67,
+    "newObservedCandidates": 3,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12731,
+    "name": "Pristine Hide of the Beast",
+    "professions": [
+      "Skinning"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12735,
+    "name": "Frayed Abomination Stitching",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12753,
+    "name": "Skin of Shadow",
+    "professions": [
+      "Blacksmithing",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12784,
+    "name": "Arcanite Reaper",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12790,
+    "name": "Arcanite Champion",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12794,
+    "name": "Masterwork Stormhammer",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12796,
+    "name": "Hammer of the Titans",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12797,
+    "name": "Frostguard",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12799,
+    "name": "Large Opal",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 8,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12800,
+    "name": "Azerothian Diamond",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 8,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12803,
+    "name": "Living Essence",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Herbalism",
+      "First Aid",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 30,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12804,
+    "name": "Powerful Mojo",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 52,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12808,
+    "name": "Essence of Undeath",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "First Aid",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 111,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12809,
+    "name": "Guardian Stone",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12810,
+    "name": "Enchanted Leather",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12811,
+    "name": "Righteous Orb",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 105,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 12938,
+    "name": "Blood of Heroes",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Alchemy",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13180,
+    "name": "Stratholme Holy Water",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13422,
+    "name": "Stonescale Eel",
+    "professions": [
+      "Blacksmithing",
+      "Alchemy",
+      "Leatherworking",
+      "Fishing"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13423,
+    "name": "Stonescale Oil",
+    "professions": [
+      "Blacksmithing",
+      "Alchemy",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13444,
+    "name": "Major Mana Potion",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 6,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13458,
+    "name": "Greater Nature Protection Potion",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13463,
+    "name": "Dreamfoil",
+    "professions": [
+      "Blacksmithing",
+      "Herbalism",
+      "Alchemy",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13464,
+    "name": "Golden Sansam",
+    "professions": [
+      "Herbalism",
+      "First Aid",
+      "Alchemy"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13465,
+    "name": "Mountain Silversage",
+    "professions": [
+      "Blacksmithing",
+      "Herbalism",
+      "Cooking",
+      "Alchemy"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13466,
+    "name": "Plaguebloom",
+    "professions": [
+      "Herbalism",
+      "Alchemy"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13467,
+    "name": "Icecap",
+    "professions": [
+      "Blacksmithing",
+      "Herbalism",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13468,
+    "name": "Black Lotus",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Herbalism",
+      "Alchemy",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13510,
+    "name": "Flask of the Titans",
+    "professions": [
+      "Blacksmithing",
+      "Alchemy"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13511,
+    "name": "Flask of Distilled Wisdom",
+    "professions": [
+      "Blacksmithing",
+      "Alchemy"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13512,
+    "name": "Flask of Supreme Power",
+    "professions": [
+      "Blacksmithing",
+      "Alchemy"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13513,
+    "name": "Flask of Chromatic Resistance",
+    "professions": [
+      "Alchemy"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13754,
+    "name": "Raw Glossy Mightfish",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13755,
+    "name": "Winter Squid",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13756,
+    "name": "Raw Summer Bass",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13758,
+    "name": "Raw Redgill",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13759,
+    "name": "Raw Nightfin Snapper",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13760,
+    "name": "Raw Sunscale Salmon",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13881,
+    "name": "Bloated Redgill",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13888,
+    "name": "Darkclaw Lobster",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13889,
+    "name": "Raw Whitescale Salmon",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13890,
+    "name": "Raw Plated Armorfish",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13891,
+    "name": "Bloated Whitescale Salmon",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13893,
+    "name": "Large Raw Mightfish",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 13926,
+    "name": "Golden Pearl",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Fishing",
+      "Enchanting"
+    ],
+    "existingSources": 95,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 14044,
+    "name": "Cindercloth Cloak",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 14047,
+    "name": "Runecloth",
+    "professions": [
+      "Tailoring",
+      "Herbalism",
+      "First Aid",
+      "Engineering",
+      "Leatherworking",
+      "Fishing",
+      "Enchanting"
+    ],
+    "existingSources": 231,
+    "newObservedCandidates": 79,
+    "acceptedRelationships": 54,
+    "result": "updated"
+  },
+  {
+    "item": 14048,
+    "name": "Bolt of Runecloth",
+    "professions": [
+      "Tailoring",
+      "Leatherworking",
+      "Fishing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 14227,
+    "name": "Ironweb Spider Silk",
+    "professions": [
+      "Tailoring",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 34,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 14256,
+    "name": "Felcloth",
+    "professions": [
+      "Tailoring",
+      "Leatherworking"
+    ],
+    "existingSources": 67,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 14341,
+    "name": "Rune Thread",
+    "professions": [
+      "Tailoring",
+      "Leatherworking"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 14342,
+    "name": "Mooncloth",
+    "professions": [
+      "Tailoring",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 14343,
+    "name": "Small Brilliant Shard",
+    "professions": [
+      "Tailoring",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 14344,
+    "name": "Large Brilliant Shard",
+    "professions": [
+      "Tailoring",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 14530,
+    "name": "Heavy Runecloth Bandage",
+    "professions": [
+      "First Aid"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15407,
+    "name": "Cured Rugged Hide",
+    "professions": [
+      "Tailoring",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15408,
+    "name": "Heavy Scorpid Scale",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 9,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15409,
+    "name": "Refined Deeprock Salt",
+    "professions": [
+      "Tailoring",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15410,
+    "name": "Scale of Onyxia",
+    "professions": [
+      "Alchemy",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15412,
+    "name": "Green Dragonscale",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 51,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15414,
+    "name": "Red Dragonscale",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 11,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15415,
+    "name": "Blue Dragonscale",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 21,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15416,
+    "name": "Black Dragonscale",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 33,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15417,
+    "name": "Devilsaur Leather",
+    "professions": [
+      "Blacksmithing",
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15419,
+    "name": "Warbear Leather",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 9,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15420,
+    "name": "Ironfeather",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 10,
+    "acceptedRelationships": 5,
+    "result": "updated"
+  },
+  {
+    "item": 15422,
+    "name": "Frostsaber Leather",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 5,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15423,
+    "name": "Chimera Leather",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 7,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15564,
+    "name": "Rugged Armor Kit",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15924,
+    "name": "Soft-shelled Clam Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15992,
+    "name": "Dense Blasting Powder",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 15994,
+    "name": "Thorium Widget",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 7,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 16000,
+    "name": "Thorium Tube",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 16005,
+    "name": "Dark Iron Bomb",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 16006,
+    "name": "Delicate Arcanite Converter",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 16202,
+    "name": "Lesser Eternal Essence",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 16203,
+    "name": "Greater Eternal Essence",
+    "professions": [
+      "Tailoring",
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 16204,
+    "name": "Illusion Dust",
+    "professions": [
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 16206,
+    "name": "Arcanite Rod",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 16583,
+    "name": "Demonic Figurine",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 16967,
+    "name": "Feralas Ahi",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 16968,
+    "name": "Sar'theris Striker",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 16969,
+    "name": "Savage Coast Blue Sailfin",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 16970,
+    "name": "Misty Reed Mahi Mahi",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 17010,
+    "name": "Fiery Core",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 14,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 17011,
+    "name": "Lava Core",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 16,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 17012,
+    "name": "Core Leather",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 17034,
+    "name": "Maple Seed",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 17035,
+    "name": "Stranglethorn Seed",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 12,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 17056,
+    "name": "Light Feather",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 42,
+    "newObservedCandidates": 20,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 17194,
+    "name": "Holiday Spices",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 17196,
+    "name": "Holiday Spirits",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 17202,
+    "name": "Snowball",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 17203,
+    "name": "Sulfuron Ingot",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 18168,
+    "name": "Force Reactive Disk",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 18240,
+    "name": "Ogre Tannin",
+    "professions": [
+      "Tailoring",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 18251,
+    "name": "Core Armor Kit",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 18255,
+    "name": "Runn Tum Tuber",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 25,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 18256,
+    "name": "Imbued Vial",
+    "professions": [
+      "Alchemy",
+      "Enchanting"
+    ],
+    "existingSources": 13,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 18262,
+    "name": "Elemental Sharpening Stone",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 18512,
+    "name": "Larval Acid",
+    "professions": [
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 18562,
+    "name": "Elementium Ore",
+    "professions": [
+      "Mining"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 18567,
+    "name": "Elemental Flux",
+    "professions": [
+      "Blacksmithing",
+      "Mining"
+    ],
+    "existingSources": 11,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 18631,
+    "name": "Truesilver Transformer",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 18984,
+    "name": "Dimensional Ripper - Everlook",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 18986,
+    "name": "Ultrasafe Transporter: Gadgetzan",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 19441,
+    "name": "Huge Venom Sac",
+    "professions": [
+      "First Aid"
+    ],
+    "existingSources": 44,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 19726,
+    "name": "Bloodvine",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Herbalism",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 5,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 19767,
+    "name": "Primal Bat Leather",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 19768,
+    "name": "Primal Tiger Leather",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 19774,
+    "name": "Souldarite",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 19803,
+    "name": "Brownell's Blue Striped Racer",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 19805,
+    "name": "Keefer's Angelfish",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 19806,
+    "name": "Dezian Queenfish",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 19807,
+    "name": "Speckled Tastyfish",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 19943,
+    "name": "Massive Mojo",
+    "professions": [
+      "Alchemy"
+    ],
+    "existingSources": 8,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 19975,
+    "name": "Zulian Mudskunk",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20381,
+    "name": "Dreamscale",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20424,
+    "name": "Sandworm Meat",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20498,
+    "name": "Silithid Chitin",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 34,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20500,
+    "name": "Light Silithid Carapace",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 7,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20501,
+    "name": "Heavy Silithid Carapace",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 17,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20520,
+    "name": "Dark Rune",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing"
+    ],
+    "existingSources": 29,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20708,
+    "name": "Tightly Sealed Trunk",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20709,
+    "name": "Rumsey Rum Light",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20725,
+    "name": "Nexus Crystal",
+    "professions": [
+      "Blacksmithing",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20867,
+    "name": "Onyx Idol",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20868,
+    "name": "Lambent Idol",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20870,
+    "name": "Jasper Idol",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20871,
+    "name": "Obsidian Idol",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20872,
+    "name": "Vermillion Idol",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20873,
+    "name": "Alabaster Idol",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20874,
+    "name": "Idol of the Sun",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20875,
+    "name": "Idol of Night",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20876,
+    "name": "Idol of Death",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20877,
+    "name": "Idol of the Sage",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20878,
+    "name": "Idol of Rebirth",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20879,
+    "name": "Idol of Life",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20881,
+    "name": "Idol of Strife",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 20882,
+    "name": "Idol of War",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 21024,
+    "name": "Chimaerok Tenderloin",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 21071,
+    "name": "Raw Sagefish",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 21113,
+    "name": "Watertight Trunk",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 21114,
+    "name": "Rumsey Rum Dark",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 21150,
+    "name": "Iron Bound Trunk",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 21151,
+    "name": "Rumsey Rum Black Label",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 21153,
+    "name": "Raw Greater Sagefish",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 21162,
+    "name": "Bloated Oily Blackmouth",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 21164,
+    "name": "Bloated Rockscale Cod",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 21228,
+    "name": "Mithril Bound Trunk",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 21243,
+    "name": "Bloated Mightfish",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 22202,
+    "name": "Small Obsidian Shard",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 22203,
+    "name": "Large Obsidian Shard",
+    "professions": [
+      "Blacksmithing",
+      "Mining"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 22682,
+    "name": "Frozen Rune",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 211422,
+    "name": "Item 211422",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 213369,
+    "name": "Faintly Glowing Leather",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 213370,
+    "name": "Irradiated Leather Scraps",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 213371,
+    "name": "Crate of Tainted Gniodine Solution",
+    "professions": [
+      "Alchemy"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 213372,
+    "name": "Item 213372",
+    "professions": [
+      "Tailoring",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 213373,
+    "name": "Reflective Scrapmetal",
+    "professions": [
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 213376,
+    "name": "Low-Background Truesilver Plates",
+    "professions": [
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 213378,
+    "name": "Unstable Microfilament",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 213379,
+    "name": "Hyperconductive Arcano-Filament",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 213381,
+    "name": "Pile of Tarnished Gears",
+    "professions": [
+      "Blacksmithing",
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 213383,
+    "name": "Polished Truesilver Gears",
+    "professions": [
+      "Blacksmithing",
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 215430,
+    "name": "Gnomeregan Fallout",
+    "professions": [
+      "Alchemy",
+      "Engineering"
+    ],
+    "existingSources": 18,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 220688,
+    "name": "Item 220688",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 220689,
+    "name": "Item 220689",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 221021,
+    "name": "Item 221021",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 221312,
+    "name": "Item 221312",
+    "professions": [
+      "Alchemy"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 227813,
+    "name": "Drinkable Stratholme Holy Water",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 234003,
+    "name": "Item 234003",
+    "professions": [
+      "Blacksmithing",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 234004,
+    "name": "Item 234004",
+    "professions": [
+      "Blacksmithing",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 234005,
+    "name": "Item 234005",
+    "professions": [
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 234006,
+    "name": "Item 234006",
+    "professions": [
+      "Blacksmithing",
+      "Alchemy",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 234007,
+    "name": "Item 234007",
+    "professions": [
+      "Tailoring",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 234008,
+    "name": "Item 234008",
+    "professions": [
+      "Tailoring",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 234009,
+    "name": "Item 234009",
+    "professions": [
+      "Tailoring",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 234010,
+    "name": "Item 234010",
+    "professions": [
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 234011,
+    "name": "Item 234011",
+    "professions": [
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 234012,
+    "name": "Hive Thistle",
+    "professions": [
+      "Herbalism",
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 5,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 236656,
+    "name": "Item 236656",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 238737,
+    "name": "Tinkerbox",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 238786,
+    "name": "Schematic: Tinker: Teleport",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 238787,
+    "name": "Schematic: Tinker: Nitro Boosts",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 238788,
+    "name": "Schematic: Tinker: Magnetic Displacement",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 239016,
+    "name": "Holy Salts",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 9,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 239017,
+    "name": "Exquisite Spices",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 247786,
+    "name": "Mote of Magic",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 13,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 248815,
+    "name": "Heavy Thorium Ore",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Alchemy",
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 248819,
+    "name": "Fel Crystal",
+    "professions": [
+      "Blacksmithing",
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 248820,
+    "name": "Torbernite",
+    "professions": [
+      "Blacksmithing",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 248821,
+    "name": "Demonsage",
+    "professions": [
+      "Herbalism",
+      "Alchemy"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 248822,
+    "name": "Death Lotus",
+    "professions": [
+      "Blacksmithing",
+      "Herbalism",
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 248823,
+    "name": "Marefoil",
+    "professions": [
+      "Herbalism",
+      "Alchemy",
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 248824,
+    "name": "Fel Hide",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 248825,
+    "name": "Fel Leather",
+    "professions": [
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 249274,
+    "name": "Stranglevine",
+    "professions": [
+      "Tailoring",
+      "Herbalism",
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 3,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 249391,
+    "name": "Pyrite",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Mining",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 15,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 249399,
+    "name": "Frilled Lichen",
+    "professions": [
+      "Tailoring",
+      "Herbalism",
+      "Alchemy",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 25,
+    "newObservedCandidates": 6,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 249409,
+    "name": "Cerulean Dye",
+    "professions": [
+      "Tailoring",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 249410,
+    "name": "Sulfuric Acid",
+    "professions": [
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 249424,
+    "name": "Rosecap",
+    "professions": [
+      "Tailoring",
+      "Herbalism",
+      "Alchemy",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 8,
+    "acceptedRelationships": 3,
+    "result": "updated"
+  },
+  {
+    "item": 249425,
+    "name": "Bauxite",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 4,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 249426,
+    "name": "Pitchblende",
+    "professions": [
+      "Blacksmithing",
+      "Mining",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 249427,
+    "name": "Pristine Leather",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Skinning",
+      "Leatherworking"
+    ],
+    "existingSources": 108,
+    "newObservedCandidates": 10,
+    "acceptedRelationships": 5,
+    "result": "updated"
+  },
+  {
+    "item": 249428,
+    "name": "Pristine Hide",
+    "professions": [
+      "Tailoring",
+      "Skinning",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 10,
+    "newObservedCandidates": 47,
+    "acceptedRelationships": 32,
+    "result": "updated"
+  },
+  {
+    "item": 249429,
+    "name": "Pristine Scale",
+    "professions": [
+      "Tailoring",
+      "Skinning",
+      "Engineering",
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 249430,
+    "name": "Magenta Dye",
+    "professions": [
+      "Tailoring",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 249431,
+    "name": "Viridian Dye",
+    "professions": [
+      "Tailoring",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 249432,
+    "name": "Sandpaper",
+    "professions": [
+      "Blacksmithing",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 249726,
+    "name": "Azerothium Bar",
+    "professions": [
+      "Blacksmithing",
+      "Engineering",
+      "Enchanting"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 249796,
+    "name": "Hyjal Berries",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 251290,
+    "name": "Legionite Bar",
+    "professions": [
+      "Blacksmithing",
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 251291,
+    "name": "Heavy Thorium Bar",
+    "professions": [
+      "Blacksmithing",
+      "Alchemy",
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 251524,
+    "name": "Whimsyfin",
+    "professions": [
+      "Cooking",
+      "Fishing"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 252948,
+    "name": "Cleansed Felbloom",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 255007,
+    "name": "Golem Isospring",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 5,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 255645,
+    "name": "Swollen Venom Sac",
+    "professions": [
+      "First Aid"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 3,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 260784,
+    "name": "SAF-T Tabs",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 260794,
+    "name": "EZ-Thro Wrap",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 260796,
+    "name": "No Slip SAF-T Padding",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 260799,
+    "name": "SAF-T Bell",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 260801,
+    "name": "EZ-Thro Fireproof Fuse",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 260804,
+    "name": "SAF-T Casing",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 260808,
+    "name": "EZ-Thro Tru-Trigger",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 260813,
+    "name": "SAF-T Tube",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 260815,
+    "name": "EZ-Thro Shell",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 260823,
+    "name": "Dimensional Transporter - Mt. Hyjal",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 268415,
+    "name": "Commonplace Herb Seeds",
+    "professions": [
+      "Herbalism"
+    ],
+    "existingSources": 8,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 268416,
+    "name": "Uncommon Herb Seeds",
+    "professions": [
+      "Herbalism"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 7,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 268417,
+    "name": "Unusual Herb Seeds",
+    "professions": [
+      "Herbalism"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 2,
+    "acceptedRelationships": 2,
+    "result": "updated"
+  },
+  {
+    "item": 268418,
+    "name": "Scarce Herb Seeds",
+    "professions": [
+      "Herbalism"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 2,
+    "result": "updated"
+  },
+  {
+    "item": 272941,
+    "name": "Thick Logs",
+    "professions": [
+      "Cooking"
+    ],
+    "existingSources": 25,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 273125,
+    "name": "Lich's Index Finger",
+    "professions": [
+      "Alchemy"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 273127,
+    "name": "Golem Heart",
+    "professions": [
+      "Blacksmithing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 273128,
+    "name": "Maker's Spark",
+    "professions": [
+      "Enchanting"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 273129,
+    "name": "Essence of Anarchy",
+    "professions": [
+      "Engineering"
+    ],
+    "existingSources": 1,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 273130,
+    "name": "Undeath Engine",
+    "professions": [
+      "Leatherworking"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 273131,
+    "name": "Bottled Screams",
+    "professions": [
+      "Tailoring"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 1,
+    "acceptedRelationships": 1,
+    "result": "updated"
+  },
+  {
+    "item": 273295,
+    "name": "Seasonal Fish Steaks",
+    "professions": [
+      "Fishing"
+    ],
+    "existingSources": 0,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  },
+  {
+    "item": 274030,
+    "name": "Malleable Essence of Nature",
+    "professions": [
+      "Tailoring",
+      "Blacksmithing",
+      "Engineering",
+      "Leatherworking",
+      "Enchanting"
+    ],
+    "existingSources": 2,
+    "newObservedCandidates": 0,
+    "acceptedRelationships": 0,
+    "result": "no additional relationship accepted"
+  }
+]

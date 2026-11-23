@@ -1,0 +1,12 @@
+{
+  "auditedMaterials": 627,
+  "updatedMaterials": 75,
+  "newRelationships": 1200,
+  "methods": {
+    "Report": 1187,
+    "Loot": 5,
+    "Herb": 7,
+    "Vendor": 1
+  },
+  "previouslyEmptyMaterials": 12
+}
