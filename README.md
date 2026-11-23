@@ -1,6 +1,6 @@
 # ProfPaden
 
-WoW Forever, Interface 16001. Version 0.20.37-rc1 (release candidate).
+WoW Forever, Interface 16001. Version 0.20.38-rc1 (release candidate).
 
 ## Installation
 
@@ -29,6 +29,8 @@ Routes includes the existing compiled 43-map elevation data and numeric terrain 
 Lua regressions cover gathering, guides, source data, tracking, walking and terrain. The Forever simulator loads the package without the removed companions. Its native map texture assets show checkerboards in both ProfPaden and Blizzard's map; real-client map artwork and optional NodeSight coexistence still require live acceptance. This is not a live-game certification.
 
 ## Latest verification
+
+Version 0.20.38-rc1 updates 21 high-level materials with reviewed Hyjal mining/herbalism, disenchanting and creature sources. See the [source audit and QA](docs/hyjal-materials-2026-11-22/README.md). Community beast observations are labeled; no exact Hyjal pins or guaranteed yields are invented.
 
 Version 0.20.36-rc1 adds eight reviewed Wowhead acquisition and hotfix updates after comparing all 933 recipes in the November 19 overview. The [November 21 review](docs/wowhead-2026-11-21/review.json) records accepted facts, conflicts and test results. Version 0.20.34-rc1 supplied the earlier November source and profession corrections. The [update report](docs/november-12/README.md) includes provenance, held candidates, tests and visual references. Earlier release evidence remains in docs/morning-data and docs/launch-data; in-game acceptance is separate.
 

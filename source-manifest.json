@@ -1,6 +1,6 @@
 {
   "addon": "ProfPaden",
-  "version": "0.20.37-rc1",
+  "version": "0.20.38-rc1",
   "interface": 16001,
   "files": [
     {
@@ -31728,7 +31728,7 @@
     {
       "path": "Core.lua",
       "bytes": 11582,
-      "sha256": "368c4cb831e95ab3777c4ac2f52feeebd9889e10a04083768d4f9769f97b0227",
+      "sha256": "e5fda1c5e93fbb6ac8f75d5ad93422275d916a14a11305afae6a03729708a945",
       "external": false
     },
     {
@@ -31813,6 +31813,12 @@
       "path": "Data/HerbalismSkills.lua",
       "bytes": 5440,
       "sha256": "eea72e37a6a54f0047342891869caa8a89f3a6664952e3d6c145aa69f6d926f4",
+      "external": false
+    },
+    {
+      "path": "Data/HyjalSources.lua",
+      "bytes": 21261,
+      "sha256": "aee816c5c7d2d5601fed68fe2a8f5be966dff9ac6a261a1426e0af8caac3a6e8",
       "external": false
     },
     {
@@ -32039,8 +32045,8 @@
     },
     {
       "path": "ProfPaden.toc",
-      "bytes": 1894,
-      "sha256": "b458709d18d51e518894cbbe162211b397f9b16097b3c1d9c0651d869f17806c",
+      "bytes": 1917,
+      "sha256": "e27b590f62ad1d49457bf540247077791a4cc7d9aa793187fc5e64b521baa8e0",
       "external": false
     },
     {

@@ -1,0 +1,746 @@
+{
+  "checked": "2026-11-22",
+  "target": "forever",
+  "interface": 16001,
+  "items": {
+    "248815": {
+      "name": "Heavy Thorium Ore",
+      "url": "https://www.wowhead.com/forever/item=248815",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 566779,
+          "name": "Heavy Thorium Vein",
+          "method": "Mine",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=566779/heavy-thorium-vein",
+          "provenance": "Wowhead Forever mining table; Mining 300. Zone confirmed; exact pins not bundled.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "sampleCount": 883,
+          "sampleTotal": 1008
+        }
+      ],
+      "appendNote": "Also found in Heavy Thorium Veins in Mount Hyjal (Mining 300).",
+      "note": "Mine Heavy Thorium Veins in Mount Hyjal (Mining 300). Exact node positions are not bundled.",
+      "supersedePlayerReports": true
+    },
+    "10620": {
+      "name": "Thorium Ore",
+      "url": "https://www.wowhead.com/forever/item=10620",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 566779,
+          "name": "Heavy Thorium Vein",
+          "method": "Mine",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=566779/heavy-thorium-vein",
+          "provenance": "Wowhead Forever mining table; Mining 300. Zone confirmed; exact pins not bundled.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "sampleCount": 863,
+          "sampleTotal": 1008
+        }
+      ],
+      "appendNote": "Also found in Heavy Thorium Veins in Mount Hyjal (Mining 300)."
+    },
+    "12365": {
+      "name": "Dense Stone",
+      "url": "https://www.wowhead.com/forever/item=12365",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 566779,
+          "name": "Heavy Thorium Vein",
+          "method": "Mine",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=566779/heavy-thorium-vein",
+          "provenance": "Wowhead Forever mining table; Mining 300. Zone confirmed; exact pins not bundled.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "sampleCount": 328,
+          "sampleTotal": 1008
+        }
+      ],
+      "appendNote": "Also found in Heavy Thorium Veins in Mount Hyjal (Mining 300)."
+    },
+    "249426": {
+      "name": "Pitchblende",
+      "url": "https://www.wowhead.com/forever/item=249426",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 566779,
+          "name": "Heavy Thorium Vein",
+          "method": "Mine",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=566779/heavy-thorium-vein",
+          "provenance": "Wowhead Forever mining table; Mining 300. Zone confirmed; exact pins not bundled.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "sampleCount": 40,
+          "sampleTotal": 1008
+        }
+      ],
+      "appendNote": "Also found in Heavy Thorium Veins in Mount Hyjal (Mining 300)."
+    },
+    "248819": {
+      "name": "Fel Crystal",
+      "url": "https://www.wowhead.com/forever/item=248819",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 566779,
+          "name": "Heavy Thorium Vein",
+          "method": "Mine",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=566779/heavy-thorium-vein",
+          "provenance": "Wowhead Forever mining table; Mining 300. Zone confirmed; exact pins not bundled.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "sampleCount": 30,
+          "sampleTotal": 1008
+        }
+      ],
+      "appendNote": "Also found in Heavy Thorium Veins in Mount Hyjal (Mining 300)."
+    },
+    "248820": {
+      "name": "Torbernite",
+      "url": "https://www.wowhead.com/forever/item=248820",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 566779,
+          "name": "Heavy Thorium Vein",
+          "method": "Mine",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=566779/heavy-thorium-vein",
+          "provenance": "Wowhead Forever mining table; Mining 300. Zone confirmed; exact pins not bundled.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "sampleCount": 31,
+          "sampleTotal": 1008
+        }
+      ],
+      "appendNote": "Also found in Heavy Thorium Veins in Mount Hyjal (Mining 300)."
+    },
+    "12799": {
+      "name": "Large Opal",
+      "url": "https://www.wowhead.com/forever/item=12799",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 566779,
+          "name": "Heavy Thorium Vein",
+          "method": "Mine",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=566779/heavy-thorium-vein",
+          "provenance": "Wowhead Forever mining table; Mining 300. Zone confirmed; exact pins not bundled.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "sampleCount": 8,
+          "sampleTotal": 1008
+        }
+      ],
+      "appendNote": "Also found in Heavy Thorium Veins in Mount Hyjal (Mining 300)."
+    },
+    "12800": {
+      "name": "Azerothian Diamond",
+      "url": "https://www.wowhead.com/forever/item=12800",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 566779,
+          "name": "Heavy Thorium Vein",
+          "method": "Mine",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=566779/heavy-thorium-vein",
+          "provenance": "Wowhead Forever mining table; Mining 300. Zone confirmed; exact pins not bundled.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "sampleCount": 3,
+          "sampleTotal": 1008
+        }
+      ],
+      "appendNote": "Also found in Heavy Thorium Veins in Mount Hyjal (Mining 300)."
+    },
+    "12364": {
+      "name": "Huge Emerald",
+      "url": "https://www.wowhead.com/forever/item=12364",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 566779,
+          "name": "Heavy Thorium Vein",
+          "method": "Mine",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=566779/heavy-thorium-vein",
+          "provenance": "Wowhead Forever mining table; Mining 300. Zone confirmed; exact pins not bundled.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "sampleCount": 3,
+          "sampleTotal": 1008
+        }
+      ],
+      "appendNote": "Also found in Heavy Thorium Veins in Mount Hyjal (Mining 300)."
+    },
+    "12361": {
+      "name": "Blue Sapphire",
+      "url": "https://www.wowhead.com/forever/item=12361",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 566779,
+          "name": "Heavy Thorium Vein",
+          "method": "Mine",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=566779/heavy-thorium-vein",
+          "provenance": "Wowhead Forever mining table; Mining 300. Zone confirmed; exact pins not bundled.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "sampleCount": 2,
+          "sampleTotal": 1008
+        }
+      ],
+      "appendNote": "Also found in Heavy Thorium Veins in Mount Hyjal (Mining 300)."
+    },
+    "248821": {
+      "name": "Demonsage",
+      "url": "https://www.wowhead.com/forever/item=248821",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 566786,
+          "name": "Demonsage",
+          "method": "Herb",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=566786/demonsage",
+          "provenance": "Wowhead Forever herbalism table; Herbalism 300. Sample counts do not establish guaranteed yields or equipment requirements.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "sampleCount": 73,
+          "sampleTotal": 92
+        }
+      ],
+      "note": "Gather Demonsage in Mount Hyjal (Herbalism 300). Exact node positions are not bundled.",
+      "supersedePlayerReports": true
+    },
+    "13465": {
+      "name": "Mountain Silversage",
+      "url": "https://www.wowhead.com/forever/item=13465",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 566786,
+          "name": "Demonsage",
+          "method": "Herb",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=566786/demonsage",
+          "provenance": "Wowhead Forever herbalism table; Herbalism 300. Sample counts do not establish guaranteed yields or equipment requirements.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "sampleCount": 86,
+          "sampleTotal": 92
+        },
+        {
+          "kind": "object",
+          "id": 176586,
+          "name": "Mountain Silversage",
+          "method": "Herb",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=176586",
+          "provenance": "Wowhead Forever object locations include Mount Hyjal. Existing locations and coordinates retained.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": []
+        }
+      ]
+    },
+    "249274": {
+      "name": "Stranglevine",
+      "url": "https://www.wowhead.com/forever/item=249274",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 566786,
+          "name": "Demonsage",
+          "method": "Herb",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=566786/demonsage",
+          "provenance": "Wowhead Forever herbalism table; Herbalism 300. Sample counts do not establish guaranteed yields or equipment requirements.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "sampleCount": 15,
+          "sampleTotal": 92
+        },
+        {
+          "kind": "object",
+          "id": 176584,
+          "name": "Dreamfoil",
+          "method": "Herb",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=176584",
+          "provenance": "Wowhead Forever herbalism table and node location. Hyjal source listed without extrapolating yield rates to that zone.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": []
+        },
+        {
+          "kind": "object",
+          "id": 176586,
+          "name": "Mountain Silversage",
+          "method": "Herb",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=176586",
+          "provenance": "Wowhead Forever herbalism table and node location. Hyjal source listed without extrapolating yield rates to that zone.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": []
+        }
+      ],
+      "note": "Additional herb loot recorded from Demonsage, Dreamfoil and Mountain Silversage, including nodes found in Mount Hyjal. Yields vary."
+    },
+    "248822": {
+      "name": "Death Lotus",
+      "url": "https://www.wowhead.com/forever/item=248822",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 566786,
+          "name": "Demonsage",
+          "method": "Herb",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=566786/demonsage",
+          "provenance": "Wowhead Forever herbalism table; Herbalism 300. Sample counts do not establish guaranteed yields or equipment requirements.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "sampleCount": 6,
+          "sampleTotal": 92
+        }
+      ],
+      "note": "Death Lotus is recorded as extra loot from Demonsage in Mount Hyjal. Lotus Claw can also grant it while gathering Hyjal herbs. These records do not establish a standalone Death Lotus node or an unconditional yield.",
+      "references": [
+        "https://www.wowhead.com/forever/guide/professions/herbalism/overview-leveling"
+      ],
+      "supersedePlayerReports": true
+    },
+    "248823": {
+      "name": "Marefoil",
+      "url": "https://www.wowhead.com/forever/item=248823",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 566788,
+          "name": "Marefoil",
+          "method": "Herb",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=566788/marefoil",
+          "provenance": "Wowhead Forever herb object and matching item; Herbalism 300. No yield rate published.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": []
+        }
+      ],
+      "note": "Gather Marefoil in Mount Hyjal (Herbalism 300). Exact node positions and yield rates are not bundled.",
+      "supersedePlayerReports": true
+    },
+    "13463": {
+      "name": "Dreamfoil",
+      "url": "https://www.wowhead.com/forever/item=13463",
+      "sources": [
+        {
+          "kind": "object",
+          "id": 176584,
+          "name": "Dreamfoil",
+          "method": "Herb",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://www.wowhead.com/forever/object=176584",
+          "provenance": "Wowhead Forever object locations include Mount Hyjal. Existing locations and coordinates retained.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": []
+        }
+      ]
+    },
+    "274030": {
+      "name": "Malleable Essence of Nature",
+      "url": "https://www.wowhead.com/forever/item=274030",
+      "sources": [
+        {
+          "kind": "disenchant",
+          "id": 274030,
+          "name": "Hyjal Summit gear",
+          "method": "Disench.",
+          "zones": [
+            "Hyjal Summit"
+          ],
+          "url": "https://www.wowhead.com/forever/item=274030/malleable-essence-of-nature",
+          "provenance": "Item tooltip: disenchant equipment obtained in this instance; not a direct boss drop. Eligible item qualities and yield rates are not specified.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": []
+        },
+        {
+          "kind": "disenchant",
+          "id": 274030,
+          "name": "Barrow Deeps gear",
+          "method": "Disench.",
+          "zones": [
+            "Barrow Deeps"
+          ],
+          "url": "https://www.wowhead.com/forever/item=274030/malleable-essence-of-nature",
+          "provenance": "Item tooltip: disenchant equipment obtained in this instance; not a direct boss drop. Eligible item qualities and yield rates are not specified.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": []
+        }
+      ],
+      "note": "Disenchant equipment obtained in Hyjal Summit or Barrow Deeps. This is a disenchanting reagent, not a direct creature drop; eligible gear and yields are not fully documented."
+    },
+    "273129": {
+      "name": "Essence of Anarchy",
+      "url": "https://www.wowhead.com/forever/item=273129",
+      "sources": [
+        {
+          "kind": "npc",
+          "id": 11058,
+          "name": "Ezra Grimm",
+          "method": "Loot",
+          "zones": [
+            "Stratholme"
+          ],
+          "url": "https://www.wowhead.com/forever/item=273129/essence-of-anarchy",
+          "provenance": "Wowhead Forever Dropped by table and NPC 11058 location.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "sampleCount": 189,
+          "sampleTotal": 209
+        }
+      ],
+      "note": "Loot Ezra Grimm in Stratholme. Published samples are not a guaranteed drop."
+    },
+    "8170": {
+      "name": "Rugged Leather",
+      "url": "https://www.wowhead.com/forever/item=8170",
+      "sources": [
+        {
+          "kind": "npc",
+          "id": 256809,
+          "name": "Predatory Hyjal Stag",
+          "method": "Report",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://foreverdb.net/data/sources/42.json",
+          "provenance": "ForeverDB player observation; normal loot versus skinning is not distinguished. Wowhead Forever NPC listing confirms zone. Observation count is not a drop rate.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "observations": 12,
+          "locationURL": "https://www.wowhead.com/forever/npcs/beasts/min-level:48"
+        },
+        {
+          "kind": "npc",
+          "id": 244530,
+          "name": "Tainted Hyjal Bear",
+          "method": "Report",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://foreverdb.net/data/sources/42.json",
+          "provenance": "ForeverDB player observation; normal loot versus skinning is not distinguished. Wowhead Forever NPC listing confirms zone. Observation count is not a drop rate.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "observations": 2,
+          "locationURL": "https://www.wowhead.com/forever/npcs/beasts/min-level:48"
+        },
+        {
+          "kind": "npc",
+          "id": 248041,
+          "name": "Hyjal Stag",
+          "method": "Report",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://foreverdb.net/data/sources/42.json",
+          "provenance": "ForeverDB player observation; normal loot versus skinning is not distinguished. Wowhead Forever NPC listing confirms zone. Observation count is not a drop rate.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "observations": 13,
+          "locationURL": "https://www.wowhead.com/forever/npcs/beasts/min-level:48"
+        },
+        {
+          "kind": "npc",
+          "id": 244525,
+          "name": "Hyjal Bear",
+          "method": "Report",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://foreverdb.net/data/sources/42.json",
+          "provenance": "ForeverDB player observation; normal loot versus skinning is not distinguished. Wowhead Forever NPC listing confirms zone. Observation count is not a drop rate.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "observations": 5,
+          "locationURL": "https://www.wowhead.com/forever/npcs/beasts/min-level:48"
+        }
+      ],
+      "appendNote": "Hyjal beast entries marked Report are player observations; normal loot versus skinning and drop rates remain unverified."
+    },
+    "248824": {
+      "name": "Fel Hide",
+      "url": "https://www.wowhead.com/forever/item=248824",
+      "sources": [
+        {
+          "kind": "npc",
+          "id": 256809,
+          "name": "Predatory Hyjal Stag",
+          "method": "Report",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://foreverdb.net/data/sources/56.json",
+          "provenance": "ForeverDB player observation; normal loot versus skinning is not distinguished. Wowhead Forever NPC listing confirms zone. Observation count is not a drop rate.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "observations": 2,
+          "locationURL": "https://www.wowhead.com/forever/npcs/beasts/min-level:48"
+        }
+      ],
+      "appendNote": "Hyjal beast entries marked Report are player observations; normal loot versus skinning and drop rates remain unverified."
+    },
+    "248825": {
+      "name": "Fel Leather",
+      "url": "https://www.wowhead.com/forever/item=248825",
+      "sources": [
+        {
+          "kind": "npc",
+          "id": 248041,
+          "name": "Hyjal Stag",
+          "method": "Report",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://foreverdb.net/data/sources/57.json",
+          "provenance": "ForeverDB player observation; normal loot versus skinning is not distinguished. Wowhead Forever NPC listing confirms zone. Observation count is not a drop rate.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "observations": 18,
+          "locationURL": "https://www.wowhead.com/forever/npcs/beasts/min-level:48"
+        },
+        {
+          "kind": "npc",
+          "id": 256809,
+          "name": "Predatory Hyjal Stag",
+          "method": "Report",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://foreverdb.net/data/sources/57.json",
+          "provenance": "ForeverDB player observation; normal loot versus skinning is not distinguished. Wowhead Forever NPC listing confirms zone. Observation count is not a drop rate.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "observations": 6,
+          "locationURL": "https://www.wowhead.com/forever/npcs/beasts/min-level:48"
+        },
+        {
+          "kind": "npc",
+          "id": 244530,
+          "name": "Tainted Hyjal Bear",
+          "method": "Report",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://foreverdb.net/data/sources/57.json",
+          "provenance": "ForeverDB player observation; normal loot versus skinning is not distinguished. Wowhead Forever NPC listing confirms zone. Observation count is not a drop rate.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "observations": 8,
+          "locationURL": "https://www.wowhead.com/forever/npcs/beasts/min-level:48"
+        },
+        {
+          "kind": "npc",
+          "id": 244525,
+          "name": "Hyjal Bear",
+          "method": "Report",
+          "zones": [
+            "Mount Hyjal"
+          ],
+          "url": "https://foreverdb.net/data/sources/57.json",
+          "provenance": "ForeverDB player observation; normal loot versus skinning is not distinguished. Wowhead Forever NPC listing confirms zone. Observation count is not a drop rate.",
+          "reportedAt": "2026-11-22",
+          "rate": "-",
+          "mapKeys": [],
+          "nodeKeys": [],
+          "observations": 7,
+          "locationURL": "https://www.wowhead.com/forever/npcs/beasts/min-level:48"
+        }
+      ],
+      "appendNote": "Hyjal beast entries marked Report are player observations; normal loot versus skinning and drop rates remain unverified."
+    }
+  },
+  "npcs": {
+    "11058": {
+      "name": "Ezra Grimm",
+      "locations": [
+        "Stratholme"
+      ],
+      "source": "https://www.wowhead.com/forever/item=273129/essence-of-anarchy"
+    },
+    "256809": {
+      "name": "Predatory Hyjal Stag",
+      "locations": [
+        "Mount Hyjal"
+      ],
+      "source": "https://foreverdb.net/data/sources/57.json"
+    },
+    "244530": {
+      "name": "Tainted Hyjal Bear",
+      "locations": [
+        "Mount Hyjal"
+      ],
+      "source": "https://foreverdb.net/data/sources/57.json"
+    },
+    "248041": {
+      "name": "Hyjal Stag",
+      "locations": [
+        "Mount Hyjal"
+      ],
+      "source": "https://foreverdb.net/data/sources/57.json"
+    },
+    "244525": {
+      "name": "Hyjal Bear",
+      "locations": [
+        "Mount Hyjal"
+      ],
+      "source": "https://foreverdb.net/data/sources/57.json"
+    }
+  },
+  "held": [
+    {
+      "item": 249796,
+      "reason": "Hyjal Berries: no verified acquisition table."
+    },
+    {
+      "item": 249429,
+      "reason": "Pristine Scale: no verified specific Hyjal creature or skinning table."
+    },
+    {
+      "item": 13468,
+      "reason": "Black Lotus: Classic Era sample rows excluded; no new Forever Hyjal relationship established."
+    },
+    {
+      "item": 14256,
+      "reason": "Felcloth: unnamed ForeverDB NPC 249229 held pending identity and location verification."
+    },
+    {
+      "item": 12803,
+      "reason": "Living Essence: Tainted Shrubbery observation lacks independently checked location."
+    },
+    {
+      "item": 13466,
+      "reason": "Plaguebloom: no new Hyjal source established."
+    },
+    {
+      "item": 13467,
+      "reason": "Icecap: no new Hyjal source established."
+    }
+  ],
+  "limitations": [
+    "No inferred spawn coordinates or node masks.",
+    "Wowhead indexed tables and object records were readable; direct automated HTML fetches returned HTTP 403.",
+    "Database observations are not live-game verification.",
+    "No changes to recipes, shopping, controls, routing, saved variables or the PadenCrates companion."
+  ]
+}

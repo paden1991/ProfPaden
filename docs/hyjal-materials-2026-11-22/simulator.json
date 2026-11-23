@@ -1,0 +1,37 @@
+{
+  "url": "https://uiforever.com/app?flavor=forever",
+  "date": "2026-11-22",
+  "build": "1.60.1.70450",
+  "interface": 16001,
+  "browser": "ChatGPT in-app browser",
+  "package": "ProfPaden-0.20.38-rc1-forever.zip",
+  "dependencies": [
+    "Auctionator 351",
+    "PadenCrates 0.2.1-rc1"
+  ],
+  "resolution": "1280x720",
+  "uiScale": 0.71,
+  "displayZooms": [
+    0.61,
+    0.69,
+    0.95
+  ],
+  "results": [
+    "Imported production ZIP and reloaded successfully",
+    "Heavy Thorium Ore shows named vein and Mining method",
+    "Mouse click expands source provenance and toggles Details label",
+    "Malleable Essence shows both instance gear sources; method column fits",
+    "Mouse wheel reveals the second source Details button in the long recipe panel",
+    "Fel Leather shows four Report rows and explicit evidence limitations",
+    "Demonsage, Marefoil, Fel Hide, Essence of Anarchy and Death Lotus source counts asserted in actual simulator runtime",
+    "Hyjal Berries and Pristine Scale remain unresolved with zero invented sources",
+    "Death Lotus note no longer asserts standalone nodes"
+  ],
+  "errors": 0,
+  "missingAPIs": 0,
+  "harnessErrors": [
+    "An initial manual console call to nonexistent ProfPaden:Show failed; corrected to the existing slash command. No production error."
+  ],
+  "liveGame": "not run",
+  "controller": "not run; no controls changed"
+}

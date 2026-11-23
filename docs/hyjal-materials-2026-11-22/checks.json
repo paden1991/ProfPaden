@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "checks": [
+    "All recipes, skill thresholds, map selections, overlays and node coordinates unchanged",
+    "131 acquisition links present across all 85 affected profession entries; search and counts correct",
+    "Observed beast yields labeled Report without invented percentages or skinning claims; no invented Hyjal coordinates",
+    "Superseded Reddit reports archived outside active source rows; unknown-source messages removed only for reviewed items",
+    "Repeated source merge does not duplicate acquisition rows",
+    "Actual Lua 5.1 addon loads and renders all 21 updated material details"
+  ],
+  "reviewedMaterials": 21,
+  "sourceRelationships": 31,
+  "affectedEntries": 85,
+  "affectedLinks": 131,
+  "liveGame": "not run"
+}

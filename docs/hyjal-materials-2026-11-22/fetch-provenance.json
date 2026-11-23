@@ -1,0 +1,167 @@
+[
+  {
+    "url": "https://foreverdb.net/data/sources/3.json",
+    "sha256": "ca3143b912a1c7e92ce2a6f126facdabe1ebdd4d20b908bb471f7e6968c01e1a",
+    "fetchedAt": "2026-11-22T23:49:57.319013+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/4.json",
+    "sha256": "1f5cf976212851163f1dde675cc741b7e166fa0de81291b3fa4b7ff4b21109b8",
+    "fetchedAt": "2026-11-22T23:49:57.294136+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/8.json",
+    "sha256": "943c80f0a28de43e7648d1b2660d53d2e20dd02617513dd9ba91517f102ae72e",
+    "fetchedAt": "2026-11-22T23:49:57.335180+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/11.json",
+    "sha256": "81e7c74a08681beae8314a38de03e6d2f0e08862d070036b719248fd863253cc",
+    "fetchedAt": "2026-11-22T23:49:57.531511+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/13.json",
+    "sha256": "a36ff49e132f47fbe2f407e0ade615e473f10dfece66438a9ea1174a902c14a2",
+    "fetchedAt": "2026-11-22T23:49:57.538511+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/18.json",
+    "sha256": "c1b725991254762197c4fd540476d10eeba6a4e327b4884e82007928cd687cbc",
+    "fetchedAt": "2026-11-22T23:49:57.628375+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/20.json",
+    "sha256": "77906908a5400b7d33224a786e65a1d91bb98ba01b5f53df8cc6a18d70a57ad1",
+    "fetchedAt": "2026-11-22T23:49:57.804611+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/21.json",
+    "sha256": "811628b3f5d06176892b3487059ef0914ce433fdae537afadd8b6b4a52fc325b",
+    "fetchedAt": "2026-11-22T23:49:57.781746+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/23.json",
+    "sha256": "ffae9485a8231e2dc6db324f12fca247c32ae7d0b3c002bae970af9822069353",
+    "fetchedAt": "2026-11-22T23:49:57.852529+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/25.json",
+    "sha256": "e928734af5399d67af0bdbd2b8825cd2638a4bdda79591cd224f76b118a9e59a",
+    "fetchedAt": "2026-11-22T23:49:58.007074+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/26.json",
+    "sha256": "cbfe47f053c697a2e0a34369141ed70ea5601c58a5c4480064511399e876aa48",
+    "fetchedAt": "2026-11-22T23:49:58.084438+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/27.json",
+    "sha256": "3eb70e4a02e82696f781acfc1b3666bfb0592f8bfe17e187e54c78f21baada5b",
+    "fetchedAt": "2026-11-22T23:49:58.094483+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/28.json",
+    "sha256": "3004829e3f23767f6b4f08306cde97689676d9a45d0e45f0e10f3d1d63d3a59c",
+    "fetchedAt": "2026-11-22T23:49:58.229376+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/31.json",
+    "sha256": "c18989ebc7354826d401f656bffb2f7d8461d3f40ca3a8b131cd437be8401db3",
+    "fetchedAt": "2026-11-22T23:49:58.295561+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/36.json",
+    "sha256": "f9aef72be07dd84598bcb445d7bfe899c51e7c8f796a81a8a7ff2c7b872a4a45",
+    "fetchedAt": "2026-11-22T23:49:58.306326+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/38.json",
+    "sha256": "65ac1a044599e31478049d5b79caa9b6eb345d7c762d1c1aaeaf49830404eedc",
+    "fetchedAt": "2026-11-22T23:49:58.469179+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/40.json",
+    "sha256": "071d2f140c09f6f7f14f8598f5a3904cb484416c3caf71234ae6004342a9cc26",
+    "fetchedAt": "2026-11-22T23:49:58.542731+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/41.json",
+    "sha256": "2dcac0be7a848c59f8007d9755d1d257a1146b239b7d96702de261d4cec4387a",
+    "fetchedAt": "2026-11-22T23:49:58.543330+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/42.json",
+    "sha256": "d6387e630c9e7fd2027ecd05517428ab37070a12f3e74bc42a3f6fb077440b58",
+    "fetchedAt": "2026-11-22T23:49:58.717393+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/43.json",
+    "sha256": "fb9983edf9de28b6190a9060dd45dc29a971c23f683e31099050e9665ae34712",
+    "fetchedAt": "2026-11-22T23:49:58.776941+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/46.json",
+    "sha256": "f3137f0675f85399beec1b2183928c9af571da1250f917fbdeddb0ffa071576e",
+    "fetchedAt": "2026-11-22T23:49:58.752402+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/47.json",
+    "sha256": "fbad8133f4f64a949aa38bd61f503e85360ffb3ecea3814c836881aa7af07b3d",
+    "fetchedAt": "2026-11-22T23:49:58.908121+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/48.json",
+    "sha256": "5479ae876a6d7d5393e1c3ba91942f0557a196635daa9b2fb224fc9164ab2f95",
+    "fetchedAt": "2026-11-22T23:49:58.968845+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/51.json",
+    "sha256": "f44ee123e24b6e42627ad222941d18754629e22416f6cb181238e3ae0c4b02c7",
+    "fetchedAt": "2026-11-22T23:49:58.975611+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/52.json",
+    "sha256": "98f37b1d9aa42549eba4665b23143f3b2e1c689ddfa2d326952d3bd4ced9bf38",
+    "fetchedAt": "2026-11-22T23:49:59.095704+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/53.json",
+    "sha256": "5a160f4658e4b1bde144d58d3d115fa2adfecd05d9c650ed3ec2f4b9f1561377",
+    "fetchedAt": "2026-11-22T23:49:59.184605+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/54.json",
+    "sha256": "d45b0dd67c8aee18a14174246a53e693695bd5879d34df7d7796ea0b1f7dee3d",
+    "fetchedAt": "2026-11-22T23:49:59.236321+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/55.json",
+    "sha256": "1d9e83a1c279c4e24da48ed437586282aa84a5c268e5058ce75eeb16e061fae3",
+    "fetchedAt": "2026-11-22T23:49:59.331844+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/56.json",
+    "sha256": "168239d4583da73346eb7aafb74b062e027c755b173f0d1df261c843667afb62",
+    "fetchedAt": "2026-11-22T23:49:59.424703+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/57.json",
+    "sha256": "78568b81fbc5874b9ac1608a9fc5d1e71f903222bb5919ac17827c3cab193c1f",
+    "fetchedAt": "2026-11-22T23:49:59.765626+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/58.json",
+    "sha256": "60bc4f1695f1f8f10f0fe483c199223b12561408e2fede62fe1603831aeb14f6",
+    "fetchedAt": "2026-11-22T23:49:59.546686+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/60.json",
+    "sha256": "c08344f2448f404470d3329c5cbf6d386a67dbd7c106fd6cf03b6082fef857cd",
+    "fetchedAt": "2026-11-22T23:49:59.646002+00:00"
+  },
+  {
+    "url": "https://foreverdb.net/data/sources/62.json",
+    "sha256": "0851472f2d4ef6e382fabb824aaf4cb5e4113732d29d644c0e08749c6a8b8ecc",
+    "fetchedAt": "2026-11-22T23:49:59.779104+00:00"
+  }
+]
