@@ -11,7 +11,7 @@ def vals(t):return list(t.values()) if t is not None else []
 def plain(x):
  if lua_type(x)=='function':return str(x)
  return {str(k):plain(v) for k,v in x.items()} if hasattr(x,'items') else x
-def runtime(patch=True,ui=False):
+def runtime(patch=True,ui=False,through_november=False):
  L=LuaRuntime(unpack_returned_tuples=True)
  if ui:L.execute((ROOT/'tools/fixtures/snapshot.lua').read_text())
  P=L.table();load=L.eval('function(s,p) assert(loadstring(s))("ProfPaden",p) end')
@@ -20,6 +20,7 @@ def runtime(patch=True,ui=False):
   if not ui and not line.startswith('Data\\'):continue
   if not patch and line=='Data\\NovemberUpdate.lua':continue
   load((A/line.replace('\\','/')).read_text(encoding='utf8'),P)
+  if through_november and line=='Data\\NovemberUpdate.lua':break
  if ui:L.execute('SetupReference();P.window:Hide()')
  return L,P,load
 L0,old,_=runtime(False);L,P,load=runtime();checks=[]
@@ -87,7 +88,10 @@ def quality():
    assert s.get('method')!='Skin'
 check('Source provenance retained without invented skinning, rates or coordinates',quality)
 def repeat():
- before=plain(P);load(OUTPUT.read_text(encoding='utf8'),P);after=plain(P)
+ # Check this historical module at its TOC position. Later updates legitimately
+ # supersede its checked dates; reloading it after them is not a supported order.
+ _,state,loader=runtime(through_november=True)
+ before=plain(state);loader(OUTPUT.read_text(encoding='utf8'),state);after=plain(state)
  def difference(a,b,path=''):
   if a==b:return
   if isinstance(a,dict) and isinstance(b,dict):

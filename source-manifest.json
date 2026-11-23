@@ -1,6 +1,6 @@
 {
   "addon": "ProfPaden",
-  "version": "0.20.39-rc1",
+  "version": "0.20.40-rc1",
   "interface": 16001,
   "files": [
     {
@@ -31728,7 +31728,7 @@
     {
       "path": "Core.lua",
       "bytes": 11582,
-      "sha256": "75f906f608563ff9021064313610c5013859283109424038b796475cec82a804",
+      "sha256": "17a6958f63691769390ab2f3dcc4550e2ef182183f4fdac2c640e4e148612223",
       "external": false
     },
     {
@@ -31741,6 +31741,12 @@
       "path": "Data/Catalog.lua",
       "bytes": 1154613,
       "sha256": "d19b286d7a56b16f606b9bc3c2ef397c82140c4936e94d5407b812145c6abd6d",
+      "external": false
+    },
+    {
+      "path": "Data/CatalogNovember23.lua",
+      "bytes": 864162,
+      "sha256": "b9a0ddea716f727b420ba944eaef85a8d7b199b3b9f5a12b84096a6a7c650074",
       "external": false
     },
     {
@@ -32051,8 +32057,8 @@
     },
     {
       "path": "ProfPaden.toc",
-      "bytes": 1943,
-      "sha256": "ef2792bc09f3768ac7822df3cf132b6dc59e609c437c8f73c2f2738c20c395d9",
+      "bytes": 1971,
+      "sha256": "0dbe7e171bb5bd8a47182fca12e7f00c47ef3e333742f7f48501783f3ec57b7e",
       "external": false
     },
     {

@@ -1,0 +1,75 @@
+[
+  {
+    "profession": "First Aid",
+    "spell": 30021,
+    "name": "Crystal Infused Bandage",
+    "result": "missing from installed",
+    "provider": {
+      "s": 30021,
+      "n": "Crystal Infused Bandage",
+      "ic": 133686,
+      "make": [
+        23684,
+        4
+      ],
+      "q": 1,
+      "r": [
+        [
+          23567,
+          1
+        ],
+        [
+          14047,
+          10
+        ]
+      ],
+      "missing": 1,
+      "y": 300,
+      "g": 360,
+      "src": {
+        "hidden": [
+          23689
+        ]
+      }
+    }
+  },
+  {
+    "profession": "Leatherworking",
+    "spell": 1294289,
+    "name": "Centaur Hoofwarmers",
+    "result": "missing from installed",
+    "provider": {
+      "s": 1294289,
+      "n": "Centaur Hoofwarmers",
+      "ic": 132539,
+      "make": [
+        274490,
+        1
+      ],
+      "q": 2,
+      "rl": 35,
+      "r": [
+        [
+          4304,
+          12
+        ],
+        [
+          8343,
+          2
+        ]
+      ],
+      "y": 170,
+      "g": 180,
+      "req": 165,
+      "src": {
+        "items": [
+          274491
+        ],
+        "seen": {
+          "v": 2
+        }
+      },
+      "new": 1
+    }
+  }
+]

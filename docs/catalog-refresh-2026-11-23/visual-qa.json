@@ -1,0 +1,29 @@
+{
+  "version": "0.20.40-rc1",
+  "simulator": "UIForever Forever 1.60.1.70450",
+  "uiScale": 0.71,
+  "gameResolution": "1280x720",
+  "packagedFiles": 5369,
+  "luaErrorsAfterChecks": 0,
+  "missingAPIs": 0,
+  "runtimeAssertion": "PASS, 0.20.40-rc1, 1303, 514",
+  "checks": [
+    "Runtime version and November 23 data module loaded from final ZIP",
+    "Water Walking shows Fishing, Tanaris and Mount Hyjal, Alchemy 180",
+    "Excellent Spirit search returns recipe and teaching-book reference; recipe shows item 274392 and Enchanting 300",
+    "Physical profession and tab clicks, text search, mouse-wheel scrolling and source Details expansion work",
+    "Briarthorn displays Withered Ancient in Ashenvale as Report; expanded text shows 3 observations and explicit method/rate uncertainty",
+    "Runtime assertion verifies every new source count and every November 23 trainer entry, plus Water Walking and Gray Leather Boots corrections"
+  ],
+  "limitations": [
+    "Not live WoW gameplay",
+    "Simulator native map artwork shows checkerboards",
+    "Earlier source pagination mouse issue is not retested or changed in this data-only release; offline pagination checks pass"
+  ],
+  "testHarnessIssue": "An initial console command referenced window before the slash command created it; corrected the QA setup and cleared that console-only error. No addon error occurred during the subsequent checks.",
+  "screenshots": [
+    "water-walking.jpg",
+    "excellent-spirit.jpg",
+    "gather-report.jpg"
+  ]
+}
