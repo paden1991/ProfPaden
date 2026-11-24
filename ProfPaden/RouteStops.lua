@@ -9,11 +9,11 @@ function P:RouteBatchLimit(r)
         for _,n in pairs({r.yellow,r.green,r.grey}) do if n>rank and (not boundary or n<boundary) then boundary=n end end
         local goal=r.profession==self.selectedProf and self.planSummary and self.planSummary.target
         if goal and goal>rank and (self:Chance(r,rank) or 0)>0 and (not boundary or goal<boundary) then boundary=goal end
-        return boundary and math.max(1,math.ceil((boundary-rank)/(r.numSkillUps or 1))) or 9999
+        return boundary and math.max(1,math.ceil((boundary-rank)/self:SkillGain(r))) or 9999
     end
     if not r or not r.routeBand or not r.stop then return 9999 end
     local rank=(self.skills[r.profession or self.selectedProf] or {}).rank or r.start
-    return math.max(0,math.ceil((r.stop-math.max(rank,r.start))/(r.numSkillUps or 1)))
+    return math.max(0,math.ceil((r.stop-math.max(rank,r.start))/self:SkillGain(r)))
 end
 
 function P:SkillBand(r,skill)
@@ -32,17 +32,18 @@ function P:SplitRouteBands(rows)
     for _,r in ipairs(rows) do
         if not r.start or not r.stop or not r.crafts or r.money then out[#out+1]=r
         else
-            local first=math.max(rank,r.start);local cuts={first};local seen={[first]=true}
+            local first=math.max(rank,r.start);local gain=self:SkillGain(r);local cuts={first};local seen={[first]=true}
             for _,n in pairs({r.yellow,r.green,r.grey,nextRank and nextRank[1]}) do
+                n=first+math.ceil((n-first)/gain)*gain
                 if n>first and n<r.stop and not seen[n] then cuts[#cuts+1]=n;seen[n]=true end
             end
             cuts[#cuts+1]=r.stop;table.sort(cuts)
             local weights,total={},0
             for i=1,#cuts-1 do
                 local w=0
-                for skill=cuts[i],cuts[i+1]-1 do
+                for skill=cuts[i],cuts[i+1]-1,gain do
                     local chance=self:PlanChance(r,skill,first)
-                    w=w+(chance and chance>0 and 1/(chance*math.max(1,r.numSkillUps or 1)) or 1)
+                    w=w+(chance and chance>0 and 1/chance or 1)
                 end
                 weights[i]=w;total=total+w
             end
@@ -213,7 +214,7 @@ function P:RouteDetailRows(r)
     add("When",(self:RouteStopReady(r) and "Ready now" or "Later").." / skill "..(r.required or 1)..(r.minLevel and " / level "..r.minLevel or ""))
     if r.mailCount then add("Collect",r.mailCount.." x |Hitem:"..r.item.."|h["..self:ItemName(r.item).."]|h")
     elseif r.item then
-        local price,source,stamp=self:Price(r.item)
+        local price,source,stamp=self:Price(r.item,r.count)
         if r.offer then price,source,stamp=r.offer.value,"Merchant: "..r.offer.name,r.offer.time end
         add("Buy",r.count.." x |Hitem:"..r.item.."|h["..self:ItemName(r.item).."]|h")
         add("Each / total",self:SmallMoney(price).." / "..self:SmallMoney(price and price*r.count))

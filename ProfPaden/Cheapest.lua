@@ -116,6 +116,20 @@ function P:PlanChance(r,skill,start)
     if skill==start and r.live then return self:Chance(r,skill) end
 end
 
+function P:SkillGain(r)
+    local n=tonumber(r.numSkillUps)
+    return n and n>=1 and n<math.huge and math.floor(n) or 1
+end
+function P:ExpectedCrafts(r,first,last)
+    local expected=0
+    for skill=first,last-1,self:SkillGain(r) do
+        local chance=self:PlanChance(r,skill,first)
+        if not chance or chance<=0 then return end
+        expected=expected+1/chance
+    end
+    return expected
+end
+
 function P:BuildCheapestPlan(goalOverride,objective,options)
     options=options or {}
     objective=objective or (self.mode=="profit" and "profit" or "cost")
@@ -141,6 +155,23 @@ function P:BuildCheapestPlan(goalOverride,objective,options)
     for _,r in ipairs(self.Recipes[prof] or {}) do add(r) end
     for _,r in pairs(self.char.recipes[prof] or {}) do add(r) end
     for _,r in ipairs(self.live) do if r.profession==prof then add(r) end end
+    -- Whole-output conversions and unrestricted unit quotes scale exactly.
+    -- Inspect every alternative: a rounded batch or limited offer may become
+    -- cheaper only at larger quantities and must use aggregate sourcing.
+    local linearItems={};local sources=self:SourcingRecipes()
+    local function linearItem(id,path)
+        if linearItems[id]~=nil then return linearItems[id] end
+        if path[id] then return true end
+        local v=self.char.vendors and self.char.vendors[id]
+        if v and v.stock and v.stock>=0 then linearItems[id]=false;return false end
+        path=copy(path);path[id]=true
+        for _,r in ipairs(sources[id] or {}) do
+            if (r.output or 1)~=1 then linearItems[id]=false;return false end
+            for _,m in ipairs(r.mats) do if not linearItem(m.id,path) then linearItems[id]=false;return false end end
+        end
+        -- Do not cache true through a cycle; its other branch may be nonlinear.
+        return true
+    end
     local candidates={}
     for key,r in pairs(pool) do
         local live=self:Resolve(r);local saved=self.char.recipes[prof] and self.char.recipes[prof][key]
@@ -162,6 +193,7 @@ function P:BuildCheapestPlan(goalOverride,objective,options)
             r.planLearn=known and first or (trainer.required or r.learn or 1)
             r.planAccess=known and "Already learned" or ("Train at "..(trainer.trainer or "visited trainer").." • "..(trainer.zone or "").." • Skill "..r.planLearn)
             r.mats=r.mats or {}
+            local _,invalid=self:RecipeNeeds(r,1)
             local economy=self:Economy(r)
             local sale=profit and self:SaleEstimate(r)
             r.planSale=sale
@@ -169,9 +201,13 @@ function P:BuildCheapestPlan(goalOverride,objective,options)
             elseif economy.cost==nil and options.kind~="guide" or r.planFee==nil then plan.unpriced=plan.unpriced+1
             -- A missing forge/tool or today's bag shortage blocks the craft click,
             -- not a future shopping/leveling plan for an already learned recipe.
-            elseif #r.mats==0 or r.complete==false or r.planBlocked or (r.cooldown and r.cooldown>0) then plan.uncertain=plan.uncertain+1
+            elseif invalid or #r.mats==0 or r.complete==false or r.planBlocked or (r.cooldown and r.cooldown>0) then plan.uncertain=plan.uncertain+1
             elseif r.planLearn<goal and (self:PlanChance(r,math.max(first,r.planLearn),first) or 0)>0 then
-                r.planUnit=economy.cost or 0;r.planID=key;candidates[#candidates+1]=r
+                r.planUnit=economy.cost or 0;r.planID=key;r.planLinear=economy.cost~=nil
+                for _,m in ipairs(r.mats) do
+                    if not linearItem(m.id,{}) then r.planLinear=false end
+                end
+                candidates[#candidates+1]=r
                 if known then plan.known=plan.known+1 else plan.trainer=plan.trainer+1 end
             else plan.uncertain=plan.uncertain+1 end
         end
@@ -179,36 +215,53 @@ function P:BuildCheapestPlan(goalOverride,objective,options)
     table.sort(candidates,function(a,b)return a.planID<b.planID end)
     -- Shortest path over contiguous crafting segments. Each segment pays its
     -- training fee once, so a cheap recipe must repay its acquisition cost.
-    -- Repeated training segments are conservatively charged again; no claim of
-    -- global optimality across arbitrary learned-set/component inventory states.
-    local best={[first]=0};local previous={};local inventories={[first]={}}
+    -- Charge training once along the selected path. One best state per rank
+    -- remains a bounded estimate, not an exhaustive inventory/learned-set search.
+    local best={[first]=0};local previous={};local inventories={[first]={}};local priced={[first]=0};local trained={[first]={}};local linear={[first]=options.kind~="bags"}
     for from=first,goal-1 do if best[from] then
         for _,r in ipairs(candidates) do if from>=r.planLearn and (not profit or not previous[from] or previous[from].recipe.planID~=r.planID) then
-            local expected=0
+            local expected=0;local gain=self:SkillGain(r);local quotes={}
             for to=from+1,goal do
                 local band
                 if options.bands then
-                    for _,b in ipairs(options.bands[r.planID]) do if from>=b.start and to<=b.stop then band=b;break end end
+                    for _,b in ipairs(options.bands[r.planID]) do if from>=b.start and to-gain<b.stop then band=b;break end end
                     if not band then break end
                 end
-                local chance=self:PlanChance(r,to-1,first)
-                if not chance or chance<=0 then break end
-                expected=expected+1/(chance*math.max(1,r.numSkillUps or 1))
-                local crafts=math.max(1,math.ceil(expected-0.0000001))
-                r.sourceCosts=r.sourceCosts or {}
-                if not r.sourceCosts[crafts] then r.sourceCosts[crafts]=self:SourceRecipe(r,crafts).knownCost end
-                local value=best[from]+r.sourceCosts[crafts]-crafts*(r.planSale and r.planSale.net or 0)+r.planFee
-                local needs
-                if options.kind=="guide" then value=best[from]+band.order*(to-from)+crafts*.0001
-                elseif options.kind=="bags" then
-                    needs={};for id,count in pairs(inventories[from]) do needs[id]=count end
-                    for _,m in ipairs(r.mats) do needs[m.id]=(needs[m.id] or 0)+m.count*crafts end
-                    local before=self:SourceNeeds(inventories[from],{bags=true,mail=true}).knownCost
-                    local after=self:SourceNeeds(needs,{bags=true,mail=true}).knownCost
-                    value=best[from]+after-before+r.planFee
+                -- A successful multi-point craft jumps over intermediate ranks.
+                -- Only evaluate chance at reachable ranks and never hand a route
+                -- off to another recipe inside that jump.
+                if (to-1-from)%gain==0 then
+                    local chance=self:PlanChance(r,to-1,first)
+                    if not chance or chance<=0 then break end
+                    expected=expected+1/chance
                 end
-                if not best[to] or value<best[to]-0.000001 then
-                    best[to]=value;if needs then inventories[to]=needs end;previous[to]={from=from,recipe=r,crafts=crafts,expected=expected}
+                if (to-from)%gain==0 or to==goal then
+                    local crafts=math.max(1,math.ceil(expected-.0000001))
+                    local needs
+                    local function combinedNeeds()
+                        local n=copy(inventories[from])
+                        for _,m in ipairs(r.mats) do n[m.id]=(n[m.id] or 0)+m.count*crafts end
+                        return n
+                    end
+                    local quote=quotes[crafts]
+                    if not quote then
+                        if linear[from] and r.planLinear then
+                            local value=priced[from]+r.planUnit*crafts;quote={knownCost=value,cost=value}
+                        else needs=combinedNeeds();quote=self:SourceNeeds(needs,options.kind=='bags' and {bags=true,mail=true} or nil) end
+                        quotes[crafts]=quote
+                    end
+                    -- A single-item price is insufficient evidence for a larger
+                    -- quantity. Unknown batch/route costs cannot win Cheapest.
+                    if quote.cost~=nil or options.kind=='guide' then
+                        local fee=trained[from][r.planID] and 0 or r.planFee
+                        local value=best[from]+quote.knownCost-priced[from]-crafts*(r.planSale and r.planSale.net or 0)+fee
+                        if options.kind=='guide' then value=best[from]+band.order*(to-from)+crafts*.0001 end
+                        if not best[to] or value<best[to]-.000001 then
+                            best[to]=value;inventories[to]=needs or combinedNeeds();priced[to]=quote.knownCost;linear[to]=linear[from] and r.planLinear
+                            trained[to]=copy(trained[from]);trained[to][r.planID]=true
+                            previous[to]={from=from,recipe=r,crafts=crafts,expected=expected,fee=fee}
+                        end
+                    end
                 end
             end
         end end
@@ -219,7 +272,8 @@ function P:BuildCheapestPlan(goalOverride,objective,options)
     while previous[at] do
         local step=previous[at];local r=copy(step.recipe)
         r.start=step.from;r.stop=at;r.crafts=step.crafts;r.planExpected=step.expected
-        r.planCost=self:SourceRecipe(r,r.crafts).knownCost;r.planTraining=r.planFee
+        local quoted=self:SourceNeeds(inventories[at]);local before=self:SourceNeeds(inventories[step.from])
+        r.planCost=quoted.knownCost-before.knownCost;r.planUnpriced=quoted.cost==nil;r.planTraining=step.fee
         r.planProceeds=r.crafts*(r.planSale and r.planSale.net or 0);r.planNet=r.planCost+r.planTraining-r.planProceeds
         r.key="plan:"..r.planID..":"..r.start
         table.insert(plan.rows,1,r);at=step.from
@@ -234,7 +288,7 @@ function P:BuildCheapestPlan(goalOverride,objective,options)
     plan.sourcePlan=self:SourceNeeds(needs)
     plan.missingPlan=self:SourceNeeds(needs,{bags=true})
     plan.materials=plan.sourcePlan.knownCost;plan.shopping=plan.missingPlan.knownCost
-    plan.total=plan.materials+plan.training;plan.owned=plan.materials-plan.shopping;plan.remaining=plan.shopping+plan.training
+    plan.priceIncomplete=plan.sourcePlan.cost==nil;plan.total=plan.materials+plan.training;plan.owned=math.max(0,plan.materials-plan.shopping);plan.remaining=plan.shopping+plan.training
     plan.net=plan.total-plan.proceeds
     if reached<goal then plan.reason="No priced, accessible recipe with usable skill-up data at skill "..reached..". Check recipe exclusions, open your profession, visit a trainer with all service filters shown, and scan missing prices."..(profit and " Profit also needs a sellable output and a price for the selected sale method; open the profession to cache item information." or "") end
     if reached<goal and options.kind=="guide" then plan.reason="No accessible main guide step covers skill "..reached..". Learn the recipe or try Cheapest / All steps."
@@ -258,10 +312,10 @@ function P:PlanSummaryText()
     local p=self.planSummary;if not p then return "" end
     return (self.mode=="guide" and "GUIDED ROUTE" or p.objective=="profit" and "PROFIT / MINIMAL LOSS" or "CHEAPEST ROUTE").." • "..p.start.." to "..p.target.."\n"..
         "Planned to "..p.reached.." • "..#p.rows.." step(s)\n"..
-        "Total material value: "..self:Money(p.materials).."\n"..
-        "Materials you own: "..self:Money(p.materials-p.shopping).."\n"..
+        (p.priceIncomplete and "Priced materials subtotal: " or "Total material value: ")..self:Money(p.materials).."\n"..
+        "Materials you own: "..self:Money(p.owned).."\n"..
         "Still to buy: "..self:Money(p.shopping).." • Training fees: "..self:Money(p.training).."\n"..
-        "Estimated remaining cost: "..self:Money(p.shopping+p.training).."\n"..
+        (p.priceIncomplete and "Priced remaining subtotal: " or "Estimated remaining cost: ")..self:Money(p.shopping+p.training).."\n"..
         (p.objective=="profit" and ("Sale: "..self:ProfitLabel(p.saleKey).."\nEstimated proceeds: "..self:Money(p.proceeds).."\n"..self:NetLabel(p.net)..": "..self:Money(math.abs(p.net)).."\n"..p.unsellable.." recipes without usable sale data\n") or "")..
         p.known.." learned / "..p.trainer.." trainer recipes • "..p.unpriced.." unpriced\n\n"..
         (p.preferenceNotice and p.preferenceNotice.."\n" or "")..(p.reason and p.reason or "Select a step for materials and training.")

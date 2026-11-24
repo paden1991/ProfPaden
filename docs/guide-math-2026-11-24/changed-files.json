@@ -1,0 +1,14 @@
+[
+  "AuctionatorBridge.lua",
+  "Cheapest.lua",
+  "Core.lua",
+  "Costs.lua",
+  "Details.lua",
+  "MarketRoutes.lua",
+  "MoneyRoutes.lua",
+  "Planner.lua",
+  "ProfPaden.toc",
+  "RouteStops.lua",
+  "Sourcing.lua",
+  "UI.lua"
+]

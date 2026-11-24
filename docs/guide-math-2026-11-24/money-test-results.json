@@ -1,0 +1,50 @@
+{
+  "tests": 11,
+  "passed": 11,
+  "results": [
+    {
+      "name": "Gray recipes rank by batch profit and ignore bags and Cheapest exclusions",
+      "passed": true
+    },
+    {
+      "name": "Input model ignores manual overrides, recognizes bundled supplies, and does not infer stock from price hints",
+      "passed": true
+    },
+    {
+      "name": "Unlimited merchant capture persists through later limited-stock offers",
+      "passed": true
+    },
+    {
+      "name": "Trainer fees amortize across selected batch; future or blocked offerings excluded",
+      "passed": true
+    },
+    {
+      "name": "Losses and unpriced inputs do not appear as opportunities",
+      "passed": true
+    },
+    {
+      "name": "Output eligibility, minimum yield and sale fees remain conservative",
+      "passed": true
+    },
+    {
+      "name": "Menu and batch controls keep leveling targets and sale settings independent",
+      "passed": true
+    },
+    {
+      "name": "Details show full purchase costs, ROI, vendor source and no skill-gain plan",
+      "passed": true
+    },
+    {
+      "name": "Export sends full batch AH quantities, excludes unlimited vendor inputs",
+      "passed": true
+    },
+    {
+      "name": "Export rejects scan, purchase dialog, missing names and combat without partial export",
+      "passed": true
+    },
+    {
+      "name": "At skill cap money-making remains available; no profitable result explains missing data",
+      "passed": true
+    }
+  ]
+}

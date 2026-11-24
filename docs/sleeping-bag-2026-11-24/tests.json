@@ -1,0 +1,67 @@
+{
+  "tests": 15,
+  "passed": 15,
+  "results": [
+    {
+      "name": "Starts on bag aura; exactly 320 by 64 and click-through normally",
+      "passed": true
+    },
+    {
+      "name": "Three actual stack events reset the minute and completion fades once",
+      "passed": true
+    },
+    {
+      "name": "Countdown never awards fabricated stacks when the server has not granted them",
+      "passed": true
+    },
+    {
+      "name": "Leaving stops progression; reentry resets the partial minute, keeping real stacks",
+      "passed": true
+    },
+    {
+      "name": "Three existing stacks show refresh countdown until the real expiration increases",
+      "passed": true
+    },
+    {
+      "name": "Existing buff outside the bag does not show a timer or completion popup",
+      "passed": true
+    },
+    {
+      "name": "Combat hides and clears the countdown without reading restricted auras",
+      "passed": true
+    },
+    {
+      "name": "Unavailable, secret containers and secret counts are never used or formatted",
+      "passed": true
+    },
+    {
+      "name": "Malformed stack counts are rejected; unrelated legacy talent does not qualify",
+      "passed": true
+    },
+    {
+      "name": "Preview lasts 15 seconds, is draggable, and does not change real state",
+      "passed": true
+    },
+    {
+      "name": "Actual resting takes precedence over preview",
+      "passed": true
+    },
+    {
+      "name": "Position is persisted, invalid position is handled, reset only clears this position",
+      "passed": true
+    },
+    {
+      "name": "Saved false preference is respected; on and off apply immediately",
+      "passed": true
+    },
+    {
+      "name": "World entry restarts an estimated minute and ignores target/secret unit aura events",
+      "passed": true
+    },
+    {
+      "name": "Settings support late load and register a single category",
+      "passed": true
+    }
+  ],
+  "scope": "Production Lua 5.1; simulated aura state, events, clock and UI; no live WoW claim"
+}

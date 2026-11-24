@@ -259,7 +259,7 @@ function P:Refresh()
     if cheapest and self.planSummary then
         local p=self.planSummary
         if not self.planGoal:HasFocus() then self.planGoal:SetNumber(p.target) end
-        self.listHint:SetText("Plan "..p.start.."-"..p.reached..(p.reached<p.target and " (gap)" or "").." • "..(p.objective=="profit" and self:NetLabel(p.net).." "..self:SmallMoney(math.abs(p.net)) or self:Money(p.total)).." • Goal: Enter to apply")
+        self.listHint:SetText("Plan "..p.start.."-"..p.reached..(p.reached<p.target and " (gap)" or "").." • "..(p.objective=="profit" and self:NetLabel(p.net).." "..self:SmallMoney(math.abs(p.net)) or (p.priceIncomplete and "Priced subtotal " or "")..self:Money(p.total)).." • Goal: Enter to apply")
     end
     if money then
         if not self.planGoal:HasFocus() then self.planGoal:SetNumber(self:MoneyBatch()) end
@@ -284,7 +284,7 @@ function P:Refresh()
             elseif r.money then
                 b.sub:SetText(self:SmallMoney(r.moneyProfit).." profit / "..r.crafts.." crafts / "..(r.planKnown and "Learned" or "Train first"))
             elseif r.planStep then
-                b.sub:SetText(r.start.."-"..r.stop.." • "..r.crafts.." crafts • "..(r.planKnown and "Learned" or "Trainer").." • "..(r.planSale and self:NetLabel(r.planNet).." "..self:SmallMoney(math.abs(r.planNet)) or self:Money(r.planCost+r.planTraining)))
+                b.sub:SetText(r.start.."-"..r.stop.." • "..r.crafts.." crafts • "..(r.planKnown and "Learned" or "Trainer").." • "..(r.planSale and self:NetLabel(r.planNet).." "..self:SmallMoney(math.abs(r.planNet)) or (r.planUnpriced and "Price incomplete" or self:Money(r.planCost+r.planTraining))))
             elseif r.mats then
                 local band=r.ownership and (r.ownership.."  •  ") or r.start and (r.start.."-"..r.stop.."  •  ") or "Live  •  "
                 local state=r.live and "Live" or r.cached and "Cached" or "Guide"

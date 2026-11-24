@@ -1,0 +1,68 @@
+{
+  "tests": 13,
+  "passed": 4,
+  "results": [
+    {
+      "name": "Cheapest compares unlimited vendor and AH prices; explicit overrides still win",
+      "passed": false,
+      "error": "[string \"<python>\"]:3: assertion failed!\nstack traceback:\n\t[string \"<python>\"]:3: in main chunk\n\t[C]: in function 'assert'"
+    },
+    {
+      "name": "Missing timestamps and invalid prices are ignored; stale Auctionator data is excluded",
+      "passed": false,
+      "error": "[string \"<python>\"]:23: attempt to perform arithmetic on field 'time' (a nil value)\nstack traceback:\n\t[string \"<python>\"]:2: in main chunk\n\t[string \"<python>\"]:23: in function 'Price'"
+    },
+    {
+      "name": "A newer database refresh invalidates route and shopping estimates and refreshes visible guide",
+      "passed": false,
+      "error": "[string \"<python>\"]:4: assertion failed!\nstack traceback:\n\t[string \"<python>\"]:4: in main chunk\n\t[C]: in function 'assert'"
+    },
+    {
+      "name": "One three-point orange craft crosses a yellow boundary and reaches 103",
+      "passed": false,
+      "error": "[string \"<python>\"]:3: assertion failed!\nstack traceback:\n\t[string \"<python>\"]:3: in main chunk\n\t[C]: in function 'assert'"
+    },
+    {
+      "name": "Multi-point recipes cannot hand off at an unreachable intermediate skill",
+      "passed": true
+    },
+    {
+      "name": "Yellow craft count integrates declining chances and remaining count is recalculated",
+      "passed": true
+    },
+    {
+      "name": "A price for one limited-stock item cannot price an unquoted larger batch at zero",
+      "passed": false,
+      "error": "[string \"<python>\"]:3: assertion failed!\nstack traceback:\n\t[string \"<python>\"]:3: in main chunk\n\t[C]: in function 'assert'"
+    },
+    {
+      "name": "Shared limited vendor stock is checked for the combined route, not reused per step",
+      "passed": false,
+      "error": "[string \"<python>\"]:4: assertion failed!\nstack traceback:\n\t[string \"<python>\"]:4: in main chunk\n\t[C]: in function 'assert'"
+    },
+    {
+      "name": "Duplicate raw inputs from separate conversions use the aggregate purchase quote",
+      "passed": false,
+      "error": "[string \"<python>\"]:4: assertion failed!\nstack traceback:\n\t[string \"<python>\"]:4: in main chunk\n\t[C]: in function 'assert'"
+    },
+    {
+      "name": "Owned inputs reduce spending once and do not turn full-cost profit into free profit",
+      "passed": true
+    },
+    {
+      "name": "Scan covers live-only recipes, transitive conversion inputs and money-making outputs",
+      "passed": false,
+      "error": "[string \"<python>\"]:6: assertion failed!\nstack traceback:\n\t[string \"<python>\"]:6: in main chunk\n\t[C]: in function 'assert'"
+    },
+    {
+      "name": "Margins use all materials, training once, minimum yield and selected auction cut",
+      "passed": true
+    },
+    {
+      "name": "Unknown or invalid output quantities never become a fabricated profit opportunity",
+      "passed": false,
+      "error": "[string \"<python>\"]:2: assertion failed!\nstack traceback:\n\t[string \"<python>\"]:2: in main chunk\n\t[C]: in function 'assert'"
+    }
+  ],
+  "scope": "Actual production Lua 5.1 with deterministic independent numeric fixtures; no live transactions"
+}

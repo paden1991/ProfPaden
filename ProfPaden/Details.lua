@@ -307,7 +307,7 @@ function P:DetailRows(r,n)
         add("Remaining cost",self:SmallMoney(batch.missing and fee and batch.missing+fee))
         if batch.unknown>0 then add("Unpriced",batch.unknown.." reagent(s) • Priced subtotal "..self:SmallMoney(batch.knownCost)) end
         if r.planSale then
-            local sale=r.planSale;local net=one.cost and fee and batch.cost+fee-sale.net*n
+            local sale=r.planSale;local net=batch.cost and fee and batch.cost+fee-sale.net*n
             heading("SALE ESTIMATE")
             add("Sell via",sale.method.." • "..self:ProfitLabel())
             add("Output to sell",n*sale.output.." • Minimum yield")
@@ -321,7 +321,7 @@ function P:DetailRows(r,n)
         heading("MATERIALS • "..n.." CRAFT(S)")
         rows[#rows+1]={cells={"Material","Have / Need","Each","Total"},widths={126,80,68,76},heading=true}
         for _,m in ipairs(r.mats or {}) do
-            local price,source,stamp=self:Price(m.id);local need=m.count*n
+            local need=m.count*n;local price,source,stamp=self:Price(m.id,need)
             -- Recipe APIs may return a reagent before its item ID is cached.
             local supply=m.id and self:SourceNeeds({[m.id]=need},{blocked=r.item and {[r.item]=true} or {}}) or {steps={}}
             if #supply.steps>0 then price=supply.cost and supply.cost/need;source="Make from purchased inputs";stamp=nil end
@@ -335,7 +335,7 @@ function P:DetailRows(r,n)
     if batch.missingPlan and #batch.missingPlan.steps>0 then
         heading("BASE MATERIALS TO BUY")
         for id,count in pairs(batch.missingPlan.buy) do if count>0 then
-            local price,source,stamp=self:Price(id)
+            local price,source,stamp=self:Price(id,count)
             add("|Hitem:"..id.."|h["..self:ItemName(id).."]|h",count.." / "..self:SmallMoney(price and price*count))
             rows[#rows+1]={cells={source.." / "..self:PriceDate(stamp,source,id)},widths={350},muted=true}
         end end
@@ -343,10 +343,10 @@ function P:DetailRows(r,n)
     if r.start and r.stop then
         heading("ROUTE & SKILL GAINS")
         add("Skill range",r.start.." to "..r.stop)
-        if r.crafts then add("Planned crafts",r.crafts.." • Minimum "..math.ceil((r.stop-r.start)/(r.numSkillUps or 1))) end
-        local a=self:PlanChance(r,r.start,r.start);local b=self:PlanChance(r,r.stop-1,r.start)
+        if r.crafts then add("Planned crafts",r.crafts.." • Minimum "..math.ceil((r.stop-r.start)/self:SkillGain(r))) end
+        local a=self:PlanChance(r,r.start,r.start);local b=self:PlanChance(r,r.start+math.floor((r.stop-1-r.start)/self:SkillGain(r))*self:SkillGain(r),r.start)
         add("Skill chance",(a and math.floor(a*100+.5).."%" or "-").." to "..(b and math.floor(b*100+.5).."%" or "-").." conservative estimate")
-        if r.crafts and r.crafts>(r.stop-r.start)/(r.numSkillUps or 1) then
+        if r.crafts and r.crafts>(r.stop-r.start)/self:SkillGain(r) then
             rows[#rows+1]={cells={"Extra attempts allow for missed yellow/green skill-ups. Non-orange chances include a 20% planning reduction; known yellow/green bands are capped at 40%/16% and decline toward gray. Skill gains remain random."},widths={350},muted=true}
         end
         if self.SkillBand then
@@ -361,12 +361,12 @@ function P:DetailRows(r,n)
         if r.prep and r.prep~="" then add("Prepare",r.prep) end
         if r.planStep then
             add("Why this recipe",(r.planKnown and "Learned" or "Recorded trainer recipe")..(r.planSale and " • Best estimated net return" or " • Lowest estimated route cost"))
-            add(r.planSale and "Net cost / skill" or "Cost / skill",self:SmallMoney((r.planCost+r.planTraining-(r.planProceeds or 0))/math.max(1,r.stop-r.start)).." incl. training")
+            add(r.planSale and "Net cost / skill" or "Cost / skill",r.planUnpriced and "Price incomplete" or self:SmallMoney((r.planCost+r.planTraining-(r.planProceeds or 0))/math.max(1,r.stop-r.start)).." incl. training")
             local summary=self.planSummary
             if summary then
-                add("Route materials",self:SmallMoney(summary.materials));add("Route owned",self:SmallMoney(summary.materials-summary.shopping))
-                add("Route to buy",self:SmallMoney(summary.shopping));add("Route training",self:SmallMoney(summary.training))
-                add("Route remaining",self:SmallMoney(summary.shopping+summary.training))
+                add(summary.priceIncomplete and "Materials subtotal" or "Route materials",self:SmallMoney(summary.materials));add("Route owned",self:SmallMoney(summary.owned))
+                add(summary.priceIncomplete and "Buying subtotal" or "Route to buy",self:SmallMoney(summary.shopping));add("Route training",self:SmallMoney(summary.training))
+                add(summary.priceIncomplete and "Remaining subtotal" or "Route remaining",self:SmallMoney(summary.shopping+summary.training))
                 if r.planSale then add("Route proceeds",self:SmallMoney(summary.proceeds));add(self:NetLabel(summary.net).." / route",self:SmallMoney(math.abs(summary.net))) end
                 if summary.preferenceNotice then add("Route choice",summary.preferenceNotice) end
             end

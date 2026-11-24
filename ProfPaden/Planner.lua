@@ -10,43 +10,25 @@ function P:Price(id,quantity)
     if not id then return nil,"Unknown item" end
     local supply,observed=self:VendorSupply(id)
     local manual=self.market.prices[id]
-    if manual then return manual.value,"Manual",manual.time,supply and "vendor" or "auction",supply end
-    if supply then return supply.value,observed and ("Merchant: "..(supply.name or "Merchant")) or "Vendor list estimate",supply.time,"vendor",supply end
+    if manual and type(manual.value)=="number" and manual.value>=0 and manual.value<math.huge then
+        return manual.value,"Manual",manual.time,supply and "vendor" or "auction",supply
+    end
     local best,source,stamp,method,offer
-    local vendor=self.char.vendors and self.char.vendors[id]
-    if vendor and vendor.stock and (vendor.stock==-1 or vendor.stock>=math.max(1,quantity or 1)) then best,source,stamp,method,offer=vendor.value,"Merchant: "..vendor.name,vendor.time,"vendor",vendor end
-    local function candidate(value,from,when)
-        if type(value)=="number" and value>0 and (not best or value<best) then best,source,stamp,method,offer=value,from,when,"auction",nil end
-    end
-    local obs=self.market.observed and self.market.observed[id]
-    if obs and self.market.auctionatorScanStarted and obs.time<self.market.auctionatorScanStarted then obs=nil end
-    if obs and time()-obs.time<=86400 then candidate(obs.value,obs.source,obs.time) end
-    local fresh=obs and time()-obs.time<=86400
-    if not fresh and TSM_API and TSM_API.GetCustomPriceValue then
-        local ok,v=pcall(TSM_API.GetCustomPriceValue,"dbmarket","i:"..id)
-        if ok then candidate(v,"TSM historical estimate") end
-    end
-    if not fresh and Auctionator and Auctionator.API and Auctionator.API.v1 and Auctionator.API.v1.GetAuctionPriceByItemID then
-        local ok,v=pcall(Auctionator.API.v1.GetAuctionPriceByItemID,self.name,id)
-        if ok then candidate(v,"Auctionator estimate") end
-    end
-    if not fresh and AucAdvanced and AucAdvanced.API and AucAdvanced.API.GetMarketValue then
-        self.auctioneerCache=self.auctioneerCache or {}
-        local cached=self.auctioneerCache[id]
-        if not cached or time()-cached.readTime>60 then
-            local ok,value=pcall(AucAdvanced.API.GetMarketValue,id)
-            cached={value=ok and type(value)=="number" and value>0 and value or nil,readTime=time()}
-            self.auctioneerCache[id]=cached
-            if cached.value then
-                self.market.external=self.market.external or {}
-                self.market.external[id]={value=cached.value,source="Auctioneer estimate",readTime=cached.readTime}
-            end
+    local function vendor(value,from,when,record)
+        if type(value)=="number" and value>0 and value<math.huge and (not best or value<best) then
+            best,source,stamp,method,offer=value,from,when,"vendor",record
         end
-        candidate(cached.value,"Auctioneer estimate")
     end
+    if supply then vendor(supply.value,observed and ("Merchant: "..(supply.name or "Merchant")) or "Vendor list estimate",supply.time,supply) end
+    local last=self.char.vendors and self.char.vendors[id]
+    if last and last.stock and (last.stock==-1 or last.stock>=math.max(1,quantity or 1)) then
+        vendor(last.value,"Merchant: "..(last.name or "Merchant"),last.time,last)
+    end
+    local value,from,when=self:AuctionSalePrice(id)
+    if value and (not best or value<best) then best,source,stamp,method,offer=value,from,when,"auction",nil end
     if best then return best,source,stamp,method,offer end
     local item=self.Items[id]
-    if item and item.vendorBuy then return item.vendorBuy,"Vendor list estimate",nil,"vendor" end
+    if item and type(item.vendorBuy)=="number" and item.vendorBuy>0 and item.vendorBuy<math.huge then return item.vendorBuy,"Vendor list estimate",nil,"vendor" end
     return nil,"Unknown",nil,"auction"
 end
 function P:Available(recipe)
@@ -71,7 +53,11 @@ end
 function P:StepCrafts(r)
     local rank=(self.skills[self.selectedProf] or {}).rank or 1
     if not r.crafts or not r.start or not r.stop then return nil end
-    return math.max(0,math.ceil(r.crafts*math.max(0,r.stop-math.max(rank,r.start))/math.max(1,r.stop-r.start)))
+    local first=math.max(rank,r.start)
+    if first>=r.stop then return 0 end
+    local expected=self:ExpectedCrafts(r,first,r.stop)
+    if expected then return math.ceil(expected-.0000001) end
+    return math.max(0,math.ceil(r.crafts*(r.stop-first)/math.max(1,r.stop-r.start)))
 end
 function P:BaseChance(r,skill)
     if r.grey and skill>=r.grey then return 0 end

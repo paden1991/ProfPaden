@@ -57,17 +57,33 @@ function P:StartPriceScan()
             if P.priceScan and not P.sendingPriceQuery then P:StopPriceScan("Another AH search started. Scan costs resumes this queue.") end
         end)
     end
-    local ids,seen={},{}
-    local function add(r)if (self.shoppingScanMode or self.mode)=="profit" and r.item and not r.acquisitionOnly and not seen[r.item] then seen[r.item]=true;ids[#ids+1]=r.item end;for _,m in ipairs(r.mats or {}) do if m.id and not seen[m.id] then seen[m.id]=true;ids[#ids+1]=m.id end end end
+    local mode=self.shoppingScanMode or self.mode
+    local sale=mode=="profit" or mode=="money"
+    local ids,seen={},{};local pool=self:SourcingRecipes()
+    local function item(id)
+        if not id or seen[id] then return end
+        seen[id]=true;ids[#ids+1]=id
+        for _,r in ipairs(pool[id] or {}) do for _,m in ipairs(r.mats or {}) do item(m.id) end end
+    end
+    local function add(r)
+        if sale and r.item and not r.acquisitionOnly then item(r.item) end
+        for _,m in ipairs(r.mats or {}) do item(m.id) end
+    end
     if self.selected then add(self.selected) end
     for _,r in ipairs(self.Recipes[self.selectedProf] or {}) do add(r) end
     for _,r in pairs(self.char.recipes[self.selectedProf] or {}) do add(r) end
     for _,r in ipairs(self.Catalog[self.selectedProf] or {}) do add(r) end
+    for _,r in ipairs(self.live or {}) do if r.profession==self.selectedProf then add(r) end end
     self.scanGeneration=(self.scanGeneration or 0)+1
     local old=self.lastPriceScan
-    local resume=old and not old.complete and old.profession==self.selectedProf and old.profit==((self.shoppingScanMode or self.mode)=="profit")
-    self.priceScan={ids=resume and old.ids or ids,index=resume and old.resumeIndex or 0,generation=self.scanGeneration,
-        profession=self.selectedProf,profit=(self.shoppingScanMode or self.mode)=="profit",completed=resume and old.completed or {},failures=resume and old.failures or {},serial=0}
+    local resume=old and not old.complete and old.profession==self.selectedProf and old.mode==mode
+    -- Resume checked IDs, but recompute the scope so newly learned recipes and
+    -- conversion ingredients cannot disappear behind yesterday's queue.
+    if resume then
+        local pending={};for _,id in ipairs(ids) do if not old.completed[id] then pending[#pending+1]=id end end;ids=pending
+    end
+    self.priceScan={ids=ids,index=0,generation=self.scanGeneration,profession=self.selectedProf,mode=mode,
+        profit=sale,completed=resume and old.completed or {},failures=resume and old.failures or {},serial=0}
     self:NextPriceQuery()
 end
 function P:SchedulePriceQuery(scan,delay)

@@ -1,0 +1,39 @@
+{
+  "runtime": "Actual Lua 5.1 modules; deterministic probability, route and shopping fixtures",
+  "tests": 8,
+  "passed": 8,
+  "results": [
+    {
+      "name": "Yellow and green fallback probabilities reduced by 20 percent; orange and grey unchanged",
+      "passed": true
+    },
+    {
+      "name": "Threshold-only probabilities are discounted once and cannot rise with skill",
+      "passed": true
+    },
+    {
+      "name": "Live and cached yellow observations anchor a declining future curve instead of a jump",
+      "passed": true
+    },
+    {
+      "name": "A known green recipe stays conservative as its grey threshold approaches",
+      "passed": true
+    },
+    {
+      "name": "Revised crafts, route budget and shopping quantities agree for skill 95 to 100",
+      "passed": true
+    },
+    {
+      "name": "Cheapest can switch to an orange alternative after accounting for missed skill-ups",
+      "passed": true
+    },
+    {
+      "name": "Old shopping plans require rebuild without losing mail credit or saved quantities",
+      "passed": true
+    },
+    {
+      "name": "Detail panel labels the reduced forecast and explains additional attempts",
+      "passed": true
+    }
+  ]
+}

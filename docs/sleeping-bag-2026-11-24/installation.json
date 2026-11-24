@@ -1,0 +1,12 @@
+{
+  "version": "0.20.42-rc1",
+  "compiled_lua_files": 84,
+  "manifest_files": 5370,
+  "installed_runtime_files_verified": 5358,
+  "changed_files": [
+    "Core.lua",
+    "ProfPaden.toc",
+    "SleepTimer.lua"
+  ],
+  "backup": "C:\\Program Files (x86)\\World of Warcraft\\_forever_\\Interface\\ProfPaden\\docs\\sleeping-bag-2026-11-24\\backup"
+}

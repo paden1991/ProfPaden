@@ -16,10 +16,10 @@ function P:SetMoneyBatch(value)
 end
 function P:MoneyInputPrice(id)
     local vendor,observed=self:VendorSupply(id)
-    if vendor then
+    local value,source,stamp=self:AuctionSalePrice(id)
+    if vendor and type(vendor.value)=='number' and vendor.value>0 and vendor.value<math.huge and (not value or vendor.value<=value) then
         return vendor.value,'Unlimited vendor: '..(observed and vendor.name or 'Profession supplier'),vendor.time,'vendor',vendor
     end
-    local value,source,stamp=self:AuctionSalePrice(id)
     return value,source or 'AH price needed',stamp,'auction'
 end
 function P:MoneyCost(r,n)

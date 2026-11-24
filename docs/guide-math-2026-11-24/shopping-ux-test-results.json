@@ -1,0 +1,99 @@
+{
+  "runtime": "Actual Lua 5.1 modules with mocked client APIs; no live-game purchases",
+  "tests": 23,
+  "passed": 23,
+  "results": [
+    {
+      "name": "Shopping has all six route choices and keeps them independent of Guide",
+      "passed": true
+    },
+    {
+      "name": "Fixed target automatically shrinks with skill and does not become a moving +10",
+      "passed": true
+    },
+    {
+      "name": "Goal completion clears obsolete shopping requirements and retains mail credits",
+      "passed": true
+    },
+    {
+      "name": "Target and gain presets validate, clamp, and cap mode follows training",
+      "passed": true
+    },
+    {
+      "name": "Profession dropdown preserves distinct mode and goal per profession",
+      "passed": true
+    },
+    {
+      "name": "Guided follows primary skill bands without requiring reagent prices",
+      "passed": true
+    },
+    {
+      "name": "All steps selects one guide/alternative path, never sums all alternatives",
+      "passed": true
+    },
+    {
+      "name": "Live alternatives use the open profession, explaining forecast gaps and close",
+      "passed": true
+    },
+    {
+      "name": "Bag-first ranking counts owned inventory once and differs from Cheapest",
+      "passed": true
+    },
+    {
+      "name": "Mail delivery updates missing table without replacing the selected route",
+      "passed": true
+    },
+    {
+      "name": "Missing-only view omits covered materials while Show all retains them",
+      "passed": true
+    },
+    {
+      "name": "Auctionator export rebuilds current skills then sends only current missing quantities",
+      "passed": true
+    },
+    {
+      "name": "Automatic updates defer while a purchase or native confirmation is unresolved",
+      "passed": true
+    },
+    {
+      "name": "Popup works when main Guide is hidden; missing Auctionator or AH gives actionable states",
+      "passed": true
+    },
+    {
+      "name": "Profit sale assumptions and scan outputs stay independent of the Guide",
+      "passed": true
+    },
+    {
+      "name": "New trainer or learned-recipe events rebuild only the fixed goal and preserve credits",
+      "passed": true
+    },
+    {
+      "name": "Opening an existing saved shopping plan adopts it without inheriting later Guide changes",
+      "passed": true
+    },
+    {
+      "name": "Shopping button invokes installed Auctionator replicate scan and observes progress",
+      "passed": true
+    },
+    {
+      "name": "Full scan respects configured summary method and never changes Auctionator settings",
+      "passed": true
+    },
+    {
+      "name": "Full-scan completion uses refreshed database prices and automatically rebuilds the fixed goal",
+      "passed": true
+    },
+    {
+      "name": "Auctionator cooldown and active confirmation block scans without bypassing them",
+      "passed": true
+    },
+    {
+      "name": "Unsupported, absent or closed-house scan conditions retain lists and give actionable messages",
+      "passed": true
+    },
+    {
+      "name": "Failed full scan keeps previous quotes and never reports successful completion",
+      "passed": true
+    }
+  ]
+}

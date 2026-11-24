@@ -1,0 +1,90 @@
+{
+  "tests": 21,
+  "passed": 21,
+  "results": [
+    {
+      "name": "Known yellow and green boundaries reduce the forecast and gray stops skill planning",
+      "passed": true
+    },
+    {
+      "name": "Color splits conserve planned attempts, training, proceeds and shopping quantities",
+      "passed": true
+    },
+    {
+      "name": "Cheapest changes recipe when the yellow boundary makes an alternative cheaper",
+      "passed": true
+    },
+    {
+      "name": "Nearest usable vendor excludes hostile, sold-out and insufficient recorded stock",
+      "passed": true
+    },
+    {
+      "name": "Manual valuation does not change a known vendor supply into an auction purchase",
+      "passed": true
+    },
+    {
+      "name": "Purchases precede preparations, which precede crafts, without duplicate input orders",
+      "passed": true
+    },
+    {
+      "name": "Exact recorded recipe trainers are chosen over generic nearby trainers",
+      "passed": true
+    },
+    {
+      "name": "Future training stops wait for required skill and rank stops use level gates",
+      "passed": true
+    },
+    {
+      "name": "Arrow dismiss persists for the same stop; toggle and new selections behave correctly",
+      "passed": true
+    },
+    {
+      "name": "Owned waypoint cleanup leaves a different user waypoint intact",
+      "passed": true
+    },
+    {
+      "name": "Cross-profession preparation resolves its own live recipe without changing the parent route",
+      "passed": true
+    },
+    {
+      "name": "Craft clicks cannot queue beyond the next color boundary",
+      "passed": true
+    },
+    {
+      "name": "Full UI shows action details and updates selected quantities on skill changes",
+      "passed": true
+    },
+    {
+      "name": "Guided uses the same bounded route and quantities as Guided Shopping",
+      "passed": true
+    },
+    {
+      "name": "Money-making gray crafts and catalog remain independent of leveling stops",
+      "passed": true
+    },
+    {
+      "name": "Preparation batches respect their own profession color boundary and parent goal",
+      "passed": true
+    },
+    {
+      "name": "Rank training appears at the 125 boundary and cannot navigate early",
+      "passed": true
+    },
+    {
+      "name": "Bag completion clears an owned arrow while the guide is hidden",
+      "passed": true
+    },
+    {
+      "name": "Merchant observations retain separate supplier offers",
+      "passed": true
+    },
+    {
+      "name": "Secondary profession rank stops use books and quests instead of inventing trainers",
+      "passed": true
+    },
+    {
+      "name": "Tracked mail is collected rather than ordered again in route stops",
+      "passed": true
+    }
+  ]
+}

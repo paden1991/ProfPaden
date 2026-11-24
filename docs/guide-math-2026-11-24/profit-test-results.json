@@ -1,0 +1,63 @@
+{
+  "runtime": "Actual Lua 5.1 modules with mocked client APIs; no live-game actions",
+  "tests": 14,
+  "passed": 14,
+  "results": [
+    {
+      "name": "Weapon submenu drills down, preserves parent until selection, and Reset all clears subtype",
+      "passed": true
+    },
+    {
+      "name": "Output and quest reward subclasses combine with rarity and reject other types",
+      "passed": true
+    },
+    {
+      "name": "Trainer Show includes structured catalog and recorded offerings, excludes drops",
+      "passed": true
+    },
+    {
+      "name": "Vendor Profit prefers higher net returns, Cheapest remains unchanged",
+      "passed": true
+    },
+    {
+      "name": "Minimal loss and training fees are included in the route score",
+      "passed": true
+    },
+    {
+      "name": "AH proceeds use auction data, output minimum and selected fee, not reagent overrides",
+      "passed": true
+    },
+    {
+      "name": "Best method compares net proceeds and never sums both sale destinations",
+      "passed": true
+    },
+    {
+      "name": "BoP and unknown binding cannot be auctioned; missing sales create an explained gap",
+      "passed": true
+    },
+    {
+      "name": "Fresh observed AH prices win; stale sources and provider exceptions are handled",
+      "passed": true
+    },
+    {
+      "name": "Profit menu, goal, cache separation and cost table show the selected method",
+      "passed": true
+    },
+    {
+      "name": "Shopping preserves profit materials and marks changes of objective or fee stale",
+      "passed": true
+    },
+    {
+      "name": "Profit scan adds unique outputs while Cheapest retains reagent-only scans",
+      "passed": true
+    },
+    {
+      "name": "Unavailable recipes, enchants and cooldowns do not become profit candidates",
+      "passed": true
+    },
+    {
+      "name": "No profitable output is added beyond the skill goal and repeat segments do not farm rounding crafts",
+      "passed": true
+    }
+  ]
+}

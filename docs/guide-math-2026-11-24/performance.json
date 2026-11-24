@@ -1,0 +1,18 @@
+[
+  {
+    "recipes": 100,
+    "skill_start": 1,
+    "goal": 300,
+    "learned_conversions": false,
+    "seconds": 4.771,
+    "total": 3289
+  },
+  {
+    "recipes": 30,
+    "skill_start": 1,
+    "goal": 150,
+    "learned_conversions": true,
+    "seconds": 0.466,
+    "total": 1490
+  }
+]

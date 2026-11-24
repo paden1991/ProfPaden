@@ -29,8 +29,8 @@ end
 -- may be a merchant buy price or a manual reagent-cost override.
 function P:AuctionSalePrice(id)
     local observed=self.market.observed and self.market.observed[id]
-    if observed and self.market.auctionatorScanStarted and observed.time<self.market.auctionatorScanStarted then observed=nil end
-    if observed and observed.time and time()-observed.time<=86400 and observed.value and observed.value>0 then
+    if observed and (type(observed.time)~="number" or observed.time>time() or self.market.auctionatorScanStarted and observed.time<self.market.auctionatorScanStarted) then observed=nil end
+    if observed and observed.time and time()-observed.time<=86400 and type(observed.value)=="number" and observed.value>0 and observed.value<math.huge then
         return observed.value,observed.source or "Viewed auction price",observed.time
     end
     local best,source,stamp
@@ -45,7 +45,18 @@ function P:AuctionSalePrice(id)
             candidate(public(api.GetAuctionPriceByItemID,self.name,id),"Auctionator estimate",age and time()-age*86400)
         end
     end
-    if AucAdvanced and AucAdvanced.API then candidate(public(AucAdvanced.API.GetMarketValue,id),"Auctioneer estimate") end
+    if AucAdvanced and AucAdvanced.API and AucAdvanced.API.GetMarketValue then
+        self.auctioneerCache=self.auctioneerCache or {}
+        local cached=self.auctioneerCache[id]
+        if not cached or time()-(cached.readTime or 0)>60 then
+            cached={value=public(AucAdvanced.API.GetMarketValue,id),readTime=time()};self.auctioneerCache[id]=cached
+            if cached.value then
+                self.market.external=self.market.external or {}
+                self.market.external[id]={value=cached.value,source="Auctioneer estimate",readTime=cached.readTime}
+            end
+        end
+        candidate(cached.value,"Auctioneer estimate")
+    end
     if TSM_API then candidate(public(TSM_API.GetCustomPriceValue,"dbmarket","i:"..id),"TSM historical estimate") end
     return best,source,stamp
 end
@@ -64,7 +75,9 @@ function P:SaleEstimate(r,saleKey)
     -- crafted bind-on-pickup item into an auction opportunity.
     local auction,source,stamp
     if bind==0 or bind==2 or bind==3 then auction,source,stamp=self:AuctionSalePrice(r.item) end
-    local output=math.max(1,tonumber(r.output) or 1) -- minimum yield; no proc bonus
+    local output=r.output==nil and 1 or tonumber(r.output)
+    if not output or output<1 or output>=math.huge or output~=math.floor(output) then return end -- unknown/invalid yield is not a sale
+    -- Minimum yield only; no proc bonus.
     local result
     if setting.method~="auction" and vendor~=nil then
         result={gross=vendor,net=vendor*output,output=output,method="Vendor",cut=0,source=vendorSource,stamp=v[1] and time() or nil}

@@ -1,0 +1,95 @@
+{
+  "runtime": "Actual Lua 5.1 modules; export-only Auctionator flow, read-only AH quotes and simulated receipts; no live purchases",
+  "tests": 22,
+  "passed": 22,
+  "results": [
+    {
+      "name": "X skill levels aggregate all route steps, subtract bags once and retain trainer fees",
+      "passed": true
+    },
+    {
+      "name": "Invalid level counts are rejected and valid goals clamp to trained cap",
+      "passed": true
+    },
+    {
+      "name": "Incomplete routes are labeled partial and missing prices never become free",
+      "passed": true
+    },
+    {
+      "name": "Commodity sample sums price tiers and item export never opens a buy dialog",
+      "passed": true
+    },
+    {
+      "name": "Confirmed commodity receipt credits mail once and delivery replaces that credit",
+      "passed": true
+    },
+    {
+      "name": "Cancellation buys nothing; explicit failure removes reserved credit",
+      "passed": true
+    },
+    {
+      "name": "Reload/disconnect uncertainty prevents duplicate buys until explicit reconciliation",
+      "passed": true
+    },
+    {
+      "name": "Partial commodity stock and whole item stacks disclose shortages/surplus",
+      "passed": true
+    },
+    {
+      "name": "Item buyout uses matching auction ID and only successful receipt credits stock",
+      "passed": true
+    },
+    {
+      "name": "Changing a sample cannot trigger a purchase; own and bid-only listings are excluded",
+      "passed": true
+    },
+    {
+      "name": "Export uses current bag shortfall and blocks stale skills or combat without buying",
+      "passed": true
+    },
+    {
+      "name": "AH closure, throttle, timeout, unrelated searches and profession changes invalidate review",
+      "passed": true
+    },
+    {
+      "name": "Shopping pauses scanner; starting a cost scan invalidates shopping sample",
+      "passed": true
+    },
+    {
+      "name": "Active native confirmation prevents changing transactions or clearing credit",
+      "passed": true
+    },
+    {
+      "name": "Saved shopping list is stable through price changes; rebuilding keeps mail credit",
+      "passed": true
+    },
+    {
+      "name": "Auctionator advanced search receives exact localized names and net missing quantities",
+      "passed": true
+    },
+    {
+      "name": "Auctionator export refuses uncached names, stale skills and API failure without losing list",
+      "passed": true
+    },
+    {
+      "name": "Auctionator commodity and item buyouts credit receipts without reopening PP over Auctionator",
+      "passed": true
+    },
+    {
+      "name": "Auctionator purchases outside the exported materials and bids are not credited",
+      "passed": true
+    },
+    {
+      "name": "Auctionator export preserves an active native confirmation and requires tracking",
+      "passed": true
+    },
+    {
+      "name": "Missing Auctionator preserves the list and never falls back to Blizzard buy methods",
+      "passed": true
+    },
+    {
+      "name": "Export without checking prices sends only the selected material and never credits a purchase",
+      "passed": true
+    }
+  ]
+}

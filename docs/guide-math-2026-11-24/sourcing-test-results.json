@@ -1,0 +1,66 @@
+{
+  "tests": 15,
+  "passed": 15,
+  "results": [
+    {
+      "name": "Ore and cloth conversions lower recipe costs across professions",
+      "passed": true
+    },
+    {
+      "name": "Direct purchase wins when cheaper and intermediate quotes can be absent",
+      "passed": true
+    },
+    {
+      "name": "Owned intermediate and raw inputs are allocated once",
+      "passed": true
+    },
+    {
+      "name": "Minimum yields round whole batches and do not credit surplus",
+      "passed": true
+    },
+    {
+      "name": "Nested conversion steps are ordered before their consumers",
+      "passed": true
+    },
+    {
+      "name": "Unavailable professions, unlearned conversions and active cooldowns stay out",
+      "passed": true
+    },
+    {
+      "name": "Cycles terminate without treating missing prices as free",
+      "passed": true
+    },
+    {
+      "name": "Cheapest and profit routes use shared conversion costs",
+      "passed": true
+    },
+    {
+      "name": "Every shopping mode exports base inputs and exposes preparation steps",
+      "passed": true
+    },
+    {
+      "name": "Bag and mail updates reconcile raw and intermediate supplies without double credit",
+      "passed": true
+    },
+    {
+      "name": "Money-making buys base inputs despite bags and excludes vendor leaves on export",
+      "passed": true
+    },
+    {
+      "name": "Catalog and ordinary guide details show conversions and base-material needs",
+      "passed": true
+    },
+    {
+      "name": "Live cooldown prevents stale cached conversion fallback",
+      "passed": true
+    },
+    {
+      "name": "Shared raw inventory is consumed once across different conversion branches",
+      "passed": true
+    },
+    {
+      "name": "In-my-bags guide includes learned preparation from owned base inputs",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "tests": 16,
+  "passed": 16,
+  "results": [
+    {
+      "name": "Cheapest compares unlimited vendor and AH prices; explicit overrides still win",
+      "passed": true
+    },
+    {
+      "name": "Missing timestamps and invalid prices are ignored; stale Auctionator data is excluded",
+      "passed": true
+    },
+    {
+      "name": "A newer database refresh invalidates route and shopping estimates and refreshes visible guide",
+      "passed": true
+    },
+    {
+      "name": "One three-point orange craft crosses a yellow boundary and reaches 103",
+      "passed": true
+    },
+    {
+      "name": "Multi-point recipes cannot hand off at an unreachable intermediate skill",
+      "passed": true
+    },
+    {
+      "name": "Yellow craft count integrates declining chances and remaining count is recalculated",
+      "passed": true
+    },
+    {
+      "name": "A price for one limited-stock item cannot price an unquoted larger batch at zero",
+      "passed": true
+    },
+    {
+      "name": "Shared limited vendor stock is checked for the combined route, not reused per step",
+      "passed": true
+    },
+    {
+      "name": "Duplicate raw inputs from separate conversions use the aggregate purchase quote",
+      "passed": true
+    },
+    {
+      "name": "Owned inputs reduce spending once and do not turn full-cost profit into free profit",
+      "passed": true
+    },
+    {
+      "name": "Scan covers live-only recipes, transitive conversion inputs and money-making outputs",
+      "passed": true
+    },
+    {
+      "name": "Margins use all materials, training once, minimum yield and selected auction cut",
+      "passed": true
+    },
+    {
+      "name": "Unknown or invalid output quantities never become a fabricated profit opportunity",
+      "passed": true
+    },
+    {
+      "name": "Guided unknown prices are subtotal-labelled and invalid reagent counts cannot enter a route",
+      "passed": true
+    },
+    {
+      "name": "Allocated step costs sum to the aggregate route when limited vendor stock runs out",
+      "passed": true
+    },
+    {
+      "name": "Returning to a previously trained recipe does not charge its fee twice",
+      "passed": true
+    }
+  ],
+  "scope": "Actual production Lua 5.1 with deterministic independent numeric fixtures; no live transactions"
+}

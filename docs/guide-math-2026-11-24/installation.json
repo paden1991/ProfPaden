@@ -1,0 +1,19 @@
+{
+  "version": "0.20.41-rc1",
+  "installed_files": 12,
+  "backed_up_copies": 24,
+  "targets": {
+    "workspace": {
+      "matched_files": 5356,
+      "differences": [
+        "THIRD_PARTY.md"
+      ],
+      "reviewed_changes_verified": true
+    },
+    "installed": {
+      "matched_files": 5357,
+      "differences": [],
+      "reviewed_changes_verified": true
+    }
+  }
+}

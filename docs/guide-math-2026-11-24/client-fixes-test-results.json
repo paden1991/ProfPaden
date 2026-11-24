@@ -1,0 +1,95 @@
+{
+  "runtime": "Actual Lua 5.1 modules; mocked profession and navigation APIs",
+  "tests": 10,
+  "passed": 10,
+  "results": [
+    {
+      "name": "Opening a profession without its station preserves the learned cheapest route",
+      "passed": true
+    },
+    {
+      "name": "Empty bags and craftable=false affect craft readiness, not leveling or shopping",
+      "passed": true
+    },
+    {
+      "name": "Profession loading events retain cached learned-route data and disable stale craft actions",
+      "passed": true
+    },
+    {
+      "name": "Unsupported salvage recipes remain excluded from both live and cached plans",
+      "passed": true
+    },
+    {
+      "name": "Skill ranges and probabilities use Classic-font-safe text",
+      "passed": true
+    },
+    {
+      "name": "Gilnid and dungeon vendors retain their dungeon and explicitly labeled entrance waypoint",
+      "passed": true
+    },
+    {
+      "name": "Forever NPCs absent from Questie retain Wowhead names and source zones",
+      "passed": true
+    },
+    {
+      "name": "Drop links allow hostile targets while vendor directions retain faction checks",
+      "passed": true
+    },
+    {
+      "name": "Observed trainer and opposing vendor detail text retain recorded locations",
+      "passed": true
+    },
+    {
+      "name": "All recipe-source NPC references audited; unresolved locations explicitly listed",
+      "passed": true,
+      "referenced": 878,
+      "unlocated": [
+        {
+          "id": 417,
+          "name": "Felhunter",
+          "coordinates": 0,
+          "entrances": 0,
+          "locations": [],
+          "source": "QuestieDB Forever",
+          "url": "https://www.wowhead.com/forever/npc=417"
+        },
+        {
+          "id": 1800,
+          "name": "Cold Wraith",
+          "coordinates": 0,
+          "entrances": 0,
+          "locations": [],
+          "source": "QuestieDB Forever",
+          "url": "https://www.wowhead.com/forever/npc=1800"
+        },
+        {
+          "id": 1801,
+          "name": "Blood Wraith",
+          "coordinates": 0,
+          "entrances": 0,
+          "locations": [],
+          "source": "QuestieDB Forever",
+          "url": "https://www.wowhead.com/forever/npc=1801"
+        },
+        {
+          "id": 5224,
+          "name": "Murk Slitherer",
+          "coordinates": 0,
+          "entrances": 0,
+          "locations": [],
+          "source": "QuestieDB Forever",
+          "url": "https://www.wowhead.com/forever/npc=5224"
+        },
+        {
+          "id": 5225,
+          "name": "Murk Spitter",
+          "coordinates": 0,
+          "entrances": 0,
+          "locations": [],
+          "source": "QuestieDB Forever",
+          "url": "https://www.wowhead.com/forever/npc=5225"
+        }
+      ]
+    }
+  ]
+}

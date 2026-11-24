@@ -16,8 +16,9 @@ function P:SourcingRecipes()
         local r=copy(base)
         for _,c in ipairs(self.Catalog[prof] or {}) do if self.SameRecipe(base,c) then for k,v in pairs(c) do if r[k]==nil then r[k]=v end end;break end end
         if r.planBlocked or r.cooldown and r.cooldown>0 then seen[prof..':'..key]=true;return end
+        if r.output~=nil and (type(r.output)~="number" or r.output<1 or r.output>=math.huge or r.output~=math.floor(r.output)) then return end
         if not r.item or r.enchant or r.acquisitionOnly or r.complete==false or not r.mats or #r.mats==0 then return end
-        for _,m in ipairs(r.mats) do if not m.id or not m.count or m.count<=0 then return end end
+        local _,invalid=self:RecipeNeeds(r,1);if invalid then return end
         seen[prof..':'..key]=true;r.profession=prof;r.sourceKey=key
         pool[r.item]=pool[r.item] or {};pool[r.item][#pool[r.item]+1]=r
     end
@@ -64,12 +65,19 @@ function P:SourceNeeds(needs,options)
     end
     local result=blank(options.inventory)
     for _,id in ipairs(keys(needs)) do if needs[id]>0 then merge(result,solve(id,needs[id],result.remaining,options.blocked or {},0)) end end
+    -- Separate conversion branches can consume the same limited vendor stock.
+    -- Quote the combined leaf demand once; never price each branch's stock anew.
+    result.knownCost=0;result.unknown=0
+    for id,count in pairs(result.buy) do if count>0 then
+        local value=quote(id,count)
+        if value then result.knownCost=result.knownCost+value*count else result.unknown=result.unknown+1 end
+    end end
     result.cost=result.unknown==0 and result.knownCost or nil
     return result
 end
 function P:RecipeNeeds(r,n)
     local needs={};local invalid=false
-    for _,m in ipairs(r.mats or {}) do if m.id and m.count and m.count>0 then needs[m.id]=(needs[m.id] or 0)+m.count*n else invalid=true end end
+    for _,m in ipairs(r.mats or {}) do if type(m.id)=="number" and m.id>0 and m.id<math.huge and m.id==math.floor(m.id) and type(m.count)=="number" and m.count>0 and m.count<math.huge and m.count==math.floor(m.count) then needs[m.id]=(needs[m.id] or 0)+m.count*n else invalid=true end end
     return needs,invalid
 end
 function P:SourceRecipe(r,n,options)

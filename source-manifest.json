@@ -1,6 +1,6 @@
 {
   "addon": "ProfPaden",
-  "version": "0.20.40-rc1",
+  "version": "0.20.42-rc1",
   "interface": 16001,
   "files": [
     {
@@ -31685,8 +31685,8 @@
     },
     {
       "path": "AuctionatorBridge.lua",
-      "bytes": 5798,
-      "sha256": "f361524ee16aeb4967634d61f004bbb32633194890c2f784d0eb6576b48b9bf3",
+      "bytes": 5970,
+      "sha256": "e51268fd4c4df8d3b2fad612b436e04c72bb5b7d5a162f8dab5e70a52b659fce",
       "external": false
     },
     {
@@ -31721,20 +31721,20 @@
     },
     {
       "path": "Cheapest.lua",
-      "bytes": 17174,
-      "sha256": "65eb4a9fea56a0783e824fc02746b78020aaa22a4a83ff26c56c1044791bd453",
+      "bytes": 20256,
+      "sha256": "f88502c27b494b105699f7f00e4f80548b48702130e55379643735caf5b2c0b7",
       "external": false
     },
     {
       "path": "Core.lua",
       "bytes": 11582,
-      "sha256": "17a6958f63691769390ab2f3dcc4550e2ef182183f4fdac2c640e4e148612223",
+      "sha256": "d2633b6fc45ac9722acc0f76b532ea93b64acad76eb303015b7611261eb8df99",
       "external": false
     },
     {
       "path": "Costs.lua",
-      "bytes": 8101,
-      "sha256": "030ca45c8f443b51dd4dc617952fa7e22bb2b404c67c0935ce81b45aa79dc040",
+      "bytes": 8614,
+      "sha256": "eece61a5f262b47c494b90542743ed550f7fdf47ceb2ba607d4500f464ec84ce",
       "external": false
     },
     {
@@ -31931,8 +31931,8 @@
     },
     {
       "path": "Details.lua",
-      "bytes": 37131,
-      "sha256": "ff5aa7be09a08bbaa34f66e81263662167773b67b8f7729f4ddab8d19b1ab05c",
+      "bytes": 37377,
+      "sha256": "b2f4645b9eb99b98ad06275a0026166a048474454ca613f18bea6eaffae1a482",
       "external": false
     },
     {
@@ -31991,8 +31991,8 @@
     },
     {
       "path": "MarketRoutes.lua",
-      "bytes": 4433,
-      "sha256": "08d00afd839ba189d4340ae98d6a52af0b4dda978695ba9fa2f081a24cc50c2f",
+      "bytes": 5243,
+      "sha256": "4e0a342fd87505f2775a18c4de5cf50c059b63b452a0ce03901b8d13f8d04b28",
       "external": false
     },
     {
@@ -32021,8 +32021,8 @@
     },
     {
       "path": "MoneyRoutes.lua",
-      "bytes": 10334,
-      "sha256": "04494080f9ca513bf0ccc25fe1876165956b0d40707ba405bc5c1e2c8e745187",
+      "bytes": 10452,
+      "sha256": "379b20dbca9833903bc0bc8332a95c4295c89f7287160e530989570de9a6dcc6",
       "external": false
     },
     {
@@ -32051,14 +32051,14 @@
     },
     {
       "path": "Planner.lua",
-      "bytes": 9130,
-      "sha256": "e9611a8afa1c9967907589261c89453acca68409fa28473a56f50f050db3b336",
+      "bytes": 8053,
+      "sha256": "c9244c3fb8767308a153056d4b7fce494be1504cadbcae9e839cbf1ef0980b38",
       "external": false
     },
     {
       "path": "ProfPaden.toc",
-      "bytes": 1971,
-      "sha256": "0dbe7e171bb5bd8a47182fca12e7f00c47ef3e333742f7f48501783f3ec57b7e",
+      "bytes": 1985,
+      "sha256": "4fad8aca6f523a3b85c8aa6226f9f0129dcbdca34d19b81b0b0f914f86ab15bb",
       "external": false
     },
     {
@@ -32075,8 +32075,8 @@
     },
     {
       "path": "RouteStops.lua",
-      "bytes": 15498,
-      "sha256": "3b6a8bfe03ceef3f879667842275a2561ff3336625c050af9d8c0eab397e4251",
+      "bytes": 15557,
+      "sha256": "19016931cb372a528b51123496f9fa8e3ba7bdfae0f373599617431d42e4dc5e",
       "external": false
     },
     {
@@ -32104,9 +32104,15 @@
       "external": false
     },
     {
+      "path": "SleepTimer.lua",
+      "external": false,
+      "bytes": 12958,
+      "sha256": "b835b236f85f1413471c43e78498cf146d6d92cde922ee01e7a039b82787ac9d"
+    },
+    {
       "path": "Sourcing.lua",
-      "bytes": 5992,
-      "sha256": "1252dafea91e09d099a66965bd2a9a333a6e1c470389c81223b09b1e7ba00a6b",
+      "bytes": 6677,
+      "sha256": "a16b17581868828abcceeca7dcf301c2ce3c24ab2390844e19cdcebcd03bb28e",
       "external": false
     },
     {
@@ -32129,8 +32135,8 @@
     },
     {
       "path": "UI.lua",
-      "bytes": 32830,
-      "sha256": "03809ce3069f06ca85fd9d53499d5d7fd467947def04fb21c560bae206ea4dc1",
+      "bytes": 32923,
+      "sha256": "93347745c4c62c6fe5589694eaa03803c1b7cebb5be9085c77d7b888b3b181c5",
       "external": false
     },
     {

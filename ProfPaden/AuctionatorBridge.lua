@@ -6,7 +6,9 @@ function P:ConnectAuctionator()
     local api=Auctionator and Auctionator.API and Auctionator.API.v1
     if self.auctionatorDBHook or not api or not api.RegisterForDBUpdate then return end
     local ok=pcall(api.RegisterForDBUpdate,self.name,function()
-        P:InvalidatePlan()
+        P:InvalidatePlan();P.auctioneerCache=nil
+        P.shoppingDirty=true;P.shoppingDataRevision=(P.shoppingDataRevision or 0)+1
+        if P.window and P.window:IsShown() then P:Refresh() end
         if P.shoppingWindow and P.shoppingWindow:IsShown() then P:RefreshShopping() end
     end)
     self.auctionatorDBHook=ok
